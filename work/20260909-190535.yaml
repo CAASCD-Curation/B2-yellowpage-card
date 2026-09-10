@@ -1,0 +1,144 @@
+items:
+- short_id: H14g3ZSN
+  seed: |
+    # Narrative
+
+    A fashion ephemera archive platform presenting designer publications, magazines, and lookbooks from 1971-2000. The narrative splits the viewport into two territories: a browsable archive grid on the left (showing book covers with year/designer/type filters) and an editorial Features panel on the right (numbered essays with excerpts). The header holds the site title (all-caps logotype) and navigation between Archive/Features sections. A footer with a book-shaped SVG icon anchors the bottom. The intent is scholarly curation—exposing the "book within fashion" through discoverable artifacts and critical writing.
+
+    # Tech Stack
+
+    Vanilla JS with jQuery for DOM manipulation. Custom CSS with CSS variables for spacing and typography scale. Google Analytics (GTM) present. No framework—hand-rolled archive filtering and grid layout.
+
+    # Layout
+
+    Split-screen architecture: left container (~calc(100% - 375px)) holds the archive; right container (fixed 375px) holds Features. Fixed header spans full width with flex split between left/right inner sections. Archive uses CSS Grid with auto-fill minmax(250px, 1fr) for responsive columns. Sticky filter bar with pill-style tags centered above the grid. Footer is minimal, centered.
+
+    # Typography
+
+    Dual font system: custom display typeface (WOFF2, base64-embedded) for headers—geometric sans with distinctive character shapes; secondary narrow sans (WOFF2) for body text. Scale uses CSS variables: --fs-h1: 36px/--lh-h1: 28px for main headings, --fs-main: 16px/--lh-main: 20px for body, --fs-h6: 12px/--lh-h6: 15px for captions/metadata. All-caps logotype treatment for site title.
+
+    # Color
+
+    Strict monochrome system: #000000 text, #ffffff background, #ababab for secondary/metadata text, #eeeeec for book-cover placeholder backgrounds. Borders use 1px solid black or rgba(0,0,0,0.1) for subtle dividers. No accent colors—content imagery provides all chromatic variation.
+
+    # Imagery
+
+    Archive items display book/magazine covers as object-fit: contain within 1:1 aspect ratio containers with soft drop-shadow (5px 2px 3px rgba(0,0,0,0.25)). Covers span fashion history: Yohji Yamamoto, Comme des Garçons, i-D Magazine, Purple, Raf Simons, Issey Miyake. Features panel shows photographic thumbnails or text-only entries. All images have 8px border-radius.
+
+    # Components
+
+    Filter pills: 1px black border, 8px border-radius, 0 10px padding, 2px 1px margin—toggle to filled black background with white text when active. Search bar: full-width, borderless with only bottom border (1px black), transparent background, placeholder text in black. Archive cards: square aspect ratio, off-white (#eeeeec) backing, centered image with shadow, caption below centered in small type. Header navigation: text links with opacity hover states (0.1 when inactive, 1 on hover).
+
+    # Motion
+
+    Filter panel uses sticky positioning with slide transition (transform, 0.15s cubic-bezier(0.7,0,0.3,1)). Archive items have subtle hover: border transitions from #eeeeec to black. Header title opacity shifts on hover. No parallax or scroll-driven effects—motion is functional, not decorative.
+
+    # Algorithms
+
+    Standard implementation, no special design.
+
+    # Material
+
+    Standard implementation, no special design.
+
+    # Craft
+
+    Custom display typeface embedded as base64 WOFF2—distinctive geometric sans with unique letterforms. CSS variable system for consistent spacing (base 10px multiplied across scale). Book-shaped SVG icon in footer. Filter pills use precise 8px radius matching image corners. Drop shadows on archive images simulate physical book elevation.
+- short_id: AR18LHi5
+  seed: |
+    # Narrative
+
+    Personal landing page for a competitive springboard and platform diver. The narrative flows from hero introduction through stats ticker, discipline showcase, personal bests, competition timeline, and an interactive results card system. The design treats athletic achievement like collectible trading cards — each competition result becomes a tangible artifact with scores, rankings, and dive statistics.
+
+    # Tech Stack
+
+    Vanilla HTML/CSS/JS with Google Fonts (Bebas Neue, Inter, DM Serif Display). No framework dependencies. Custom JavaScript handles video lazy-loading, scroll reveal animations, card filtering, and modal interactions.
+
+    # Layout
+
+    Split-screen hero: navy left panel (text) + full-bleed video right panel. Below: horizontal stat bar, two-column discipline grid, personal bests in 3-column grid, competition timeline with sticky year labels, and a filterable card deck. Footer has minimal contact links. Grid-based with CSS custom properties for consistent spacing.
+
+    # Typography
+
+    **Bebas Neue** (display): massive condensed headlines, hero name at clamp(80px, 11vw, 150px), stat numbers, section labels. **DM Serif Display** (italic): pullquotes, contact headlines, elegant contrast to the geometric sans. **Inter** (body): navigation, body text, card details at 300-600 weights. Tight tracking on labels (0.12em-0.3em), loose on display.
+
+    # Color
+
+    Deep navy (#0f1f3d) dominates — background for hero, stat bar, results sections. Red accent (#d63c2a) for CTAs, active states, dividers, and the surname in the hero. Gold (#f0c040) for scores and rankings. Off-white (#f4f5f7) for sidebar backgrounds. Muted slate (#6b7a99) for secondary text. High contrast white text on navy.
+
+    # Imagery
+
+    Hero features autoplay looped diving video with gradient overlay (left-to-right fade + bottom vignette). Discipline sections use muted video backgrounds with dark gradient overlays. No stock photography — all imagery is athlete-specific action footage. Watermark text (athlete initials) at 26vw, 3% opacity adds texture without competing.
+
+    # Components
+
+    **Dive Cards**: 180px wide trading card format with gold score, event badge, medal rank (gold/silver/bronze circle), 3-stat grid, name bar, and meet details. Red accent divider. **Filter Bar**: pill buttons with active gold state, grouped by view/board/result. **Stat Bar**: horizontal scroll on mobile, large Bebas numbers with micro-labels. **Timeline**: 2-column grid with sticky year labels, hover reveals "view cards" hint.
+
+    # Motion
+
+    Scroll-triggered fade-up (opacity + translateY) with cubic-bezier(0.22, 1, 0.36, 1) easing. Hero load-in staggered animation (0.1s-1.47s delays). Video fade-in on ready (0.8s opacity transition). Card hover: translateY(-4px) lift. Contact item hover: padding-left shift + arrow translateX. Smooth 22s linear marquee ticker. Modal open/close with overlay fade.
+
+    # Algorithms
+
+    Card filtering algorithm with multi-axis state (view mode × board type × result rank). Filter buttons toggle active class and gold background. Cards dynamically shown/hidden based on data attributes. Timeline items link to filtered card views.
+
+    # Material
+
+    Subtle depth through layered gradients — hero uses dual gradient overlay (horizontal + vertical). Card borders at 0.5px with low-opacity white. Red 3px border accent on stat bar top. No glassmorphism, no heavy shadows — flat with color blocking.
+
+    # Craft
+
+    Red accent line (2px) as section divider in cards and modals. Medal ranking system: gold (#f0c040), silver (#b0b8c8), bronze (#cd7f32) circles. Consistent 2.5rem section padding. Mobile: hero becomes full-bleed video with text overlay via gradient. Scrollbar hidden on stat bar with gradient fade indicators.
+
+    # Coherence
+
+    The trading card metaphor unifies the entire experience — from stat bar numbers to competition timeline to the filterable deck. Navy + red + gold creates an athletic, competitive atmosphere without feeling corporate. Typography hierarchy is extreme: massive display type for impact, tiny tracked labels for information density.
+- short_id: phImObsG
+  seed: |
+    # Narrative
+
+    A product landing page for a physical screen-time management device — a stainless steel disc that blocks apps when tapped on a phone. The narrative flows from problem (screen addiction) to solution (the device + companion app), through social proof (testimonials), to technical details (specs grid), and ends with a product hero shot. The tone is calm, intentional, and premium — positioning the device as a beautiful object rather than a tech gadget.
+
+    # Tech Stack
+
+    Next.js with React, Tailwind CSS for styling, GSAP for scroll-driven animations. Custom CSS variables for theming (`--ease-custom`, `--container-main`, `--text-h2`). Self-hosted Suisse Intl font family (5 weights: Book, Book Italic, Medium, Semibold, Bold).
+
+    # Layout
+
+    Full-bleed hero with centered product video, transitioning to alternating white and dark sections. Content is contained within `max-w-[var(--container-main)]` (~1200px). Asymmetric two-column layouts for feature explanations (text left, phone mockup right). Grid-based stats section with 1px hairline borders between cells. Generous vertical padding (`py-24 sm:py-32`).
+
+    # Typography
+
+    Suisse Intl family throughout — Book for body, Medium/Semibold for headings. Tight tracking on headlines (`tracking-[-0.015em]`). Fluid type scaling via CSS variables (`--text-h2`). High contrast between heading weight and body weight creates clear hierarchy. No serif companion; purely neo-grotesque sans system.
+
+    # Color
+
+    Semantic color naming: `ink` (text, #0a0a0a), `paper` (background, #fafafa), `line` (borders, #e5e5e5). Dark sections use `ink` background with `paper` text. Subtle ink variations: `ink-3` for muted text. No accent colors — purely monochrome with material photography providing color interest.
+
+    # Imagery
+
+    High-quality product photography: brushed stainless steel disc on gradient backgrounds, lifestyle shots of the device in use. iPhone mockups showing the companion app interface (minimal white UI with circular "Block" button). 3D renders of the hardware. Small competitor comparison images (competing products). All imagery is custom, no stock photos.
+
+    # Components
+
+    Pill-shaped buttons with rounded-full and subtle borders. Segmented progress indicators for testimonials (animated dot progress). Grid cells with 1px hairline separators. Floating photo-swap cursor follower (hidden on mobile). Minimal form inputs in footer.
+
+    # Motion
+
+    Scroll-triggered entrance animations: elements start with `opacity-0 blur-[10px] translate-y-3` and animate to visible on viewport entry. Custom easing via `--ease-custom` (cubic-bezier). Duration 700ms for reveals. Cursor-tracking photo swap on desktop (follows mouse with 200ms transition). Dot progress animation for testimonial carousel (6000ms linear).
+
+    # Algorithms
+
+    Standard implementation, no special design.
+
+    # Material
+
+    Matte brushed metal texture on the product itself. Soft shadows on floating elements. No glassmorphism or heavy gradients — surfaces are flat with only hairline borders defining edges.
+
+    # Craft
+
+    Custom scrollbar styling, focus states preserved for accessibility. Smooth scroll behavior (`data-scroll-behavior="smooth"`). Reduced motion support (`motion-reduce:transition-none`). Photo-swap element is `pointer-events-none` and `aria-hidden` for accessibility. Rounded-2xl on images and cards for consistent corner radius language.
+
+<system-reminder>
+The risk is not borrowing too little — it is subconsciously simplifying what you borrowed. Cutting corners is forbidden in any form: never replace a reference's technique, material, structure, or motion with a cheaper version of your own. Downgrades follow repeatable patterns (illustrative, not exhaustive): input-driven motion (scroll/pointer/time) → one-shot keyframes or static states; shape-language transformation (morph/clip/mask) → the cheapest properties (scale/translate/opacity); asymmetric layout rhythm (irregular grids, editorial composition) → uniform columns and full-width stacks; layered material (blend/texture/depth) → flat single-layer fills; bespoke vessels (framing devices, illustrated components) → default cards and pills; choreographed sequences (staged, multi-step, gated) → single triggers or fakes; typographic systems (pairing/scale/font features) → swapping the font-family; styled components → library-default skins. If your version is simpler than the reference's, that is a downgrade. Implement at the reference's fidelity.
+</system-reminder>
