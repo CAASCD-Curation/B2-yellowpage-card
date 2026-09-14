@@ -5,7 +5,7 @@ import { defineConfig } from 'vite'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
-// Plain-JS mirror of vite.config.ts so the legacy .js file no longer shadows the TS config.
+// https://vite.dev/config/
 export default defineConfig({
   base: './',
   plugins: [vue()],
