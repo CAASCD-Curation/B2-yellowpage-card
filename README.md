@@ -1,7 +1,7 @@
-# 黄页经典艺术档案 · 表格图文交互卡
+# 黄页经典艺术档案 · Yellow Pages Archive
 
 > 一份围绕「黄页」主题的内容策展档案：1883 年的黄纸传说，到数字时代的消亡与再生。
-> 200 条档案条目（4 大分类 × 各 50 条），以表格 + 图文卡片的形式交互呈现。
+> 合并站点双体验：**五感档案体验**（地球开场 + 老虎机瀑布流 + 五城地图）与**表格图文交互卡**（200 条档案 × 4 大分类）。
 
 ## 项目简介
 
@@ -18,6 +18,17 @@
 
 ## 功能特性
 
+### 五感档案体验（/ · /main）
+
+- 🌍 **地球开场动画**：线稿地球 XYZ 三轴拖拽 / 滚轮旋转 + 缓慢自转，盖印式打字机标题登场
+- 🎰 **老虎机瀑布流**：衣食住行四列滚动卡片，点击 DRAW 定格抽取四张卡片
+- 🃏 **卡片交互**：单击放大阅读配图与标签，抽取结果汇入右侧 YOUR DRAW 工作台并自动拓展
+- 🗺️ **五城地图**：点阵大陆 + 城市划线连接，点击城市在下方导栏展开对应卡片分区
+- 🔍 **搜索联想**：主界面标题下按名称 / 摘要 / 年代 / 标签检索
+- 🔊 **翻页音效**：界面跳转与抽卡时的翻书声
+
+### 档案索引（/archive 子路由）
+
 - 📇 **档案卡片**：每条目一张图文卡片，含配图画廊与详情弹窗
 - 🗂️ **四大分类标签页**：经典艺术档案 / 文学意象 / 社会素材 / 形式灵感
 - 🏷️ **标签筛选**：按媒介、主题、地域、年代等标签维度过滤条目
@@ -25,20 +36,35 @@
 - 📊 **统计面板**：按类型、年代、状态汇总档案概况
 - 🖼️ **图片画廊**：支持多图切换浏览
 
+## 站点路由
+
+| 路由 | 内容 |
+| --- | --- |
+| `/` | 五感档案体验 · 地球开场（WHAT ARE YOU LOOKING FOR?） |
+| `/main` | 五感主界面 · 四列老虎机瀑布流 + DRAW 工作台 + 五城地图 |
+| `/archive` | 表格图文交互卡 · 200 条档案 × 4 分类索引 |
+
+两个子站双向互通：/main 右上角「ARCHIVE INDEX 档案索引 →」按钮，/archive 页头「FIVE SENSES ARCHIVE」入口块。
+
 ## 目录结构
 
 ```
 B2-yellowpage-card/
-├── yellow-pages-vue/       # Vue 3 + Vite + Tailwind 新站（路由：/ 五感首页 · /archive 档案索引）
+├── yellow-pages-vue/          # Vue 3 + Vite + TS + Tailwind 合并站点
 │   ├── src/
-│   │   ├── pages/          # Home.vue（五感瀑布流 + 城市地图）/ Archive.vue（档案交互卡）
-│   │   ├── data/           # archive.json（五感数据层）/ mapdots.json（大陆点阵）
-│   │   ├── components/     # 新站组件 + 档案卡旧组件（ArchiveCard/DetailModal 等）
-│   │   ├── styles/archive.css  # 档案页作用域样式（由 scripts/scope-css.py 生成）
-│   │   └── lib/archive.ts  # 数据类型与派生数据
-│   ├── scripts/            # build-data.py（生成数据层）/ scope-css.py（样式作用域化）
-│   ├── public/             # data.json / images/ / _redirects（SPA 回退）
-│   └── dist/               # 构建产物
+│   │   ├── main.ts            # 路由：/ 地球入口 · /main 五感主界面 · /archive 档案索引
+│   │   ├── five-senses/       # 五感档案体验
+│   │   │   ├── pages/         # Entry.vue（地球开场）/ Home.vue（瀑布流 + 地图）
+│   │   │   ├── components/    # Globe / CategoryColumn / FlipCard / DrawSidebar / ClassicMap 等
+│   │   │   ├── data/          # cards.json（衣食住行四列档案）/ mapdots.json（大陆点阵）
+│   │   │   └── lib/           # cards.ts（数据层）/ sound.ts（翻页音效）
+│   │   └── table/             # 表格图文交互卡（/archive 子路由）
+│   │       ├── TableHome.vue  # 档案索引主页
+│   │       ├── components/    # ArchiveCard / DetailModal / FilterBar / SiteHeader 等
+│   │       ├── constants.js
+│   │       └── styles/main.css
+│   ├── public/                # images/（档案图 + 五感素材 + xl/ 高清图）/ audio/ / fonts/ / data.json / _redirects
+│   └── dist/                  # 构建产物（gitignore）
 └── README.md
 ```
 
@@ -50,6 +76,15 @@ npm install
 npm run dev      # 开发预览
 npm run build    # 构建到 dist/
 ```
+
+## 线上部署（Cloudflare Pages 直传）
+
+```bash
+npm run build
+npx wrangler pages deploy dist --project-name=yellow-pages-archive
+```
+
+线上地址：<https://yellow-pages-archive-aiw.pages.dev>
 
 ## 数据格式
 
