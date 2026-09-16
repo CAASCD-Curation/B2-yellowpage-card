@@ -1,3 +1,5 @@
 node_modules
 dist
-dev-verify.log
+*.log
+shot*.png
+dom-*.html

@@ -40,6 +40,8 @@
     --yp-yellow: #ffec00;
     --yp-ink: #121212;
     --yp-paper: #f2efe6;
+    --yp-stamp: #4a6fa5;
+    --yp-gray: #8a8677;
   }
 }
 
@@ -59,6 +61,113 @@
   .font-en {
     font-family: 'Bahnschrift', 'DIN Alternate', 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
     letter-spacing: 0.02em;
+  }
+  /* 标题/标签字体（改回原网站：Bahnschrift 窄体粗排，保留打字机登场动效） */
+  .font-type {
+    font-family: 'Bahnschrift', 'DIN Alternate', 'Franklin Gothic Medium', 'Arial Narrow', 'ChillDINGothic', sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+  }
+  /* 打字机闪烁光标 */
+  .yp-caret {
+    display: inline-block;
+    width: 0.55em;
+    height: 1em;
+    margin-left: 2px;
+    background: var(--yp-ink);
+    vertical-align: -0.12em;
+    animation: yp-blink 0.9s steps(2) infinite;
+  }
+  /* 原网站纸面（浅色 + 极轻纹理） */
+  .yp-aged-paper {
+    background-color: var(--yp-paper);
+    background-image: radial-gradient(rgba(18, 18, 18, 0.045) 1px, transparent 1px);
+    background-size: 22px 22px;
+  }
+  /* 半调网点渐隐（地图边缘 vignette） */
+  .yp-halftone-vignette {
+    -webkit-mask-image: radial-gradient(ellipse 92% 88% at 50% 50%, black 55%, transparent 100%);
+    mask-image: radial-gradient(ellipse 92% 88% at 50% 50%, black 55%, transparent 100%);
+  }
+  /* 卡片翻转（无黑边，DESIGN §5.3） */
+  .yp-flip {
+    perspective: 1200px;
+  }
+  .yp-flip-inner {
+    transform-style: preserve-3d;
+    transition: transform 0.5s cubic-bezier(0.2, 0.8, 0.3, 1);
+  }
+  .yp-flip.flipped .yp-flip-inner {
+    transform: rotateY(180deg);
+  }
+  .yp-flip-face {
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+  }
+  .yp-flip-back {
+    transform: rotateY(180deg);
+  }
+  /* 滚筒停定回弹 */
+  @keyframes yp-reel-stop {
+    0% {
+      transform: translateY(-8px);
+      filter: blur(3px);
+    }
+    60% {
+      transform: translateY(3px);
+      filter: blur(0);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+  .yp-reel-stop {
+    animation: yp-reel-stop 0.3s ease-out;
+  }
+  /* 落指波纹 */
+  @keyframes yp-ripple {
+    0% {
+      transform: translate(-50%, -50%) scale(0.15);
+      opacity: 0.9;
+    }
+    100% {
+      transform: translate(-50%, -50%) scale(1);
+      opacity: 0;
+    }
+  }
+  .yp-ripple {
+    animation: yp-ripple 1s ease-out forwards;
+  }
+  /* 手指行走步进 */
+  @keyframes yp-step {
+    0%,
+    100% {
+      transform: translateY(0) rotate(-4deg);
+    }
+    50% {
+      transform: translateY(-6px) rotate(4deg);
+    }
+  }
+  .yp-step {
+    animation: yp-step 0.4s ease-in-out infinite;
+  }
+  /* 盖印式淡入 */
+  @keyframes yp-stamp {
+    0% {
+      transform: scale(1.6) rotate(-8deg);
+      opacity: 0;
+    }
+    60% {
+      transform: scale(0.95) rotate(1deg);
+      opacity: 1;
+    }
+    100% {
+      transform: scale(1) rotate(0);
+      opacity: 1;
+    }
+  }
+  .yp-stamp {
+    animation: yp-stamp 0.45s cubic-bezier(0.2, 0.8, 0.3, 1) both;
   }
 }
 
@@ -159,6 +268,44 @@
 }
 .yp-pop {
   animation: yp-pop 0.25s ease-out;
+}
+
+/* 放大阅读覆盖层登场 */
+@keyframes yp-overlay-in {
+  from {
+    transform: scale(0.72) translateY(26px);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1) translateY(0);
+    opacity: 1;
+  }
+}
+.yp-overlay-in {
+  animation: yp-overlay-in 0.32s cubic-bezier(0.2, 0.8, 0.3, 1) both;
+}
+
+/* 页面级衔接：进入主界面淡入上移 */
+@keyframes yp-page-in {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.yp-page-in {
+  animation: yp-page-in 0.45s cubic-bezier(0.2, 0.8, 0.3, 1) both;
+}
+/* 入口页离场 */
+.yp-page-out {
+  opacity: 0;
+  transform: translateY(-10px) scale(0.995);
+  transition:
+    opacity 0.38s ease,
+    transform 0.38s ease;
 }
 
 @keyframes yp-spin-slow {
