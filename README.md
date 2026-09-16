@@ -28,15 +28,7 @@
 ## 目录结构
 
 ```
-Kimi_Agent_表格图文交互卡/
-├── app/                    # 纯前端单页应用（零依赖，直接打开即用）
-│   ├── index.html          # 交互卡片页面入口
-│   ├── data.json           # 档案数据（4 分类 × 50 条目）
-│   └── images/             # 档案配图（image1.png ~ image141+）
-├── work/                   # 构建过程产物
-│   ├── parsed.json         # 解析中间数据
-│   ├── drawing*.json       # 数据快照
-│   └── shot*.png           # 页面截图
+B2-yellowpage-card/
 ├── yellow-pages-vue/       # Vue 3 + Vite + Tailwind 新站（路由：/ 五感首页 · /archive 档案索引）
 │   ├── src/
 │   │   ├── pages/          # Home.vue（五感瀑布流 + 城市地图）/ Archive.vue（档案交互卡）
@@ -52,12 +44,6 @@ Kimi_Agent_表格图文交互卡/
 
 ## 快速开始
 
-### 方式一：直接打开（推荐）
-
-`app/index.html` 为零依赖单文件应用，双击或拖入浏览器即可使用。
-
-### 方式二：Vue 版本
-
 ```bash
 cd yellow-pages-vue
 npm install
@@ -67,7 +53,7 @@ npm run build    # 构建到 dist/
 
 ## 数据格式
 
-`app/data.json` 顶层按分类组织，每个分类含 `subtitle` 与 `entries` 数组：
+`yellow-pages-vue/public/data.json` 顶层按分类组织，每个分类含 `subtitle` 与 `entries` 数组：
 
 ```json
 {
@@ -93,7 +79,7 @@ npm run build    # 构建到 dist/
 }
 ```
 
-新增条目：在 `app/data.json` 对应分类的 `entries` 中追加对象，并将配图放入 `app/images/` 后在 `images` 字段引用文件名即可。
+新增条目：在 `yellow-pages-vue/public/data.json` 对应分类的 `entries` 中追加对象，并将配图放入 `yellow-pages-vue/public/images/` 后在 `images` 字段引用文件名即可。
 
 ## 档案总目
 
