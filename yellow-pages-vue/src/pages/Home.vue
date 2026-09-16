@@ -54,6 +54,14 @@ const onMapSelect = (k: string | null) => {
 
 <template>
   <div class="min-h-screen">
+    <!-- 通往档案索引子路由 -->
+    <RouterLink
+      to="/archive"
+      class="yp-label fixed right-4 top-4 z-50 border-2 border-[var(--yp-ink)] bg-[var(--yp-yellow)] px-3 py-1.5 text-[10px] font-bold tracking-[0.15em] hover:bg-[var(--yp-ink)] hover:text-[var(--yp-yellow)]"
+    >
+      ARCHIVE INDEX · 档案索引 ↗
+    </RouterLink>
+
     <!-- ===== HERO · 极简标题（无页眉导航） ===== -->
     <header class="border-b-[1.5px] border-[var(--yp-ink)]">
       <div class="mx-auto flex max-w-7xl flex-col items-center px-4 pb-12 pt-16 text-center">

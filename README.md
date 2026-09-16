@@ -37,8 +37,15 @@ Kimi_Agent_表格图文交互卡/
 │   ├── parsed.json         # 解析中间数据
 │   ├── drawing*.json       # 数据快照
 │   └── shot*.png           # 页面截图
-├── yellow-pages-vue/       # Vue 3 + Vite 重构版本
-│   ├── src/                # Vue 源码（App.vue / components / styles）
+├── yellow-pages-vue/       # Vue 3 + Vite + Tailwind 新站（路由：/ 五感首页 · /archive 档案索引）
+│   ├── src/
+│   │   ├── pages/          # Home.vue（五感瀑布流 + 城市地图）/ Archive.vue（档案交互卡）
+│   │   ├── data/           # archive.json（五感数据层）/ mapdots.json（大陆点阵）
+│   │   ├── components/     # 新站组件 + 档案卡旧组件（ArchiveCard/DetailModal 等）
+│   │   ├── styles/archive.css  # 档案页作用域样式（由 scripts/scope-css.py 生成）
+│   │   └── lib/archive.ts  # 数据类型与派生数据
+│   ├── scripts/            # build-data.py（生成数据层）/ scope-css.py（样式作用域化）
+│   ├── public/             # data.json / images/ / _redirects（SPA 回退）
 │   └── dist/               # 构建产物
 └── README.md
 ```

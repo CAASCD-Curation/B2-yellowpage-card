@@ -1,6 +1,6 @@
 <script setup>
 import { computed } from 'vue'
-import { statusClass } from '../constants'
+import { statusClass, assetUrl } from '../constants'
 
 const props = defineProps({
   entry: { type: Object, required: true },
@@ -16,7 +16,7 @@ const chips = computed(() => props.entry.tagList.slice(0, 2))
     <div class="frame">
       <img
         v-if="entry.images.length"
-        :src="`images/${entry.images[0]}`"
+        :src="assetUrl(`images/${entry.images[0]}`)"
         :alt="entry.name"
         loading="lazy"
       />

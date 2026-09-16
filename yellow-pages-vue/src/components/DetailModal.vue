@@ -1,6 +1,6 @@
 <script setup>
 import { computed } from 'vue'
-import { statusClass } from '../constants'
+import { statusClass, assetUrl } from '../constants'
 
 const props = defineProps({
   entry: { type: Object, default: null },
@@ -12,7 +12,7 @@ const emit = defineEmits(['close', 'step', 'goto', 'gal'])
 const prefix = computed(() => props.entry?.id.split('-')[0] || '')
 const curImg = computed(() =>
   props.entry && props.entry.images.length
-    ? `images/${props.entry.images[props.galIdx]}`
+    ? assetUrl(`images/${props.entry.images[props.galIdx]}`)
     : ''
 )
 const curIdx = computed(() => (props.entry ? props.all.indexOf(props.entry) : -1))

@@ -40,7 +40,7 @@ export interface ArchiveData {
 export const archive = raw as unknown as ArchiveData
 export const mapDots = (dotsRaw as unknown as { dots: [number, number][] }).dots
 
-export const imgUrl = (f: string) => `/images/${f}`
+export const imgUrl = (f: string) => `${import.meta.env.BASE_URL}images/${f}`
 
 export const SENSES = ['视觉', '听觉', '嗅觉', '触觉', '味觉'] as const
 

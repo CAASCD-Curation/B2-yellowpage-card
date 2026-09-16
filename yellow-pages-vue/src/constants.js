@@ -27,8 +27,11 @@ export function statusClass(s) {
   return 'st-todo'
 }
 
+/** 静态资源路径（兼容 base './' 的子路径部署） */
+export const assetUrl = (p) => `${import.meta.env.BASE_URL}${p}`
+
 export async function loadData() {
-  const res = await fetch('/data.json')
+  const res = await fetch(assetUrl('data.json'))
   if (!res.ok) throw new Error('data.json 加载失败')
   const data = await res.json()
   const all = []
