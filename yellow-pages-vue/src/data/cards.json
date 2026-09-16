@@ -1,0 +1,8882 @@
+{
+ "cards": [
+  {
+   "id": "SH-ART-11",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1918",
+   "title": "《上海商业名录》内页与广告页书影",
+   "summary": "文汇网文章配发初版内页及广告页图片：竖排直行的类目版式、企业条目与广告混排；时光图书馆藏有电子版合集（141.92MB，png格式）。",
+   "detail": "文汇网/时光图书馆（atimebook.com）｜原书为直行排版（张元济日记1918-02-16『改直行』），是中国黄页视觉的源头实物。",
+   "sourceRef": {
+    "publisher": "文汇网/时光图书馆",
+    "url": "https://wenhui.whb.cn/third/jinri/201905/10/261569.html"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "广告版式",
+    "region": "中国·上海",
+    "era": "1900-1945",
+    "theme": "起源"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/SH-ART-11-1.jpg"
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2122,
+    "lng": 121.6722,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-ART-01",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1987",
+   "title": "1987版《上海黄页分类电话簿（简缩本）》封面",
+   "summary": "白底绿黄麦穗图案，书题『上海黄页分类电话簿（简缩本）』，广告语『购物的指南 推销的益友／信手翻黄页 相见犹未晚』，16开152页。",
+   "detail": "旧书市场/本档案images｜上海最早的黄页电话本实物，孔网标价158元。",
+   "sourceRef": {
+    "publisher": "孔夫子旧书网在售书影（本档案已下载）",
+    "url": "https://book.kongfz.com/234114/3667024980/"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "封面",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "企业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/SH-ART-01-1.jpg",
+    "extra": [
+     "xl/SH-ART-01-2.jpg",
+     "xl/SH-ART-01-3.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2602,
+    "lng": 121.465,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-ART-02",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1987",
+   "title": "1987版『广告刊户索引』内页",
+   "summary": "双栏密排的广告客户名称—页码索引页，黄纸单色印刷。",
+   "detail": "旧书市场/本档案images｜黄页『号码+广告』商业模式的直观证据。",
+   "sourceRef": {
+    "publisher": "孔夫子旧书网在售书影（本档案已下载）",
+    "url": "https://book.kongfz.com/234114/3667024980/"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "信息架构",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "版面经济"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/SH-ART-02-1.jpg"
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.3224,
+    "lng": 121.4666,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-ART-03",
+   "source": "shanghai",
+   "category": "transport",
+   "year": "1987",
+   "title": "1987版永久自行车整版彩页广告",
+   "summary": "红衣模特与永久自行车产品照整版彩页，配上海自行车公司前言页，文中可见『二十三万册』发行规模表述。",
+   "detail": "旧书市场/本档案images｜改革开放初期民族品牌在黄页上的典型投放。",
+   "sourceRef": {
+    "publisher": "孔夫子旧书网在售书影（本档案已下载）",
+    "url": "https://book.kongfz.com/234114/3667024980/"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "广告版式",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "广告运动"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/SH-ART-03-1.jpg",
+    "extra": [
+     "xl/SH-ART-03-2.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2556,
+    "lng": 121.5344,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-ART-04",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2000",
+   "title": "2000版《上海大黄页》封底广告（德力西）",
+   "summary": "中国·德力西集团公司/上海德力西集团整版封底，列低压电器等产品与ISO、CE、PICC等认证标志。",
+   "detail": "旧书市场/本档案images｜鼎盛时期黄页成为民营企业品牌背书载体。",
+   "sourceRef": {
+    "publisher": "孔夫子旧书网在售书影（本档案已下载）",
+    "url": "https://book.kongfz.com/528013/5290439864/"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "广告版式",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "企业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/SH-ART-04-1.jpg",
+    "extra": [
+     "xl/SH-ART-04-2.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2962,
+    "lng": 121.4641,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-ART-05",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2000",
+   "title": "2000版跨页广告（苏州东山宾馆）",
+   "summary": "太湖风景跨页大彩版，手写体英文广告语，版面质感接近旅游杂志。",
+   "detail": "旧书市场/本档案images｜黄页广告已突破上海一地，覆盖长三角。",
+   "sourceRef": {
+    "publisher": "孔夫子旧书网在售书影（本档案已下载）",
+    "url": "https://book.kongfz.com/528013/5290439864/"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "广告版式",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "广告运动"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/SH-ART-05-1.jpg"
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2788,
+    "lng": 121.407,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-ART-06",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2000",
+   "title": "2000版内页整版广告（宁波东亚不锈钢伸缩门）",
+   "summary": "工程项目图文整版广告：公司办公楼、厂区、客户订做产品多图排布。",
+   "detail": "旧书市场/本档案images｜工业品企业在黄页上的标准投放样式。",
+   "sourceRef": {
+    "publisher": "孔夫子旧书网在售书影（本档案已下载）",
+    "url": "https://book.kongfz.com/528013/5290439864/"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "广告版式",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "广告运动"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/SH-ART-06-1.jpg"
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.3126,
+    "lng": 121.4647,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-ART-08",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2005",
+   "title": "联通黄页《上海制造》细分号簿",
+   "summary": "2005年上海工博会期间推出，覆盖上海及苏州、昆山、宁波、无锡等地工业园区的制造业黄页。",
+   "detail": "新闻报道｜细分行业主题号簿的尝试，实物尚未采集。",
+   "sourceRef": {
+    "publisher": "新浪科技",
+    "url": "https://tech.sina.com.cn/t/2005-11-08/0904759383.shtml"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "广告运动",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "转型"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": "xl/SH-ART-08-1.jpg",
+    "extra": [
+     "xl/SH-ART-08-2.jpg",
+     "xl/SH-ART-08-3.jpg",
+     "xl/SH-ART-08-4.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2104,
+    "lng": 121.6408,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-ART-10",
+   "source": "shanghai",
+   "category": "transport",
+   "year": "2018",
+   "title": "弄堂口传呼电话亭作为城市视觉遗存",
+   "summary": "过街楼下两三平方米的电话间、搁板上的几部电话机、『公用电话承办证』，成为2010年代城市记忆类影像的常用题材。",
+   "detail": "媒体影像｜浦东大道2511弄传呼亭2018年成为『网红』，是黄页时代末梢的市民空间标本。",
+   "sourceRef": {
+    "publisher": "周到上海/搜狐『上海记忆』",
+    "url": "http://static.zhoudaosh.com/files/cnews/2018/20180713/2838B282D5ABF7C08A4BA3672CC26030EE11152D957CF2BA126589E781140DBB/2.html"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "民俗"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/SH-ART-10-1.jpg",
+    "extra": [
+     "xl/SH-ART-10-2.jpg",
+     "xl/SH-ART-10-3.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.3378,
+    "lng": 121.426,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-ART-09",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2024",
+   "title": "上海电信博物馆号簿与电信史实物展陈",
+   "summary": "展陈面积约三千平方米，分五个部分呈现1871年第一条电报水线至今的通信史，含早期电话号簿等实物，位于延安东路34号（原大北电报局旧址）。",
+   "detail": "博物馆（待实地采集）｜黄页/号簿类实物的权威馆藏点，采集前须预约核实展品清单。",
+   "sourceRef": {
+    "publisher": "上海市经济和信息化委员会",
+    "url": "https://www.sheitc.sh.gov.cn/djjcdt/20240827/e6af8d5267b245469a35cdc8e055425f.html"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "前史"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": "xl/SH-ART-09-1.jpg",
+    "extra": [
+     "xl/SH-ART-09-2.jpg",
+     "xl/SH-ART-09-3.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.3342,
+    "lng": 121.5341,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIT-01",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1987",
+   "title": "『购物的指南，推销的益友』",
+   "summary": "1987年版《上海黄页分类电话簿》封面广告语，一句话定义黄页的功能定位。",
+   "detail": "与LIT-02构成首版封面广告语组。",
+   "sourceRef": {
+    "publisher": "孔夫子旧书网书影",
+    "url": "https://book.kongfz.com/234114/3667024980/"
+   },
+   "tags": {
+    "media": "文",
+    "form": "俗语",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "语言民俗"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/SH-LIT-01-1.jpg"
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.301,
+    "lng": 121.456,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIT-02",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1987",
+   "title": "『信手翻黄页，相见犹未晚』",
+   "summary": "1987年版封面第二句广告语，以诗意语言描述查号动作。",
+   "detail": "兼具功能说明与文学性的文案范本。",
+   "sourceRef": {
+    "publisher": "孔夫子旧书网书影",
+    "url": "https://book.kongfz.com/234114/3667024980/"
+   },
+   "tags": {
+    "media": "文",
+    "form": "俗语",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "语言民俗"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/SH-LIT-02-1.jpg"
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.1826,
+    "lng": 121.4216,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIT-03",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2004",
+   "title": "『万事找黄页』与『第五媒体』",
+   "summary": "2004年报道引述『万事找黄页』已成商务习惯，黄页被称为与电视、报纸、广播、网络并驾齐驱的『第五媒体』。",
+   "detail": "黄页媒介地位的最高光表述。",
+   "sourceRef": {
+    "publisher": "人民日报华南版/新浪科技",
+    "url": "https://news.sina.com.cn/o/2004-08-12/01463374936s.shtml"
+   },
+   "tags": {
+    "media": "文",
+    "form": "俗语",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "语言民俗"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.1836,
+    "lng": 121.5128,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIT-04",
+   "source": "shanghai",
+   "category": "clothing",
+   "year": "1995-1999",
+   "title": "马云『中国黄页』创业叙事",
+   "summary": "1995年杭州教师马云创办中国黄页网站，后发展为阿里巴巴；常被误与上海电信黄页混为一谈。",
+   "detail": "互联网黄页与电话号簿黄页是两条平行脉络，档案中宜并置对照。",
+   "sourceRef": {
+    "publisher": "半拿铁播客/百度百科",
+    "url": "https://www.xiaoyuzhoufm.com/episode/68511de84abe6e29cb90e684"
+   },
+   "tags": {
+    "media": "数字",
+    "form": "方法",
+    "region": "中国",
+    "era": "1980-1999",
+    "theme": "数字化"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.3086,
+    "lng": 121.4949,
+    "place": "中国"
+   }
+  },
+  {
+   "id": "SH-LIT-05",
+   "source": "shanghai",
+   "category": "food",
+   "year": "2024",
+   "title": "《繁花》语境下的老上海电话黄页",
+   "summary": "2024年腾讯新闻文章借电视剧《繁花》热度，从1947年黄页考据老上海各局局号分配与海上名人电话。",
+   "detail": "黄页作为城市怀旧叙事装置的典型文本。",
+   "sourceRef": {
+    "publisher": "腾讯新闻",
+    "url": "https://news.qq.com/rain/a/20240110A05UPW00"
+   },
+   "tags": {
+    "media": "文",
+    "form": "文学",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "文学"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.3194,
+    "lng": 121.4862,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIT-06",
+   "source": "shanghai",
+   "category": "food",
+   "year": "2017",
+   "title": "『再见，黄页』媒介怀旧文本",
+   "summary": "虎嗅2017年文章回顾黄页百年兴衰：『手指划着黄页点披萨的人，已经老去』。",
+   "detail": "纸媒落幕时代的代表性怀旧书写。",
+   "sourceRef": {
+    "publisher": "虎嗅网",
+    "url": "https://www.huxiu.com/article/213824.html"
+   },
+   "tags": {
+    "media": "文",
+    "form": "文学",
+    "region": "全球",
+    "era": "2000-今",
+    "theme": "转型"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2076,
+    "lng": 121.5271,
+    "place": "全球"
+   }
+  },
+  {
+   "id": "SH-LIT-07",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2024",
+   "title": "《繁花》剧中的七位数电话号码",
+   "summary": "电视剧《繁花》以上海1993年为背景，烟纸店窗上贴的公用电话号码是七位数——1957年六位、1989年升七位、1995年升八位，年代细节被赞『非常到位』。",
+   "detail": "电话号码位数成为影视年代质感的考据点。",
+   "sourceRef": {
+    "publisher": "网易新闻（2024-01-11）",
+    "url": "https://www.163.com/dy/article/IO6UEJRT052384RH.html"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "文学",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "文学"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2532,
+    "lng": 121.5008,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIT-08",
+   "source": "shanghai",
+   "category": "clothing",
+   "year": "2000",
+   "title": "Coldplay《Yellow》与黄页电话号码本",
+   "summary": "Chris Martin自述写《Yellow》歌词时手边放着一本黄页电话号码本，这首歌成为乐队成名曲。",
+   "detail": "黄页作为创作触媒进入全球流行音乐史，播客转述待一手访谈核实。",
+   "sourceRef": {
+    "publisher": "小宇宙播客『散场通道』",
+    "url": "https://www.xiaoyuzhoufm.com/episode/60e58949073b743020bb2781"
+   },
+   "tags": {
+    "media": "声音",
+    "form": "文学",
+    "region": "全球",
+    "era": "2000-今",
+    "theme": "文学"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.1976,
+    "lng": 121.4227,
+    "place": "全球"
+   }
+  },
+  {
+   "id": "SH-LIT-09",
+   "source": "shanghai",
+   "category": "transport",
+   "year": "2017",
+   "title": "『15号两楼王家姆妈，有电话！』",
+   "summary": "传呼电话亭叫人的呼喊声，被反复书写为一代上海人的弄堂记忆原声。",
+   "detail": "声音记忆转化为文字意象的典型句式。",
+   "sourceRef": {
+    "publisher": "搜狐『上海记忆 弄堂口的电话亭』",
+    "url": "https://www.sohu.com/a/195447674_708759"
+   },
+   "tags": {
+    "media": "文",
+    "form": "俗语",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "语言民俗"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.1688,
+    "lng": 121.5061,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIT-10",
+   "source": "shanghai",
+   "category": "transport",
+   "year": "2010s",
+   "title": "牛犇的传呼电话记忆",
+   "summary": "老一辈艺术家牛犇回忆：上影厂有什么通告，都是通过弄堂口烟杂店老大娘的传呼电话传递给他的。",
+   "detail": "名人与传呼电话的口述史互证。",
+   "sourceRef": {
+    "publisher": "IT时报采访/百度百科电话传呼词条",
+    "url": "https://baike.baidu.com/item/%E7%94%B5%E8%AF%9D%E4%BC%A0%E5%91%BC/3736469"
+   },
+   "tags": {
+    "media": "文",
+    "form": "文学",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "文学"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.303,
+    "lng": 121.5887,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIT-11",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2017",
+   "title": "《弄堂里的公用电话》：个人记忆散文",
+   "summary": "光明网文摘报刊载的回忆散文：公用电话从烟纸店搬到居委会、母亲被请去管理电话亭的家族记忆。",
+   "detail": "公用电话作为家庭史叙事装置。",
+   "sourceRef": {
+    "publisher": "光明网文摘报（2017-02-11）",
+    "url": "https://epaper.gmw.cn/wzb/html/2017-02/11/nw.D110000wzb_20170211_1-02.htm"
+   },
+   "tags": {
+    "media": "文",
+    "form": "文学",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "文学"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2214,
+    "lng": 121.5044,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIT-12",
+   "source": "shanghai",
+   "category": "clothing",
+   "year": "2025",
+   "title": "『那台罩着布的电话机』：寻呼小姐的命运叙事",
+   "summary": "虎嗅2025年回忆文章：邻居女儿中专毕业进国脉寻呼台当『寻呼小姐』，月薪2000多元，『你并没有做错什么，只是时代变了』。",
+   "detail": "黄页—寻呼产业链末端劳动者的命运书写。",
+   "sourceRef": {
+    "publisher": "虎嗅网（2025-05-19）",
+    "url": "https://m.huxiu.com/article/4365729.html"
+   },
+   "tags": {
+    "media": "文",
+    "form": "文学",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "转型"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2904,
+    "lng": 121.6769,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIT-13",
+   "source": "shanghai",
+   "category": "food",
+   "year": "2007-2009",
+   "title": "『世上无难事，有事就找号码百事通』",
+   "summary": "号百公司2007年转型后的服务口号『知百事，通天下』与民间化表述，承接了『万事找黄页』的俗语谱系。",
+   "detail": "从纸质黄页到语音搜索品牌的口号接力。",
+   "sourceRef": {
+    "publisher": "51callcenter（2009-08-17）",
+    "url": "https://www.51callcenter.com/newsinfo/138/38603/"
+   },
+   "tags": {
+    "media": "文",
+    "form": "俗语",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "语言民俗"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2744,
+    "lng": 121.5504,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIT-14",
+   "source": "shanghai",
+   "category": "clothing",
+   "year": "1922",
+   "title": "徐珂1922年版序：『上海商业之盛，甲于域中』",
+   "summary": "1922年11月第三版序文回顾名录三年三版：『银行之多，视昔已倍……他日吾名录所载之工厂，且什百于今也』——一部名录序文即一篇城市商业赋。",
+   "detail": "序文与凡例是研究民初商业文体的一手文本。",
+   "sourceRef": {
+    "publisher": "《上海商业名录》1922年版/网易转载",
+    "url": "https://www.163.com/dy/article/EEQGS9KD05506BEH.html"
+   },
+   "tags": {
+    "media": "文",
+    "form": "文学",
+    "region": "中国·上海",
+    "era": "1900-1945",
+    "theme": "文学"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.268,
+    "lng": 121.6366,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-01",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1900",
+   "title": "1900年上海第一本电话号簿",
+   "summary": "上海出版第一本电话号簿，上海黄页百年历史的起点。",
+   "detail": "上海电话号簿迄今百余年历史的表述出处。",
+   "sourceRef": {
+    "publisher": "法律资讯网转2002年报道",
+    "url": "http://www.dyzxw.org/html/article/200205/10/4476.shtml"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "1900-1945",
+    "theme": "前史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.3072,
+    "lng": 121.6358,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-02",
+   "source": "shanghai",
+   "category": "food",
+   "year": "1924",
+   "title": "1924年五位电话号码诞生",
+   "summary": "3月29日华洋公司东区电话交换所启用瑞典爱立信1000门自动交换机，租界用户号码升为五位。",
+   "detail": "从黄页局号可反推当年各电话分局辖区。",
+   "sourceRef": {
+    "publisher": "腾讯新闻",
+    "url": "https://news.qq.com/rain/a/20240110A05UPW00"
+   },
+   "tags": {
+    "media": "文",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "1900-1945",
+    "theme": "前史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.3072,
+    "lng": 121.6453,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-03",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1947",
+   "title": "1947年版《上海电话簿黄页》（斯坦福馆藏）",
+   "summary": "登记老上海各界电话的号簿，至今保存于斯坦福大学图书馆，成为局号规则与海上名人考据依据。",
+   "detail": "原件未入本档案，引用需向斯坦福图书馆核实。",
+   "sourceRef": {
+    "publisher": "腾讯新闻/斯坦福大学图书馆",
+    "url": "https://news.qq.com/rain/a/20240110A05UPW00"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "信息架构",
+    "region": "中国·上海",
+    "era": "1900-1945",
+    "theme": "前史"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.257,
+    "lng": 121.6598,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-04",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1953",
+   "title": "1953年手写《通讯录》",
+   "summary": "私人手写通讯录，封面题『一九五三年十二月修增』，内页登记华东美协、上海市文史馆、上海电影制片厂等单位地址与电话号码。",
+   "detail": "前黄页时代的私人联络档案，可与正式号簿对照。",
+   "sourceRef": {
+    "publisher": "腾讯新闻书影（本档案已下载）",
+    "url": "https://news.qq.com/rain/a/20240110A05UPW00"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "1900-1945",
+    "theme": "语言民俗"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/SH-SOC-04-1.jpg"
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2184,
+    "lng": 121.6069,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-05",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1987",
+   "title": "1987年首版《上海黄页》出版并免费赠送230万用户",
+   "summary": "上海市电话号簿公司出版黄页号簿，免费赠送给230万用户，中国现代黄页产业起步。",
+   "detail": "上海率先在国内出版黄页号簿。",
+   "sourceRef": {
+    "publisher": "新浪科技",
+    "url": "https://tech.sina.com.cn/t/2005-11-08/0904759383.shtml"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "广告运动",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "企业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.3288,
+    "lng": 121.4557,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-06",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1997-1998",
+   "title": "1997年『中国黄页』标识注册",
+   "summary": "中国电信注册『中国黄页』标识，1998年起全国推广；当年上海电信黄页广告年收入达1.03亿元。",
+   "detail": "黄页品牌化经营的关键节点。",
+   "sourceRef": {
+    "publisher": "新浪科技",
+    "url": "https://tech.sina.com.cn/it/t/2003-12-08/1152265219.shtml"
+   },
+   "tags": {
+    "media": "标志",
+    "form": "品牌符号",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "商标史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.163,
+    "lng": 121.4006,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-07",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1998",
+   "title": "上海大西洋贝尔黄页广告合资公司",
+   "summary": "中国电信与美国大西洋贝尔合资组建上海大西洋贝尔黄页广告公司，作为全国唯一试点经营黄页广告。",
+   "detail": "外资进入中国黄页市场的首个试点。",
+   "sourceRef": {
+    "publisher": "新浪科技",
+    "url": "https://tech.sina.com.cn/it/t/2003-12-08/1152265219.shtml"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "企业史",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "企业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.169,
+    "lng": 121.4162,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-08",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1999",
+   "title": "联通黄页进入上海",
+   "summary": "1999年联通黄页（电讯盈科、美国当纳利背景）进军上海，与上海电信黄页正面交锋。",
+   "detail": "打破电信独家经营的第一步。",
+   "sourceRef": {
+    "publisher": "新浪科技",
+    "url": "https://tech.sina.com.cn/t/2004-09-11/1704423188.shtml"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "企业史",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "企业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2548,
+    "lng": 121.4902,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-09",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2000",
+   "title": "信产部『275号文件』",
+   "summary": "2000年信息产业部发文：电话号簿业务暂不放开经营，尤其不宜成立中外合资公司经营黄页号簿。",
+   "detail": "行业准入政策博弈的关键文件。",
+   "sourceRef": {
+    "publisher": "新浪科技",
+    "url": "https://tech.sina.com.cn/t/2004-09-11/1704423188.shtml"
+   },
+   "tags": {
+    "media": "文",
+    "form": "方法",
+    "region": "中国",
+    "era": "1980-1999",
+    "theme": "企业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2576,
+    "lng": 121.421,
+    "place": "中国"
+   }
+  },
+  {
+   "id": "SH-SOC-10",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2001",
+   "title": "2001年《上海黄页》高校首发式",
+   "summary": "5月29日在复旦大学举行，向上海28所高校每宿舍赠一本、共5万余册，黄页首次进入高校。",
+   "detail": "从家庭、企业用户扩展到大学生群体的营销事件。",
+   "sourceRef": {
+    "publisher": "新浪科技",
+    "url": "https://tech.sina.com.cn/it/69995.shtml"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "广告运动",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "广告运动"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2204,
+    "lng": 121.4252,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-11",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2002",
+   "title": "2002年联通黄页上海胜诉",
+   "summary": "上海电信黄页以侵犯专有经营权起诉联通，法院认为专营权核准不属民事诉讼范围而驳回，电信独家经营黄页成历史。",
+   "detail": "制度史拐点：经营权从专营走向竞争。",
+   "sourceRef": {
+    "publisher": "光纤在线",
+    "url": "http://www.c-fol.net/m/news/view.php?id=20030326154739"
+   },
+   "tags": {
+    "media": "文",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "企业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.1968,
+    "lng": 121.6428,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-12",
+   "source": "shanghai",
+   "category": "clothing",
+   "year": "2002",
+   "title": "中国电信集团黄页信息有限公司成立",
+   "summary": "2002年9月17日注册于上海市虹口区，刘苏南任董事长兼总经理，上海黄页升格为全国总部，整合21省市黄页业务。",
+   "detail": "开创国内黄页业务一体化管理道路。",
+   "sourceRef": {
+    "publisher": "百度百科",
+    "url": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E9%9B%86%E5%9B%A2%E9%BB%84%E9%A1%B5%E4%BF%A1%E6%81%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/1427487"
+   },
+   "tags": {
+    "media": "文",
+    "form": "企业史",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "企业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.3416,
+    "lng": 121.6509,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-13",
+   "source": "shanghai",
+   "category": "food",
+   "year": "2003",
+   "title": "2003年全国黄页收入4.5亿元（增长67%）",
+   "summary": "全国21省市电信黄页收入4.5亿元、同比增长67%，占中国电信增值业务10%；上海市场已近2亿元。",
+   "detail": "黄页业务巅峰期的全国盘面数据。",
+   "sourceRef": {
+    "publisher": "新浪科技",
+    "url": "https://tech.sina.com.cn/t/2004-09-11/1704423188.shtml"
+   },
+   "tags": {
+    "media": "文",
+    "form": "企业史",
+    "region": "中国",
+    "era": "2000-今",
+    "theme": "企业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.205,
+    "lng": 121.5154,
+    "place": "中国"
+   }
+  },
+  {
+   "id": "SH-SOC-14",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2004",
+   "title": "2004年南北黄页正面交锋",
+   "summary": "网通成立中国电话号簿公司并南下8省设分公司；电信黄页推出2004版《北京大黄页》进京。",
+   "detail": "电信南北分拆后两大集团首次黄页对决。",
+   "sourceRef": {
+    "publisher": "新浪科技",
+    "url": "https://tech.sina.com.cn/t/2004-09-11/1704423188.shtml"
+   },
+   "tags": {
+    "media": "文",
+    "form": "企业史",
+    "region": "中国",
+    "era": "2000-今",
+    "theme": "企业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.1976,
+    "lng": 121.4294,
+    "place": "中国"
+   }
+  },
+  {
+   "id": "SH-SOC-15",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2005",
+   "title": "上海黄页市场混战",
+   "summary": "电信、联通、网通之外，上海绿页、华东黄页、物流黄页、电话黄页等十余种号簿混战；联通推《上海制造》切入细分。",
+   "detail": "『黄页』一词泛化的市场背景。",
+   "sourceRef": {
+    "publisher": "新浪科技",
+    "url": "https://tech.sina.com.cn/t/2005-11-08/0904759383.shtml"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "广告运动",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "企业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.1876,
+    "lng": 121.4622,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-16",
+   "source": "shanghai",
+   "category": "transport",
+   "year": "2004-2006",
+   "title": "超级品牌称号与ISO9001认证",
+   "summary": "2004年获『中国超级品牌』，2006年被英国SUPERBRANDS授予『超级品牌』；为行业唯一通过ISO9001国际质量认证的企业。",
+   "detail": "品牌荣誉的权威背书。",
+   "sourceRef": {
+    "publisher": "百度百科",
+    "url": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E9%9B%86%E5%9B%A2%E9%BB%84%E9%A1%B5%E4%BF%A1%E6%81%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/1427487"
+   },
+   "tags": {
+    "media": "文",
+    "form": "品牌符号",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "企业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.1952,
+    "lng": 121.575,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-17",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2003-2004",
+   "title": "假冒『上海大黄页』诈骗现象",
+   "summary": "个体号簿商抄袭电信黄页、虚报印数，靠少量印刷骗取广告费，一次可赚100-200万元；上海某气体公司曾签『糊涂合同』被骗。",
+   "detail": "催生后来的封面防伪、印量公证、胸牌核查等措施。",
+   "sourceRef": {
+    "publisher": "新浪科技",
+    "url": "https://tech.sina.com.cn/it/t/2003-12-08/1152265219.shtml"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "商标史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2782,
+    "lng": 121.5028,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-18",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2017-2019",
+   "title": "2017-2019全球黄页落幕潮",
+   "summary": "英国Yell宣布2019年1月印发最后实体版（2300万册终版），终结51年历史；中国纸质黄页同步淡出，转向114查号与网络黄页。",
+   "detail": "纸质黄页作为媒介形态的全球终点。",
+   "sourceRef": {
+    "publisher": "虎嗅网",
+    "url": "https://www.huxiu.com/article/213824.html"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "方法",
+    "region": "全球",
+    "era": "2000-今",
+    "theme": "转型"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2244,
+    "lng": 121.4048,
+    "place": "全球"
+   }
+  },
+  {
+   "id": "SH-SOC-19",
+   "source": "shanghai",
+   "category": "clothing",
+   "year": "2026",
+   "title": "《2026上海大黄页》电子版仍在售",
+   "summary": "第三方站点销售2026上海企业黄页电子版（980元）及大黄页英文版/日文版/消费版（380-460元）。",
+   "detail": "非官方渠道，真伪与数据时效需谨慎核实。",
+   "sourceRef": {
+    "publisher": "黄页号簿站（emagecompany）",
+    "url": "https://yellowpages.emagecompany.com/big5/shanghai/"
+   },
+   "tags": {
+    "media": "数字",
+    "form": "数字化",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "数字化"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.16,
+    "lng": 121.6786,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-20",
+   "source": "shanghai",
+   "category": "food",
+   "year": "1957",
+   "title": "1957年五位升六位号码制",
+   "summary": "1953年军管上海电话公司组织专门小组研究六位号码制，1956年第四季度工程全面展开、历时10个月，1957年9月1日0时01分升位割接成功，全市实现统一、等位的六位号码制。",
+   "detail": "黄页号码从五位迈入六位，号簿信息容量随之扩容。",
+   "sourceRef": {
+    "publisher": "微博『上海发布』文史内容/网易",
+    "url": "https://www.163.com/dy/article/K3KE3AJ20556B9YL.html"
+   },
+   "tags": {
+    "media": "文",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "1900-1945",
+    "theme": "前史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.3132,
+    "lng": 121.4652,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-21",
+   "source": "shanghai",
+   "category": "transport",
+   "year": "1989",
+   "title": "1989年六位升七位：中国第一个七位号码城市",
+   "summary": "1984年上海市电话局开始研究七位制方案，1987年下半年组织实施；1989年11月12日0时02分割接成功，上海成为全国率先实行统一、等位七位号码制的城市；副市长倪天增等曾在实验网上试打。",
+   "detail": "升位规则：原2开头号码前加3、3开头前加4，以此类推。",
+   "sourceRef": {
+    "publisher": "澎湃新闻『信息史︱电话号码知几位』",
+    "url": "https://m.thepaper.cn/kuaibao_detail.jsp?contid=15277146"
+   },
+   "tags": {
+    "media": "文",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "企业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2482,
+    "lng": 121.5694,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-22",
+   "source": "shanghai",
+   "category": "clothing",
+   "year": "1995",
+   "title": "1995年七位升八位：世界第四个八位号码城市",
+   "summary": "1995年11月25日零时全市电话号码一次性升至8位，涉及14种制式城市交换机和100多种制式用户小交换机、480个局号单元；浦东『8』字头最先用完；上海成为巴黎、东京、香港之后世界第四个统一八位拨号城市。",
+   "detail": "1989年装机约50万门，1994年底已达231万门——黄页变厚的数字背景。",
+   "sourceRef": {
+    "publisher": "澎湃新闻/新浪科技",
+    "url": "https://tech.sina.com.cn/t/2008-12-09/14152637389.shtml"
+   },
+   "tags": {
+    "media": "文",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "企业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.1886,
+    "lng": 121.4288,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-23",
+   "source": "shanghai",
+   "category": "food",
+   "year": "2007-2009",
+   "title": "中国电信号百信息服务有限公司成立",
+   "summary": "2007年8月16日挂牌，是中国电信从网络运营商向综合信息服务提供商转型的专业化单位，运营114/118114『号码百事通』；2008年号码百事通累计呼叫接通量超14亿次。",
+   "detail": "纸质黄页的国家队后继主体；2009年借114平台销售上海世博门票是其标志性服务事件。",
+   "sourceRef": {
+    "publisher": "51callcenter（2009-08-17）",
+    "url": "https://www.51callcenter.com/newsinfo/138/38603/"
+   },
+   "tags": {
+    "media": "文",
+    "form": "企业史",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "转型"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.335,
+    "lng": 121.4829,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-24",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1992-2012",
+   "title": "号百控股借壳上市（600640）",
+   "summary": "前身为1992年成立的上海国脉实业、1993年4月上交所挂牌的邮电系统第一家上市公司；历经联通国脉、中卫国脉，2012年中国电信注入号码百事通商旅资产后更名号百控股。",
+   "detail": "黄页资产证券化的完整脉络：国脉实业→国脉通信→联通国脉→中卫国脉→号百控股。",
+   "sourceRef": {
+    "publisher": "51callcenter/新浪财经公告",
+    "url": "http://www.51callcenter.com/newsinfo/136/3538207/"
+   },
+   "tags": {
+    "media": "文",
+    "form": "企业史",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "转型"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.263,
+    "lng": 121.6254,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-25",
+   "source": "shanghai",
+   "category": "transport",
+   "year": "2022",
+   "title": "114四十周年升级『智慧114』",
+   "summary": "2022年6月25日号百公司以线上形式举办『用心为民 步履不停』中国电信114四十周年发布会，114升级『智慧114』，发布便民、出行、适老三大服务。",
+   "detail": "从查号台到『我为群众办实事』的适老化数字服务。",
+   "sourceRef": {
+    "publisher": "C114通信网（2022-06-27）",
+    "url": "https://m.c114.com.cn/w241-1200292.html"
+   },
+   "tags": {
+    "media": "文",
+    "form": "广告运动",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "转型"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.219,
+    "lng": 121.547,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-26",
+   "source": "shanghai",
+   "category": "clothing",
+   "year": "2021",
+   "title": "号百控股更名『新国脉』",
+   "summary": "2021年9月号百控股更名为新国脉数字文化股份有限公司，转型数字内容、数字营销和数字文旅，已是其第六次更名。",
+   "detail": "黄页血脉的最终去向：数字文化科技。",
+   "sourceRef": {
+    "publisher": "运营商财经/今日头条",
+    "url": "https://www.toutiao.com/article/7012512157510173216/"
+   },
+   "tags": {
+    "media": "文",
+    "form": "企业史",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "转型"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2584,
+    "lng": 121.6313,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-27",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1990-1997",
+   "title": "『装电话难』时代：待装户与初装费",
+   "summary": "1990年末上海电话待装户超10万、约七成为私人住宅；90年代初开放私人装机，三四千元初装费仍挡不住排队申请的热情，盛况被比作申购轿车牌照；1997年一年即安装住宅电话70万门。",
+   "detail": "黄页走进千家万户的社会前提：家庭电话普及。",
+   "sourceRef": {
+    "publisher": "新浪科技《上海电信业三十年变迁掠影》（2008）",
+    "url": "https://tech.sina.com.cn/t/2008-12-09/14152637389.shtml"
+   },
+   "tags": {
+    "media": "文",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "企业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.1644,
+    "lng": 121.661,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-28",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1918",
+   "title": "1918年《上海商业名录》：中国首部企业黄页",
+   "summary": "1918年7月商务印书馆初版，徐珂编纂、张元济决策，560页，分220余类收录各行各业企业近万家；当月再版，三个月销出2090本，广告收入居商务书籍首位。各企业记载牌号、所在地、经理人及电报挂号与电话号码，与世界通行黄页接轨。",
+   "detail": "编纂过程见《张元济日记》：1918年1月2日『催商业名簿』，2月截稿，7月问世；上海档案馆藏档号Y9-1-47。",
+   "sourceRef": {
+    "publisher": "文汇网《上海商业名录：中国首部企业黄页》（2019-05-10）",
+    "url": "https://wenhui.whb.cn/third/jinri/201905/10/261569.html"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "信息架构",
+    "region": "中国·上海",
+    "era": "1900-1945",
+    "theme": "起源"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.1844,
+    "lng": 121.647,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-29",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1920-1931",
+   "title": "《上海商业名录》历版扩充（1920-1931）",
+   "summary": "至少印行七版：1920年4月第二版718页（徐珂）、1922年11月第三版704页（徐珂）、1925年3月第四版535页（林震）、1928年3月第五版582页、1931年4月第六版741页（商务广告公司编），页数增长见证上海工商业黄金时代。",
+   "detail": "每一版页数与编纂人不同，是1920-30年代上海商业扩张的直接刻度。",
+   "sourceRef": {
+    "publisher": "文汇网/网易转载",
+    "url": "https://wenhui.whb.cn/third/jinri/201905/10/261569.html"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "企业史",
+    "region": "中国·上海",
+    "era": "1900-1945",
+    "theme": "企业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2876,
+    "lng": 121.6495,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-30",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1909",
+   "title": "1909年《上海指南》：商业名录的前身",
+   "summary": "商务印书馆1909年出版实用性图书《上海指南》，销量很大、一版再版，《上海商业名录》即由其引出，张元济始终关注其增订。",
+   "detail": "上海黄页谱系的真正起点：指南类工具书传统。",
+   "sourceRef": {
+    "publisher": "文汇网",
+    "url": "https://wenhui.whb.cn/third/jinri/201905/10/261569.html"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "前史",
+    "region": "中国·上海",
+    "era": "1900-1945",
+    "theme": "前史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.27,
+    "lng": 121.6187,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-SOC-31",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1918-1942",
+   "title": "上海档案馆的名录档案（1918-1942）",
+   "summary": "上海市档案馆藏：《上海商业名录》（1918，档号Y9-1-47）、《上海市工商行名表》（1939、1940，档号Y9-1-51/52）、《全国洋行及进出口贸易公司调查录》（1942，档号Y9-1-18-93/778）。",
+   "detail": "1940-70年代电话簿/商业名录体系的档案线索，调档后可补齐断代链条。",
+   "sourceRef": {
+    "publisher": "中国人民大学清史研究所",
+    "url": "http://iqh.ruc.edu.cn/old/jssxwhsyj/xsqyyllyj/sx_qyxl/c848bdab8c5b498881151550634930b8.htm"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "信息架构",
+    "region": "中国·上海",
+    "era": "1900-1945",
+    "theme": "前史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.3576,
+    "lng": 121.4731,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIFE-01",
+   "source": "shanghai",
+   "category": "transport",
+   "year": "1952",
+   "title": "1952年传呼电话开办：第一个传呼费3分钱",
+   "summary": "1952年10月1日上海电信局在市中心及浦东、真如、吴淞等区开办传呼电话；第一个传呼电话落地于长寿路西康路附近弄堂口烟杂店，传呼费每次3分钱。",
+   "detail": "电话从单位工具转向为市民服务的分水岭。",
+   "sourceRef": {
+    "publisher": "维基百科『传呼电话』/百度百科",
+    "url": "https://zh.wikipedia.org/zh-cn/%E4%BC%A0%E5%91%BC%E7%94%B5%E8%AF%9D"
+   },
+   "tags": {
+    "media": "文",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "1900-1945",
+    "theme": "民俗"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.169,
+    "lng": 121.6265,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIFE-02",
+   "source": "shanghai",
+   "category": "transport",
+   "year": "1954",
+   "title": "1954年第一本《传呼公用电话簿》出版",
+   "summary": "1954年12月出版，放置在每个传呼电话站，是『迷你黄页』形态；至1954年10月上海已开设1600多个传呼电话站。",
+   "detail": "传呼站版的黄页，实物待采集。",
+   "sourceRef": {
+    "publisher": "维基百科『传呼电话』",
+    "url": "https://zh.wikipedia.org/zh-cn/%E4%BC%A0%E5%91%BC%E7%94%B5%E8%AF%9D"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "信息架构",
+    "region": "中国·上海",
+    "era": "1900-1945",
+    "theme": "民俗"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.3382,
+    "lng": 121.4039,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIFE-03",
+   "source": "shanghai",
+   "category": "transport",
+   "year": "1985",
+   "title": "1985年：3257个传呼电话站、从业1万余人",
+   "summary": "截至1985年，上海1000多个里弄居委会共设3257个传呼电话站，相关从业人员超过1万人。",
+   "detail": "黄页背后庞大的线下人工传呼网络。",
+   "sourceRef": {
+    "publisher": "维基百科『传呼电话』",
+    "url": "https://zh.wikipedia.org/zh-cn/%E4%BC%A0%E5%91%BC%E7%94%B5%E8%AF%9D"
+   },
+   "tags": {
+    "media": "文",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "民俗"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.1996,
+    "lng": 121.5361,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIFE-04",
+   "source": "shanghai",
+   "category": "transport",
+   "year": "1990s",
+   "title": "弄堂口传呼电话的日常",
+   "summary": "传呼员按『近接远播』规则喊人：前排居民不挂电话等喊来接听，后排挂断后回拨；需熟记全弄堂楼牌；窗口搁板上打出、接听各司其职。",
+   "detail": "浦东大道2511弄传呼亭23年口述史。",
+   "sourceRef": {
+    "publisher": "周到上海（2018-07-13）",
+    "url": "http://static.zhoudaosh.com/files/cnews/2018/20180713/2838B282D5ABF7C08A4BA3672CC26030EE11152D957CF2BA126589E781140DBB/2.html"
+   },
+   "tags": {
+    "media": "文",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "民俗"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2382,
+    "lng": 121.4557,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIFE-05",
+   "source": "shanghai",
+   "category": "transport",
+   "year": "1990",
+   "title": "1990年公用电话夜间服务",
+   "summary": "卢湾区『六一』电话亭反映居民夜间打国际长途难，开放夜间服务后个体老板『一个电话到广州、成都，第二天空运到货』；虹口区一居民晚上9时经传呼电话及时送心肌梗死父亲就医。",
+   "detail": "公用电话改变市民作息与生意方式的口述记录。",
+   "sourceRef": {
+    "publisher": "上观新闻『海上记忆』（2025-06-06）",
+    "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=923651"
+   },
+   "tags": {
+    "media": "文",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "民俗"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2964,
+    "lng": 121.6523,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIFE-06",
+   "source": "shanghai",
+   "category": "transport",
+   "year": "1951-2000",
+   "title": "传呼电话的呼叫声：弄堂生活原声",
+   "summary": "『15号两楼王家姆妈，有电话！』——传呼员的呼喊是几代上海人的共同记忆，随电话亭拆除而消失。",
+   "detail": "1951年上海仅1512部公用电话，多设于弄堂口烟杂店；1960年达3293部。",
+   "sourceRef": {
+    "publisher": "搜狐『上海记忆 弄堂口的电话亭』（2017-09-28）",
+    "url": "https://www.sohu.com/a/195447674_708759"
+   },
+   "tags": {
+    "media": "文",
+    "form": "文学",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "民俗"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2544,
+    "lng": 121.6293,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIFE-07",
+   "source": "shanghai",
+   "category": "transport",
+   "year": "1990s",
+   "title": "『寻呼小姐』：国脉寻呼台的黄金时代",
+   "summary": "90年代国脉寻呼台『寻呼小姐』超3000人，月薪2000多元，是令人羡慕的新职业；2001年一年上海拆除传呼电话亭1000多家。",
+   "detail": "寻呼业兴衰中的劳动者群像。",
+   "sourceRef": {
+    "publisher": "虎嗅『那台罩着布的电话机』（2025-05-19）",
+    "url": "https://m.huxiu.com/article/4365729.html"
+   },
+   "tags": {
+    "media": "文",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "民俗"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.302,
+    "lng": 121.5926,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIFE-08",
+   "source": "shanghai",
+   "category": "food",
+   "year": "1989",
+   "title": "1989年升位：把新号码抄进通讯录",
+   "summary": "六位升七位后，市民把『43**4**』式新号码歪歪扭扭抄进朋友的通讯录——号码升位进入个人记忆文本。",
+   "detail": "第一人称记忆文本，反映升位工程在市民层面的微观感受。",
+   "sourceRef": {
+    "publisher": "36氪《上海，无赫赫之功》（2025-02-20）",
+    "url": "https://36kr.com/p/3174829529875332"
+   },
+   "tags": {
+    "media": "文",
+    "form": "文学",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "民俗"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.1858,
+    "lng": 121.5778,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIFE-09",
+   "source": "shanghai",
+   "category": "clothing",
+   "year": "1995",
+   "title": "1995年升位口诀",
+   "summary": "七位升八位工程公布升位口诀，方便全市市民记忆和拨打；升位在『某个深秋子时』一次性完成。",
+   "detail": "口诀原文待采集，是面向全城的信息设计案例。",
+   "sourceRef": {
+    "publisher": "网易新闻（2025-07-04）/36氪",
+    "url": "https://www.163.com/dy/article/K3KE3AJ20556B9YL.html"
+   },
+   "tags": {
+    "media": "文",
+    "form": "俗语",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "语言民俗"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.242,
+    "lng": 121.5039,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIFE-10",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1993（背景年代）",
+   "title": "《繁花》时代的烟纸店公用电话站",
+   "summary": "《繁花》呈现的烟纸店与公用电话站：拨打、接听、传呼回电均收费，是私人电话未普及年代市民的核心通信节点。",
+   "detail": "影视再现中的通信生活史。",
+   "sourceRef": {
+    "publisher": "网易新闻（2024-01-11）",
+    "url": "https://www.163.com/dy/article/IO6UEJRT052384RH.html"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "文学",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "民俗"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.1932,
+    "lng": 121.5826,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIFE-11",
+   "source": "shanghai",
+   "category": "transport",
+   "year": "1997",
+   "title": "传呼电话业务量顶点与回落",
+   "summary": "1997年全市一年安装住宅电话70万门，此后传呼电话业务量逐年下降；BP机兴起曾令传呼亭短暂回光，随后大哥大普及终结其历史。",
+   "detail": "家庭电话普及直接替代弄堂传呼。",
+   "sourceRef": {
+    "publisher": "搜狐『上海记忆 弄堂口的电话亭』",
+    "url": "https://www.sohu.com/a/195447674_708759"
+   },
+   "tags": {
+    "media": "文",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "转型"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2848,
+    "lng": 121.4784,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-LIFE-12",
+   "source": "shanghai",
+   "category": "transport",
+   "year": "2020",
+   "title": "上海预计2020年关停全部传呼电话",
+   "summary": "随着智能手机普及，传呼电话无人问津，上海预计于2020年关停全部传呼电话——近70年历史的市民通信服务谢幕。",
+   "detail": "关停执行情况待跟踪核实。",
+   "sourceRef": {
+    "publisher": "维基百科『传呼电话』",
+    "url": "https://zh.wikipedia.org/zh-cn/%E4%BC%A0%E5%91%BC%E7%94%B5%E8%AF%9D"
+   },
+   "tags": {
+    "media": "文",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "转型"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2796,
+    "lng": 121.6106,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-FRM-01",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "长期沿用",
+   "title": "行业分类信息架构",
+   "summary": "按行业、产品分类编写电话号簿的分类法，是黄页百年数据结构的核心，上海黄页沿用并本土化为中文行业类目。",
+   "detail": "『黄页分类电话簿』的名称即来自该架构。",
+   "sourceRef": {
+    "publisher": "法律资讯网转2002年报道",
+    "url": "http://www.dyzxw.org/html/article/200205/10/4476.shtml"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "信息架构",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "方法"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.3046,
+    "lng": 121.4722,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-FRM-02",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1987",
+   "title": "『广告刊户索引』页设计",
+   "summary": "客户名称—页码双栏密排索引，把广告客户做成可检索目录。",
+   "detail": "索引页让广告本身成为检索对象。",
+   "sourceRef": {
+    "publisher": "本档案1987版书影",
+    "url": "https://book.kongfz.com/234114/3667024980/"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "信息架构",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "版面经济"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/SH-FRM-02-1.jpg"
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2896,
+    "lng": 121.5428,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-FRM-03",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2003",
+   "title": "号码+广告混排的版面经济",
+   "summary": "免费向用户发放号簿、以广告收入养号簿的模式；国际对比：黄页广告收入可占平面广告总额8%（欧美）/2%（亚洲发达）。",
+   "detail": "上海全市30万工商企业中仅约3000家在黄页做广告（1%），国际比例为5-6%，空间巨大。",
+   "sourceRef": {
+    "publisher": "新浪科技",
+    "url": "https://tech.sina.com.cn/t/2004-09-11/1704423188.shtml"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "版面经济",
+    "region": "全球",
+    "era": "2000-今",
+    "theme": "方法"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2642,
+    "lng": 121.4372,
+    "place": "全球"
+   }
+  },
+  {
+   "id": "SH-FRM-04",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "19世纪-今",
+   "title": "黄色内页的功能配色传统",
+   "summary": "因印刷厂白纸短缺偶然改用黄纸而起，黄底黑字可读性好，成为全球惯例；上海电信局号簿1980年代内页用黄色纸张，俗称黄页。",
+   "detail": "『最美的理性』：黄色是功能选色而非品牌任性。",
+   "sourceRef": {
+    "publisher": "百度百科电信黄页词条",
+    "url": "https://baike.baidu.com/item/%E7%94%B5%E4%BF%A1%E9%BB%84%E9%A1%B5/5064824"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "功能配色",
+    "region": "全球",
+    "era": "1900-1945",
+    "theme": "起源"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2856,
+    "lng": 121.507,
+    "place": "全球"
+   }
+  },
+  {
+   "id": "SH-FRM-05",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2002前后",
+   "title": "多媒体系列产品线（20多个品种）",
+   "summary": "从单一品种发展到20多个品种：纸质黄页、电话黄页、网络黄页、WAP黄页等。",
+   "detail": "转型期产品线谱系。",
+   "sourceRef": {
+    "publisher": "法律资讯网转2002年报道",
+    "url": "http://www.dyzxw.org/html/article/200205/10/4476.shtml"
+   },
+   "tags": {
+    "media": "数字",
+    "form": "信息架构",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "转型"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2462,
+    "lng": 121.6674,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-FRM-06",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1987-2000",
+   "title": "大小开本体系（大黄页/简缩本）",
+   "summary": "1987年简缩本16开152页起步，2000年《上海大黄页》已是厚册大部头，形成简缩本—大黄页两级开本。",
+   "detail": "开本规格即媒介定位。",
+   "sourceRef": {
+    "publisher": "孔夫子旧书网书影",
+    "url": "https://book.kongfz.com/234114/3667024980/"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "印刷工艺",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "方法"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2186,
+    "lng": 121.5243,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-FRM-07",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2002",
+   "title": "统一品牌与规范体系",
+   "summary": "2002年整合后实行统一品牌《中国电信黄页》、统一产品规范和统一服务标准。",
+   "detail": "从各自为政到条线专业化管理。",
+   "sourceRef": {
+    "publisher": "人民日报华南版/新浪科技",
+    "url": "https://news.sina.com.cn/o/2004-08-12/01463374936s.shtml"
+   },
+   "tags": {
+    "media": "标志",
+    "form": "品牌符号",
+    "region": "中国",
+    "era": "2000-今",
+    "theme": "企业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2472,
+    "lng": 121.5296,
+    "place": "中国"
+   }
+  },
+  {
+   "id": "SH-FRM-08",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2000-今",
+   "title": "纸质→114→网络→WAP的媒介迁移路径",
+   "summary": "纸质黄页先升级为114电话咨询台，再转向搜索引擎与在线目录；归档黄页成为地方史与商标诉讼史料。",
+   "detail": "媒介替代与档案化价值的双重结局。",
+   "sourceRef": {
+    "publisher": "虎嗅网",
+    "url": "https://www.huxiu.com/article/213824.html"
+   },
+   "tags": {
+    "media": "数字",
+    "form": "方法",
+    "region": "全球",
+    "era": "2000-今",
+    "theme": "数字化"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.314,
+    "lng": 121.5585,
+    "place": "全球"
+   }
+  },
+  {
+   "id": "SH-FRM-09",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "2000",
+   "title": "三级广告版面售卖体系",
+   "summary": "2000版大黄页可见内页整版、跨页、封底三级版面售卖，广告比号码更耀眼。",
+   "detail": "鼎盛期黄页的盈利结构可视化。",
+   "sourceRef": {
+    "publisher": "本档案2000版书影",
+    "url": "https://book.kongfz.com/528013/5290439864/"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "广告版式",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "版面经济"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/SH-FRM-09-1.jpg"
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.3316,
+    "lng": 121.6486,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-FRM-10",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1954",
+   "title": "传呼公用电话簿：迷你黄页形态",
+   "summary": "1954年《传呼公用电话簿》放置于每个传呼电话站，把黄页的分类检索思路压缩为社区级工具书。",
+   "detail": "与FRM-01行业分类架构形成尺度对照：城市级号簿 vs 社区级号簿。",
+   "sourceRef": {
+    "publisher": "维基百科『传呼电话』",
+    "url": "https://zh.wikipedia.org/zh-cn/%E4%BC%A0%E5%91%BC%E7%94%B5%E8%AF%9D"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "信息架构",
+    "region": "中国·上海",
+    "era": "1900-1945",
+    "theme": "方法"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.1908,
+    "lng": 121.6579,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-FRM-11",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1995",
+   "title": "号码升位口诀：面向全城的信息设计",
+   "summary": "1995年升八位时官方公布升位口诀辅助记忆，属于超大规模用户迁移的沟通设计。",
+   "detail": "口诀全文是优先采集对象。",
+   "sourceRef": {
+    "publisher": "网易新闻（2025-07-04）",
+    "url": "https://www.163.com/dy/article/K3KE3AJ20556B9YL.html"
+   },
+   "tags": {
+    "media": "文",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "1980-1999",
+    "theme": "方法"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.1748,
+    "lng": 121.5266,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-FRM-12",
+   "source": "shanghai",
+   "category": "food",
+   "year": "2007-2009",
+   "title": "从翻黄页到打114：语音搜索的交互迁移",
+   "summary": "过去翻黄页查号 → 拨打114查号 → 号码百事通提供衣食住行用商娱语音搜索、订房订票订餐——检索行为从视觉浏览迁移为语音对话。",
+   "detail": "2022年『智慧114』适老化服务是这一迁移的最新节点。",
+   "sourceRef": {
+    "publisher": "51callcenter（2009-08-17）",
+    "url": "https://www.51callcenter.com/newsinfo/138/38603/"
+   },
+   "tags": {
+    "media": "数字",
+    "form": "方法",
+    "region": "中国·上海",
+    "era": "2000-今",
+    "theme": "数字化"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.1724,
+    "lng": 121.61,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "SH-FRM-13",
+   "source": "shanghai",
+   "category": "housing",
+   "year": "1918",
+   "title": "《上海商业名录》的类目与字段体系",
+   "summary": "分220余类、录近万家；企业条目含牌号、所在地、附近地址、经理人及重要职员姓名、电报挂号与电话号码——1918年即与国际黄页字段接轨（惟多数企业无电话，反映电话未普及）。",
+   "detail": "初版凡例『东西各国名城巨埠，皆有专书，纪述商业，以为顾客之指南』——中国黄页的方法论宣言。",
+   "sourceRef": {
+    "publisher": "文汇网引初版凡例",
+    "url": "https://wenhui.whb.cn/third/jinri/201905/10/261569.html"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "信息架构",
+    "region": "中国·上海",
+    "era": "1900-1945",
+    "theme": "方法"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "shanghai",
+    "lat": 31.2068,
+    "lng": 121.4501,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-ART-01",
+   "source": "classic",
+   "category": "housing",
+   "year": "1883",
+   "title": "夏延「黄纸事件」起源叙事",
+   "summary": "怀俄明州夏延的印刷厂 1883 年印制电话簿时白纸用完，改用黄纸，无意中创造了黄页的视觉识别。",
+   "detail": "「缺纸改用黄纸」为行业传说性质的起源叙事，被多方来源转述，宜作为品牌神话档案采集。",
+   "sourceRef": {
+    "publisher": "Wikipedia: Yellow pages",
+    "url": "https://en.wikipedia.org/wiki/Yellow_pages"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "美国",
+    "era": "19世纪",
+    "theme": "起源"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-01-1.jpg"
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.328,
+    "lat": 38.408,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-ART-02",
+   "source": "classic",
+   "category": "housing",
+   "year": "1886",
+   "title": "Reuben H. Donnelley 首本官方黄页（芝加哥）",
+   "summary": "1886 年 Donnelley 在芝加哥出版首本官方黄页，开创按行业分类的商业名录体系。",
+   "detail": "分类法（锁匠、水管工等类目）影响此后百年的数据结构。",
+   "sourceRef": {
+    "publisher": "Wikipedia / Spokeo Compass",
+    "url": "https://en.wikipedia.org/wiki/Yellow_pages"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "美国",
+    "era": "19世纪",
+    "theme": "起源"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-02-1.jpg",
+    "extra": [
+     "xl/GL-ART-02-2.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.232,
+    "lat": 38.312,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-ART-03",
+   "source": "classic",
+   "category": "housing",
+   "year": "1962",
+   "title": "Walking Fingers 行走手指标志原稿",
+   "summary": "新英格兰艺术家 Henry Alexander 1962 年为 New England Telephone 设计的三指行走标志，一年内成为全国黄页标志。",
+   "detail": "AT&T 未对该三指版本申请商标，成为全球公用符号，催生了无数变体。",
+   "sourceRef": {
+    "publisher": "Wikipedia: Yellow pages",
+    "url": "https://en.wikipedia.org/wiki/Yellow_pages"
+   },
+   "tags": {
+    "media": "标志",
+    "form": "",
+    "region": "美国",
+    "era": "1945-1979",
+    "theme": "品牌符号"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-03-1.jpg"
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.56,
+    "lat": 38.588,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-ART-04",
+   "source": "classic",
+   "category": "transport",
+   "year": "1962",
+   "title": "「Let Your Fingers Do the Walking」首支电视广告",
+   "summary": "1962-01-19 在 Bell Telephone Hour 首播的 60 秒黑白广告，开创全国性黄页广告运动。",
+   "detail": "AT&T 将此运动归功于 1963 年黄页收入创历史新高；slogan 归属存在资料分歧（WARC 记 Cunningham & Walsh，另有资料记 Geers Gross），采集时两说并存。",
+   "sourceRef": {
+    "publisher": "WARC 案例库",
+    "url": "https://www.warc.com/en/article/at%26%23x0026%3Bt%3A-let-your-fingers-do-the-walking-campaign-(1962)-ee0c76440b6349d4ae153476b5a7095e"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "",
+    "region": "美国",
+    "era": "1945-1979",
+    "theme": "广告运动"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-04-1.jpg"
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.376,
+    "lat": 38.948,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-ART-05",
+   "source": "classic",
+   "category": "transport",
+   "year": "1962",
+   "title": "同运动杂志平面版广告",
+   "summary": "1962 年 1 月起投放于 Better Homes and Gardens、Life、Look、Saturday Evening Post、Time 等杂志的平面版本，主视觉为女子手指点向黄页广告。",
+   "detail": "后续平面变体覆盖街景、运动用品店、工地、保龄球馆等场景，可成套采集。",
+   "sourceRef": {
+    "publisher": "WARC 案例库",
+    "url": "https://www.warc.com/en/article/at%26%23x0026%3Bt%3A-let-your-fingers-do-the-walking-campaign-(1962)-ee0c76440b6349d4ae153476b5a7095e"
+   },
+   "tags": {
+    "media": "海报",
+    "form": "",
+    "region": "美国",
+    "era": "1945-1979",
+    "theme": "广告运动"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-05-1.jpg"
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.44,
+    "lat": 38.996,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-ART-06",
+   "source": "classic",
+   "category": "transport",
+   "year": "1962",
+   "title": "广告歌（jingle）原声档案",
+   "summary": "「Let your fingers do the walking in the Yellow Pages / Read the ads / Learn the facts / Find it fast」广告歌在片中重复多遍。",
+   "detail": "声音资产是黄页艺术档案中易被忽略的一支，建议与影像条目配对采集。",
+   "sourceRef": {
+    "publisher": "WARC 案例库",
+    "url": "同上"
+   },
+   "tags": {
+    "media": "声音",
+    "form": "",
+    "region": "美国",
+    "era": "1945-1979",
+    "theme": "广告运动"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.344,
+    "lat": 38.432,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-ART-07",
+   "source": "classic",
+   "category": "housing",
+   "year": "1938",
+   "title": "Bell Gothic 字体原始铸排样本",
+   "summary": "Chauncey H. Griffith 1938 年为 AT&T 设计的目录专用无衬线字体，针对劣质新闻纸小字号可读性。",
+   "detail": "粗字重用于姓名与号码、细字重用于地址的双字重系统，是功能主义排印经典。",
+   "sourceRef": {
+    "publisher": "Wikipedia: Bell Gothic",
+    "url": "https://en.wikipedia.org/wiki/Bell_Gothic"
+   },
+   "tags": {
+    "media": "字体",
+    "form": "",
+    "region": "美国",
+    "era": "1900-1945",
+    "theme": "字体设计"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-07-1.jpg",
+    "extra": [
+     "xl/GL-ART-07-2.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.008,
+    "lat": 39.128,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-ART-08",
+   "source": "classic",
+   "category": "housing",
+   "year": "1978",
+   "title": "Bell Centennial 字体样张",
+   "summary": "Matthew Carter 1978 年为 AT&T 百年纪念设计的继任字体，含深墨槽（ink traps）应对油墨扩散。",
+   "detail": "Bold Listing/Name & Number/Address 等专用字重展示「信息层级即字体层级」。",
+   "sourceRef": {
+    "publisher": "Nick Sherman 字体长文",
+    "url": "https://nicksherman.com/articles/bellCentennial.html"
+   },
+   "tags": {
+    "media": "字体",
+    "form": "",
+    "region": "美国",
+    "era": "1945-1979",
+    "theme": "字体设计"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-08-1.jpg",
+    "extra": [
+     "xl/GL-ART-08-2.jpg",
+     "xl/GL-ART-08-3.jpg",
+     "xl/GL-ART-08-4.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.88,
+    "lat": 38.564,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-ART-09",
+   "source": "classic",
+   "category": "housing",
+   "year": "1983",
+   "title": "J.R. Hartley 电视广告（英国）",
+   "summary": "Abbott Mead Vickers 1983 年制作的 60 秒广告，退休歌剧演员 Norman Lumsden 扮演寻找自己绝版著作《Fly Fishing》的老作家。",
+   "detail": "英国史上最受欢迎广告之一；使非紧急类查询占比从 6% 升至 20%。",
+   "sourceRef": {
+    "publisher": "Wikipedia / Marketing Week",
+    "url": "https://www.marketingweek.com/yellow-pages-best-ad-1980s/"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "",
+    "region": "英国",
+    "era": "1980-1999",
+    "theme": "广告运动"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-09-1.jpg"
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-10",
+   "source": "classic",
+   "category": "housing",
+   "year": "1991",
+   "title": "《Fly Fishing: Memories of Angling Days》实体书",
+   "summary": "Michael Russell 以 J.R. Hartley 为笔名、Patrick Benson 插画的 1991 年真实出版物，Stanley Paul 出版。",
+   "detail": "由虚构广告人物「倒逼」出的真实畅销书，圣诞季售出 13 万册，是艺术档案与文学意象的交界条目。",
+   "sourceRef": {
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fly_Fishing:_Memories_of_Angling_Days"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "英国",
+    "era": "1980-1999",
+    "theme": "广告衍生文学"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-10-1.jpg"
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-11",
+   "source": "classic",
+   "category": "housing",
+   "year": "约1992",
+   "title": "续作《J.R. Hartley Casts Again》",
+   "summary": "前书续集，同样以 J.R. Hartley 名义出版。",
+   "detail": "出版年代各来源表述不一，采集时需以版权页为准。",
+   "sourceRef": {
+    "publisher": "Amusing Planet 等",
+    "url": "https://www.amusingplanet.com/2022/06/the-book-that-became-famous-before-it.html"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "英国",
+    "era": "1980-1999",
+    "theme": "广告衍生文学"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-11-1.jpg"
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-12",
+   "source": "classic",
+   "category": "clothing",
+   "year": "2011",
+   "title": "2011 年重制版广告（DJ 寻唱片）",
+   "summary": "2011 年 28 年后重制：中年 DJ 寻找自己唯一的单曲，最终通过 iPhone 4G 上的 Yellow Pages 应用找到。",
+   "detail": "重制版角色名各来源拼写不一（Day V. L. Deller/Day V. Lately），以广告片片尾字幕为准。",
+   "sourceRef": {
+    "publisher": "Wikipedia: Norman Lumsden",
+    "url": "https://en.wikipedia.org/wiki/Norman_Lumsden"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "",
+    "region": "英国",
+    "era": "2000-今",
+    "theme": "广告运动"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-13",
+   "source": "classic",
+   "category": "transport",
+   "year": "1985",
+   "title": "英国 1985 年「自行车」系列第二支广告",
+   "summary": "JR Hartley 系列第二支：父亲通过黄页为儿子找到心仪自行车。导演 Bob Brooks。",
+   "detail": "首支原定题材为欧洲蝴蝶图鉴与小马，因「太精英」改为钓鱼与自行车——创作决策过程本身是珍贵档案。",
+   "sourceRef": {
+    "publisher": "Marketing Week / The Oldie",
+    "url": "https://www.marketingweek.com/yellow-pages-best-ad-1980s/"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "",
+    "region": "英国",
+    "era": "1980-1999",
+    "theme": "广告运动"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-13-1.jpg"
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-14",
+   "source": "classic",
+   "category": "food",
+   "year": "2000",
+   "title": "「Not happy, Jan!」电视广告",
+   "summary": "Clemenger BBDO 墨尔本 2000 年为 Telstra 旗下 Sensis 黄页制作：老板 Deborah Kennedy 发现 Jan 忘订黄页广告，开窗怒吼「Not happy, Jan!」。",
+   "detail": "名句为拍摄当日即兴发挥；2000-2003 年持续投放，被澳洲国家音像档案馆收藏。",
+   "sourceRef": {
+    "publisher": "Wikipedia / AdNews",
+    "url": "https://en.wikipedia.org/wiki/Not_happy,_Jan!"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "",
+    "region": "澳大利亚",
+    "era": "2000-今",
+    "theme": "广告运动"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-14-1.jpg"
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-15",
+   "source": "classic",
+   "category": "clothing",
+   "year": "2000-2003",
+   "title": "澳洲系列广告「Closing Soon. Call 132378」",
+   "summary": "",
+   "detail": "截稿日（deadline）作为年度商业节律，是黄页独有的社会仪式。",
+   "sourceRef": {
+    "publisher": "AdNews / Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Not_happy,_Jan!"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "",
+    "region": "澳大利亚",
+    "era": "2000-今",
+    "theme": "广告运动"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-16",
+   "source": "classic",
+   "category": "food",
+   "year": "2019",
+   "title": "Darrell Lea「No worries, Jan」仿作与禁播事件",
+   "summary": "2019 年巧克力品牌 Darrell Lea 用「No worries, Jan」仿作黄页经典，Sensis 发律师函后撤下。",
+   "detail": "经典广告资产的权利边界案例：Sensis 称「广告太受喜爱，要防止被廉价化用于卖巧克力」。",
+   "sourceRef": {
+    "publisher": "AdNews",
+    "url": "https://www.adnews.com.au/news/not-happy-with-no-worries-jan"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "",
+    "region": "澳大利亚",
+    "era": "2000-今",
+    "theme": "戏仿"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-17",
+   "source": "classic",
+   "category": "housing",
+   "year": "1990s-2013",
+   "title": "Long-Bin Chen 电话簿佛头雕塑",
+   "summary": "台湾出生艺术家陈龙斌（Long-Bin Chen）以废旧电话簿雕刻的大型佛头，远看如石、近看为纸。",
+   "detail": "佛头被设计为「容纳书中所有人名」的容器，将地方电话簿升华为慈悲意象；2013 年 Halsey Institute 个展。",
+   "sourceRef": {
+    "publisher": "Designboom",
+    "url": "https://www.designboom.com/art/long-bin-chen-makes-recycled-book-sculptures/"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "",
+    "region": "跨国",
+    "era": "1980-1999",
+    "theme": "雕塑"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-17-1.jpg"
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-18",
+   "source": "classic",
+   "category": "clothing",
+   "year": "年代待考",
+   "title": "Long-Bin Chen「总统山」电话簿雕塑",
+   "summary": "以电话簿堆叠雕刻的拉什莫尔山四总统像。",
+   "detail": "与佛头共同构成其「文化战士」系列，材质语境由美国在地电话簿决定。",
+   "sourceRef": {
+    "publisher": "Designboom",
+    "url": "同上"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "",
+    "region": "美国",
+    "era": "2000-今",
+    "theme": "雕塑"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-18-1.jpg"
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.848,
+    "lat": 38.66,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-ART-19",
+   "source": "classic",
+   "category": "housing",
+   "year": "2000起",
+   "title": "Long-Bin Chen「Reading Rooms」书房佛头",
+   "summary": "2000 年起佛头兼作书架与可进入的阅读室，内部设藏书与屏幕。",
+   "detail": "将「废弃名录」转化为「庇护所」，是黄页艺术再创作中观念最完整的一条线索。",
+   "sourceRef": {
+    "publisher": "MASS MoCA",
+    "url": "https://massmoca.org/event/reading-sculpture/"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "",
+    "region": "美国",
+    "era": "2000-今",
+    "theme": "雕塑"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-19-1.jpg"
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.52,
+    "lat": 38.768,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-ART-20",
+   "source": "classic",
+   "category": "housing",
+   "year": "约1998",
+   "title": "Yellow Pages Publishing Association 灯泡标志与 Jon Lovitz 广告",
+   "summary": "1990 年代末以灯泡替代行走手指的新标志，slogan「Get an idea」，广告由喜剧演员 Jon Lovitz 出演。",
+   "detail": "两年后行走手指回归——标志更替失败本身就是品牌史教材级案例。",
+   "sourceRef": {
+    "publisher": "Wikiwand: Yellow pages",
+    "url": "https://www.wikiwand.com/en/articles/Yellow_pages"
+   },
+   "tags": {
+    "media": "标志",
+    "form": "",
+    "region": "美国",
+    "era": "1980-1999",
+    "theme": "品牌符号"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.56,
+    "lat": 39.344,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-ART-21",
+   "source": "classic",
+   "category": "transport",
+   "year": "年代待考",
+   "title": "加拿大黄页标志（枫叶版行走手指）",
+   "summary": "加拿大版本将行走手指与枫叶图形结合的商标设计。",
+   "detail": "行走手指公有化后各国在地化变体的典型样本。",
+   "sourceRef": {
+    "publisher": "Wikipedia: Yellow pages 条目附图",
+    "url": "https://en.wikipedia.org/wiki/Yellow_pages"
+   },
+   "tags": {
+    "media": "标志",
+    "form": "",
+    "region": "加拿大",
+    "era": "",
+    "theme": "品牌符号"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-21-1.jpg",
+    "extra": [
+     "xl/GL-ART-21-2.jpg"
+    ]
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-22",
+   "source": "classic",
+   "category": "housing",
+   "year": "年代待考",
+   "title": "Golden Pages 命名变体标志组（比利时/爱尔兰/以色列/荷兰）",
+   "summary": "四国因商标原因不使用 Yellow Pages 而称 Golden Pages，各自发展出变体视觉。",
+   "detail": "同一符号体系在商标法差异下的「同源分化」，适合做成比较图版。",
+   "sourceRef": {
+    "publisher": "Wikiwand: Yellow pages",
+    "url": "同上"
+   },
+   "tags": {
+    "media": "标志",
+    "form": "",
+    "region": "欧洲",
+    "era": "",
+    "theme": "品牌符号"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-22-1.jpg",
+    "extra": [
+     "xl/GL-ART-22-2.jpg",
+     "xl/GL-ART-22-3.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 1.934,
+    "lat": 49.124,
+    "place": "法国·巴黎"
+   }
+  },
+  {
+   "id": "GL-ART-23",
+   "source": "classic",
+   "category": "housing",
+   "year": "1995",
+   "title": "中国黄页 chinapages.com 首页存档",
+   "summary": "琉璃瓦顶与篆体「中国黄页」logo、十个地图图标组成五角星的首页设计。",
+   "detail": "中国互联网首个商业网站的首屏视觉，中西符号混搭的标本。",
+   "sourceRef": {
+    "publisher": "虎嗅/百度百科",
+    "url": ""
+   },
+   "tags": {
+    "media": "数字",
+    "form": "",
+    "region": "中国",
+    "era": "1980-1999",
+    "theme": "网页设计"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-23-1.jpg"
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 121.518,
+    "lat": 30.906,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-ART-24",
+   "source": "classic",
+   "category": "housing",
+   "year": "1990s-2010s",
+   "title": "中国电信各地黄页封面系列",
+   "summary": "中国电信及各地电信公司历年黄页的封面设计谱系。",
+   "detail": "中国黄页封面缺乏系统数字档案，建议按省市×年份网格采集。",
+   "sourceRef": {
+    "publisher": "馆藏/旧物市场线索",
+    "url": "http://yellowpage.chinavnet.com/indexvnet.htm"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "中国",
+    "era": "",
+    "theme": "封面"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-24-1.jpg",
+    "extra": [
+     "xl/GL-ART-24-2.jpg",
+     "xl/GL-ART-24-3.jpg",
+     "xl/GL-ART-24-4.jpg",
+     "xl/GL-ART-24-5.jpg",
+     "xl/GL-ART-24-6.jpg",
+     "xl/GL-ART-24-7.jpg",
+     "xl/GL-ART-24-8.jpg",
+     "xl/GL-ART-24-9.jpg",
+     "xl/GL-ART-24-10.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 121.678,
+    "lat": 30.99,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-ART-25",
+   "source": "classic",
+   "category": "housing",
+   "year": "1966-2019",
+   "title": "英国 Yellow Pages 封面演变（创刊至 2019）",
+   "summary": "从 1966 年创刊（待核）至 2019 年停印的封面序列。",
+   "detail": "封面是黄页品牌视觉的主战场，序列化采集价值极高。",
+   "sourceRef": {
+    "publisher": "Yell 官方/旧藏",
+    "url": "https://www.alamy.com/stock-photo/yellow-pages-uk.html"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "英国",
+    "era": "",
+    "theme": "封面"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-25-1.jpg",
+    "extra": [
+     "xl/GL-ART-25-2.jpg",
+     "xl/GL-ART-25-3.jpg",
+     "xl/GL-ART-25-4.jpg",
+     "xl/GL-ART-25-5.jpg",
+     "xl/GL-ART-25-6.jpg",
+     "xl/GL-ART-25-7.jpg",
+     "xl/GL-ART-25-8.jpg"
+    ]
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-26",
+   "source": "classic",
+   "category": "housing",
+   "year": "1967-今",
+   "title": "法国 Pages Jaunes 品牌视觉演变",
+   "summary": "从法国邮电 PTT 时代到 PagesJaunes 集团时代的标志与广告视觉。",
+   "detail": "法国 1967 年起发行 Pages Jaunes（待核），其广告海报传统深厚，旧海报市集可查。",
+   "sourceRef": {
+    "publisher": "PagesJaunes 档案/旧海报",
+    "url": "https://www.pagesjaunes.fr"
+   },
+   "tags": {
+    "media": "标志",
+    "form": "",
+    "region": "法国",
+    "era": "",
+    "theme": "品牌符号"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-26-1.jpg",
+    "extra": [
+     "xl/GL-ART-26-2.jpg",
+     "xl/GL-ART-26-3.jpg",
+     "xl/GL-ART-26-4.jpg",
+     "xl/GL-ART-26-5.jpg",
+     "xl/GL-ART-26-6.jpg",
+     "xl/GL-ART-26-7.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 2.27,
+    "lat": 48.5,
+    "place": "法国·巴黎"
+   }
+  },
+  {
+   "id": "GL-ART-27",
+   "source": "classic",
+   "category": "food",
+   "year": "年代待考",
+   "title": "意大利 Pagine Gialle 品牌与吉祥物视觉",
+   "summary": "意大利黄页 Telecom Italia 时代的品牌视觉与电视广告传统。",
+   "detail": "Pagine Gialle 广告史线索丰富但中文资料稀缺，需意语检索采集。",
+   "sourceRef": {
+    "publisher": "旧广告录像/标志档案",
+    "url": "https://logos.fandom.com/wiki/Special:Search?query=Pagine+Gialle"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "",
+    "region": "意大利",
+    "era": "",
+    "theme": "品牌符号"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-27-1.jpg",
+    "extra": [
+     "xl/GL-ART-27-2.jpg",
+     "xl/GL-ART-27-3.jpg",
+     "xl/GL-ART-27-4.jpg",
+     "xl/GL-ART-27-5.jpg",
+     "xl/GL-ART-27-6.jpg",
+     "xl/GL-ART-27-7.jpg",
+     "xl/GL-ART-27-8.jpg",
+     "xl/GL-ART-27-9.jpg",
+     "xl/GL-ART-27-10.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 11.41,
+    "lat": 43.95,
+    "place": "意大利·佛罗伦萨"
+   }
+  },
+  {
+   "id": "GL-ART-28",
+   "source": "classic",
+   "category": "housing",
+   "year": "年代待考",
+   "title": "日本 NTT タウンページ（Town Page）封面",
+   "summary": "NTT 东日本/西日本发行的黄页品牌 Town Page 历年封面与「黄页=タウンページ」的普及视觉。",
+   "detail": "日本黄页分为东日本/西日本两社发行，封面 mascot「タウペくん」（待核）线索可查。",
+   "sourceRef": {
+    "publisher": "NTT 档案/旧藏",
+    "url": "https://www.google.com/search?tbm=isch&q=NTT+タウンページ+表紙"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "日本",
+    "era": "",
+    "theme": "封面"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-28-1.jpg",
+    "extra": [
+     "xl/GL-ART-28-2.jpg",
+     "xl/GL-ART-28-3.jpg",
+     "xl/GL-ART-28-4.jpg",
+     "xl/GL-ART-28-5.jpg",
+     "xl/GL-ART-28-6.jpg",
+     "xl/GL-ART-28-7.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 139.194,
+    "lat": 35.282,
+    "place": "日本·东京"
+   }
+  },
+  {
+   "id": "GL-ART-29",
+   "source": "classic",
+   "category": "transport",
+   "year": "1962-今",
+   "title": "各国「行走手指」仿用与魔改变体集",
+   "summary": "全球各地黄页出版商仿用 walking fingers 的插画变体（两指/四指/加帽加鞋等）。",
+   "detail": "因 AT&T 未注册三指版本商标，该符号事实上成为「公共领域标志」，变体数量庞大。",
+   "sourceRef": {
+    "publisher": "Wikipedia 提及现象",
+    "url": "“walking fingers yellow pages”：https://www.pinterest.com/search/pins/?q=walking%20fingers%20yellow%20pages"
+   },
+   "tags": {
+    "media": "标志",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "品牌符号"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-29-1.jpg",
+    "extra": [
+     "xl/GL-ART-29-2.jpg",
+     "xl/GL-ART-29-3.jpg",
+     "xl/GL-ART-29-4.jpg",
+     "xl/GL-ART-29-5.jpg",
+     "xl/GL-ART-29-6.jpg",
+     "xl/GL-ART-29-7.jpg",
+     "xl/GL-ART-29-8.jpg",
+     "xl/GL-ART-29-9.jpg",
+     "xl/GL-ART-29-10.jpg"
+    ]
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-30",
+   "source": "classic",
+   "category": "housing",
+   "year": "1880s-1900s",
+   "title": "19 世纪末黄页整版广告版画式排版",
+   "summary": "早期黄页中整版广告的装饰性排版与凸版印刷质感。",
+   "detail": "与 Bell Gothic 时代之后的纯功能排版形成「装饰—功能」对照组。",
+   "sourceRef": {
+    "publisher": "图书馆馆藏扫描",
+    "url": "https://www.loc.gov/photos/?q=telephone+directory+advertising"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "广告版式"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-30-1.jpg",
+    "extra": [
+     "xl/GL-ART-30-2.jpg",
+     "xl/GL-ART-30-3.jpg",
+     "xl/GL-ART-30-4.jpg",
+     "xl/GL-ART-30-5.jpg",
+     "xl/GL-ART-30-6.jpg",
+     "xl/GL-ART-30-7.jpg",
+     "xl/GL-ART-30-8.jpg",
+     "xl/GL-ART-30-9.jpg",
+     "xl/GL-ART-30-10.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.784,
+    "lat": 38.912,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-ART-31",
+   "source": "classic",
+   "category": "transport",
+   "year": "20世纪中-末",
+   "title": "电话亭内黄页（booth directory）实物",
+   "summary": "投币电话亭内被钢索拴住的厚重黄页，页角卷折的实用痕迹。",
+   "detail": "《终结者》等影视的同款道具母本，实用磨损即「使用痕迹美学」。",
+   "sourceRef": {
+    "publisher": "老照片/旧物收藏",
+    "url": "“telephone booth directory”：https://www.google.com/search?"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "公共设施"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-31-1.jpg",
+    "extra": [
+     "xl/GL-ART-31-2.jpg",
+     "xl/GL-ART-31-3.jpg",
+     "xl/GL-ART-31-4.jpg",
+     "xl/GL-ART-31-5.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.328,
+    "lat": 38.444,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-ART-32",
+   "source": "classic",
+   "category": "transport",
+   "year": "1984",
+   "title": "《终结者》(1984) 中翻黄页镜头的道具与截图",
+   "summary": "T-800 在电话亭翻阅电话簿寻找 Sarah Connor 的特写镜头组。",
+   "detail": "黄页在影史中最著名的「功能出演」：目录=命运名单。",
+   "sourceRef": {
+    "publisher": "IMDb / Filmsite",
+    "url": "https://www.filmsite.org/termtwo.html"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "",
+    "region": "美国",
+    "era": "1980-1999",
+    "theme": "电影"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-32-1.jpg"
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.696,
+    "lat": 38.552,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-ART-33",
+   "source": "classic",
+   "category": "housing",
+   "year": "2000-今",
+   "title": "黄页纸浆/再造纸手工艺作品",
+   "summary": "以黄页纸浆塑形的手作纸、纸碗、纸浆画。",
+   "detail": "黄页纸浆纤维特性（轻薄高回收浆）适合手作，是「材料重生」支线。",
+   "sourceRef": {
+    "publisher": "手作市集/ Etsy 类平台",
+    "url": "“yellow pages paper mache”：https://www.pinterest.com/search/pins/?q=yellow%20pages%20paper%20mache"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "再生工艺"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-33-1.jpg",
+    "extra": [
+     "xl/GL-ART-33-2.jpg",
+     "xl/GL-ART-33-3.jpg",
+     "xl/GL-ART-33-4.jpg"
+    ]
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-34",
+   "source": "classic",
+   "category": "housing",
+   "year": "2000-今",
+   "title": "撕页/折纸类黄页轻艺术",
+   "summary": "以单页黄页为材料的折纸、撕纸拼贴、书页雕刻。",
+   "detail": "注意与 Long-Bin Chen 的雕塑主线区分：此为民间轻量级再创作。",
+   "sourceRef": {
+    "publisher": "Pinterest/手工艺社区",
+    "url": "https://www.google.com/search?tbm=isch&q=yellow+pages+origami+craft"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "纸艺"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-34-1.jpg",
+    "extra": [
+     "xl/GL-ART-34-2.jpg"
+    ]
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-35",
+   "source": "classic",
+   "category": "clothing",
+   "year": "20世纪-今",
+   "title": "「大力士撕电话簿」表演影像",
+   "summary": "力气表演/世界纪录中徒手撕厚电话簿的经典桥段。",
+   "detail": "电话簿厚度=力量单位的民间度量衡，可与条目 ART-31 的「厚重感」互文。",
+   "sourceRef": {
+    "publisher": "吉尼斯/电视综艺档案",
+    "url": "https://www.google.com/search?tbm=isch&q=strongman+ripping+telephone+book"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "表演"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-35-1.jpg",
+    "extra": [
+     "xl/GL-ART-35-2.jpg",
+     "xl/GL-ART-35-3.jpg"
+    ]
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-36",
+   "source": "classic",
+   "category": "transport",
+   "year": "约2012",
+   "title": "YP「YP」菱形新标志（2012 前后重塑）",
+   "summary": "黄页全面转向数字后，将行走手指去「页」化、手掌柔和化的品牌重塑。",
+   "detail": "品牌从「翻书」到「点击」的符号迁移，适合与 1962 原稿做对比图版。",
+   "sourceRef": {
+    "publisher": "David Airey 设计博客",
+    "url": "https://www.davidairey.com/project/yellow-pages"
+   },
+   "tags": {
+    "media": "标志",
+    "form": "",
+    "region": "美国",
+    "era": "2000-今",
+    "theme": "品牌重塑"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-36-1.jpg",
+    "extra": [
+     "xl/GL-ART-36-2.jpg",
+     "xl/GL-ART-36-3.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.392,
+    "lat": 39.164,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-ART-37",
+   "source": "classic",
+   "category": "housing",
+   "year": "1990s-2000s",
+   "title": "美国 Yellow Book 独立黄页商品牌视觉",
+   "summary": "1990s-2000s 最大的独立黄页出版商 Yellow Book 的品牌与封面系统。",
+   "detail": "鼎盛期全美 2300 余种目录、250 家出版商的行业生态（据 Crowell 资料）中的一极。",
+   "sourceRef": {
+    "publisher": "旧藏/商业档案",
+    "url": "https://logos.fandom.com/wiki/Yellow_Book"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "封面"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-37-1.jpg",
+    "extra": [
+     "xl/GL-ART-37-2.jpg",
+     "xl/GL-ART-37-3.jpg",
+     "xl/GL-ART-37-4.jpg",
+     "xl/GL-ART-37-5.jpg",
+     "xl/GL-ART-37-6.jpg",
+     "xl/GL-ART-37-7.jpg",
+     "xl/GL-ART-37-8.jpg",
+     "xl/GL-ART-37-9.jpg",
+     "xl/GL-ART-37-10.jpg",
+     "xl/GL-ART-37-11.jpg",
+     "xl/GL-ART-37-12.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.832,
+    "lat": 38.9,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-ART-38",
+   "source": "classic",
+   "category": "transport",
+   "year": "1990s-2000s",
+   "title": "Verizon SuperPages「真黄页」对抗视觉",
+   "summary": "Baby Bell 时代 Verizon 旗下 SuperPages 的品牌视觉及与 walking fingers 阵营的市场区隔。",
+   "detail": "黄页市场「官方 Bell 系 vs 独立系」的品牌战视觉证据。",
+   "sourceRef": {
+    "publisher": "旧广告/商业新闻",
+    "url": "https://logos.fandom.com/wiki/SuperPages"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "品牌符号"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-38-1.jpg",
+    "extra": [
+     "xl/GL-ART-38-2.jpg",
+     "xl/GL-ART-38-3.jpg",
+     "xl/GL-ART-38-4.jpg",
+     "xl/GL-ART-38-5.jpg",
+     "xl/GL-ART-38-6.jpg",
+     "xl/GL-ART-38-7.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.152,
+    "lat": 39.212,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-ART-39",
+   "source": "classic",
+   "category": "housing",
+   "year": "年代待考",
+   "title": "中国 114 查号台与「号码百事通」视觉",
+   "summary": "114 查号台标志、话务员形象广告与号码百事通 rebranding 视觉。",
+   "detail": "中国「查号」文化的人格化形象谱系，与黄页互为姊妹媒介。",
+   "sourceRef": {
+    "publisher": "电信史料/旧广告",
+    "url": "https://image.baidu.com/search/index?"
+   },
+   "tags": {
+    "media": "海报",
+    "form": "",
+    "region": "中国",
+    "era": "",
+    "theme": "公共服务"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-39-1.jpg",
+    "extra": [
+     "xl/GL-ART-39-2.jpg",
+     "xl/GL-ART-39-3.jpg",
+     "xl/GL-ART-39-4.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 121.774,
+    "lat": 31.686,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-ART-40",
+   "source": "classic",
+   "category": "housing",
+   "year": "1960s-2000s",
+   "title": "黄页封面上的「手指点页」图库母题",
+   "summary": "俯拍手指点触黄页列表的摄影构图，反复出现于各国封面与广告。",
+   "detail": "「手指—书页」接触构图是黄页摄影的「圣像式」母题。",
+   "sourceRef": {
+    "publisher": "图库/广告图集",
+    "url": "https://www.alamy.com/stock-photo/finger-yellow-pages.html"
+   },
+   "tags": {
+    "media": "海报",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "摄影母题"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-40-1.jpg",
+    "extra": [
+     "xl/GL-ART-40-2.jpg",
+     "xl/GL-ART-40-3.jpg",
+     "xl/GL-ART-40-4.jpg"
+    ]
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-41",
+   "source": "classic",
+   "category": "housing",
+   "year": "1900-1980",
+   "title": "早期分类小图标插画（锁匠/水管工）",
+   "summary": "黄页类目旁的装饰性行业小图标，从版画到剪贴画风格的演变。",
+   "detail": "信息图标的远祖：在文字分类旁提供视觉速读锚点。",
+   "sourceRef": {
+    "publisher": "旧黄页扫描",
+    "url": "https://www.ebay.com/sch/i.html?_nkw=vintage+yellow+pages+directory"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "图标"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-41-1.jpg",
+    "extra": [
+     "xl/GL-ART-41-2.jpg",
+     "xl/GL-ART-41-3.jpg"
+    ]
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.816,
+    "lat": 39.068,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-ART-42",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "黄页专色黄油墨/纸色样卡",
+   "summary": "印刷厂留存的黄页纸色与专色油墨样卡、Pantone 近似值。",
+   "detail": "「黄页黄」是功能性选色（与黑字对比度最优）而非品牌色卡，色样本身是设计史证物。",
+   "sourceRef": {
+    "publisher": "印刷厂档案",
+    "url": "https://www.pantone.com/color-finder"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "印刷工艺"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-42-1.jpg",
+    "extra": [
+     "xl/GL-ART-42-2.jpg",
+     "xl/GL-ART-42-3.jpg"
+    ]
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-43",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪中-末",
+   "title": "黄页拇指索引（thumb index）实物",
+   "summary": "厚黄页侧面按字母切割的半月形索引口。",
+   "detail": "「物理检索界面」的原型，与数字时代的字母锚点导航同源。",
+   "sourceRef": {
+    "publisher": "旧黄页实物",
+    "url": "https://www.google.com/search?tbm=isch&q=yellow+pages+thumb+index"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "书籍工艺"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-43-1.jpg"
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-44",
+   "source": "classic",
+   "category": "transport",
+   "year": "1962-2000s",
+   "title": "「Walking Fingers」邮票/电话卡等衍生品",
+   "summary": "以行走手指为主题的纪念邮票、电话卡、广告周边。",
+   "detail": "公共品牌符号渗入收藏市场，可追踪其流通史。",
+   "sourceRef": {
+    "publisher": "集邮/卡类收藏市场",
+    "url": "“walking fingers stamp”：https://www.google.com/search?tbm=isch&q=walking+fingers+stamp"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "衍生品"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-44-1.jpg",
+    "extra": [
+     "xl/GL-ART-44-2.jpg",
+     "xl/GL-ART-44-3.jpg"
+    ]
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-45",
+   "source": "classic",
+   "category": "housing",
+   "year": "2000-今",
+   "title": "黄页主题广告史展览海报",
+   "summary": "美术馆/设计博物馆广告史展览中黄页相关单元的展陈与海报。",
+   "detail": "如 V&A 广告收藏、NFSA 澳洲广告典藏中的黄页单元。",
+   "sourceRef": {
+    "publisher": "美术馆档案",
+    "url": "https://www.advertisingarchives.co.uk"
+   },
+   "tags": {
+    "media": "海报",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "展览"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-45-1.jpg",
+    "extra": [
+     "xl/GL-ART-45-2.jpg",
+     "xl/GL-ART-45-3.jpg",
+     "xl/GL-ART-45-4.jpg",
+     "xl/GL-ART-45-5.jpg"
+    ]
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-46",
+   "source": "classic",
+   "category": "housing",
+   "year": "1950s-2000s",
+   "title": "黄页上门投递纪实摄影",
+   "summary": "成捆黄页堆在门廊、送报人投递、家庭翻阅的纪实摄影。",
+   "detail": "「每年一次的信息空投」作为社会景观的影像记录。",
+   "sourceRef": {
+    "publisher": "图库/地方报纸档案",
+    "url": "“yellow pages delivery”：https://www.gettyimages.com/photos/yellow-pages-delivery"
+   },
+   "tags": {
+    "media": "海报",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "社会景观"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-46-1.jpg",
+    "extra": [
+     "xl/GL-ART-46-2.jpg",
+     "xl/GL-ART-46-3.jpg"
+    ]
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-47",
+   "source": "classic",
+   "category": "housing",
+   "year": "年代待考",
+   "title": "Yell 公司「Yellow Pages 五十年」类纪念出版物",
+   "summary": "出版商自印的品牌史纪念册、周年特刊。",
+   "detail": "品牌自我史叙述的元档案，需注意其宣传立场。",
+   "sourceRef": {
+    "publisher": "旧书市场",
+    "url": "“Yellow Pages 50th anniversary book”：https://www.google.com/search?tbm=isch&q=Yellow+Pages+50th+anniversary+book"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "英国",
+    "era": "",
+    "theme": "品牌史"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-47-1.jpg"
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-48",
+   "source": "classic",
+   "category": "food",
+   "year": "2000-今",
+   "title": "黄页在音乐剧/舞台剧布景中的道具化使用",
+   "summary": "以黄页堆作为年代感布景元素的舞台与影视美术。",
+   "detail": "黄页作为「20 世纪视觉锚点」进入美术指导的道具语汇。",
+   "sourceRef": {
+    "publisher": "剧目档案/截图",
+    "url": "“yellow pages theatre prop”：https://www.google.com/search?tbm=isch&q=yellow+pages+theatre+prop"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "布景道具"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-48-1.jpg",
+    "extra": [
+     "xl/GL-ART-48-2.jpg",
+     "xl/GL-ART-48-3.jpg"
+    ]
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-49",
+   "source": "classic",
+   "category": "housing",
+   "year": "2015-今",
+   "title": "AI 时代的黄页美学复古再创作",
+   "summary": "当代设计师以黄页黄、粗黑无衬线、目录网格做的复古风海报/UI 练习。",
+   "detail": "「新复古」潮流中的黄页元素再语境化，档案采集时应记录原作与再创作关系。",
+   "sourceRef": {
+    "publisher": "Behance/Dribbble 类平台",
+    "url": "“yellow pages”：https://www.midjourney.com/showcase"
+   },
+   "tags": {
+    "media": "数字",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "复古设计"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-ART-50",
+   "source": "classic",
+   "category": "transport",
+   "year": "2026",
+   "title": "本档案的四角度交叉图版（工作方法件）",
+   "summary": "将行走手指、Bell 字体、JR Hartley、Not happy Jan、Long-Bin Chen 五件锚点并置的比较图版。",
+   "detail": "作为采集工作的「基准标尺」，新条目按与五锚点的关系定位。",
+   "sourceRef": {
+    "publisher": "本档案综合",
+    "url": "（本档案生成）"
+   },
+   "tags": {
+    "media": "数字",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "方法"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": "xl/GL-ART-50-1.jpg"
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-拓-V-01",
+   "source": "classic",
+   "category": "transport",
+   "year": "—",
+   "title": "「行走手指」全球变体采集图板",
+   "summary": "以公开图板作为各国行走手指魔改变体的采集入口，补充 ART-29 的变体谱系。",
+   "detail": "五感功能分类的拓展条目，对应图片见来源链接列；引用前需核实。",
+   "sourceRef": {
+    "publisher": "本档案五感拓展（新增）",
+    "url": "https://www.pinterest.com/search/pins/?q=walking%20fingers%20yellow%20pages"
+   },
+   "tags": {
+    "media": "",
+    "form": "",
+    "region": "",
+    "era": "",
+    "theme": "五感拓展"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-拓-V-02",
+   "source": "classic",
+   "category": "housing",
+   "year": "—",
+   "title": "英国黄页封面序列图库",
+   "summary": "Alamy 图库的英国黄页封面序列，支撑 ART-25「封面×年代」图版项目。",
+   "detail": "五感功能分类的拓展条目，对应图片见来源链接列；引用前需核实。",
+   "sourceRef": {
+    "publisher": "本档案五感拓展（新增）",
+    "url": "https://www.alamy.com/stock-photo/yellow-pages-uk.html"
+   },
+   "tags": {
+    "media": "",
+    "form": "",
+    "region": "",
+    "era": "",
+    "theme": "五感拓展"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-拓-V-03",
+   "source": "classic",
+   "category": "transport",
+   "year": "—",
+   "title": "「手指点页」摄影母题图库",
+   "summary": "俯拍手指点触名录的圣像式构图图库，拓展 ART-40 的摄影母题采集。",
+   "detail": "五感功能分类的拓展条目，对应图片见来源链接列；引用前需核实。",
+   "sourceRef": {
+    "publisher": "本档案五感拓展（新增）",
+    "url": "https://www.alamy.com/stock-photo/finger-yellow-pages.html"
+   },
+   "tags": {
+    "media": "",
+    "form": "",
+    "region": "",
+    "era": "",
+    "theme": "五感拓展"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-拓-V-04",
+   "source": "classic",
+   "category": "clothing",
+   "year": "—",
+   "title": "黄页上门投递纪实摄影集",
+   "summary": "Getty 图库中成捆黄页投递的街景照片，拓展 ART-46 的社会景观线索。",
+   "detail": "五感功能分类的拓展条目，对应图片见来源链接列；引用前需核实。",
+   "sourceRef": {
+    "publisher": "本档案五感拓展（新增）",
+    "url": "https://www.gettyimages.com/photos/yellow-pages-delivery"
+   },
+   "tags": {
+    "media": "",
+    "form": "",
+    "region": "",
+    "era": "",
+    "theme": "五感拓展"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-拓-V-05",
+   "source": "classic",
+   "category": "housing",
+   "year": "—",
+   "title": "19 世纪末电话簿整版广告版画（国会图书馆）",
+   "summary": "美国国会图书馆馆藏的电话簿广告版画，拓展 ART-30 的「装饰—功能」对照组。",
+   "detail": "五感功能分类的拓展条目，对应图片见来源链接列；引用前需核实。",
+   "sourceRef": {
+    "publisher": "本档案五感拓展（新增）",
+    "url": "https://www.loc.gov/photos/?q=telephone+directory+advertising"
+   },
+   "tags": {
+    "media": "",
+    "form": "",
+    "region": "",
+    "era": "",
+    "theme": "五感拓展"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-拓-A-01",
+   "source": "classic",
+   "category": "transport",
+   "year": "—",
+   "title": "1962 广告运动影像与广告歌资料",
+   "summary": "Medium 长文汇总的 Let Your Fingers Do the Walking 运动图文声资料，拓展 ART-06 声音档案。",
+   "detail": "五感功能分类的拓展条目，对应图片见来源链接列；引用前需核实。",
+   "sourceRef": {
+    "publisher": "本档案五感拓展（新增）",
+    "url": "https://medium.com/@onlykutts/yellow-pages-the-logo-line-and-campaign-55faa40974d1"
+   },
+   "tags": {
+    "media": "",
+    "form": "",
+    "region": "",
+    "era": "",
+    "theme": "五感拓展"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-拓-A-02",
+   "source": "classic",
+   "category": "food",
+   "year": "—",
+   "title": "《半拿铁》播客「中国黄页」单集音频",
+   "summary": "中文商业史播客的黄页声音叙事，与 LIT-48 互证，可直接收听采集。",
+   "detail": "五感功能分类的拓展条目，对应图片见来源链接列；引用前需核实。",
+   "sourceRef": {
+    "publisher": "本档案五感拓展（新增）",
+    "url": "https://www.xiaoyuzhoufm.com/episode/68511de84abe6e29cb90e684"
+   },
+   "tags": {
+    "media": "",
+    "form": "",
+    "region": "",
+    "era": "",
+    "theme": "五感拓展"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-拓-A-03",
+   "source": "classic",
+   "category": "housing",
+   "year": "—",
+   "title": "J.R. Hartley 广告旁白原声（英国）",
+   "summary": "Marketing Week 评选档案中的广告片，旁白「Good old Yellow Pages…」为听觉文案范本。",
+   "detail": "五感功能分类的拓展条目，对应图片见来源链接列；引用前需核实。",
+   "sourceRef": {
+    "publisher": "本档案五感拓展（新增）",
+    "url": "https://www.marketingweek.com/yellow-pages-best-ad-1980s/"
+   },
+   "tags": {
+    "media": "",
+    "form": "",
+    "region": "",
+    "era": "",
+    "theme": "五感拓展"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-拓-O-01",
+   "source": "classic",
+   "category": "clothing",
+   "year": "—",
+   "title": "Pantone「黄页黄」近似色卡",
+   "summary": "Pantone 色库检索入口，为 ART-42 油墨样卡与「黄页黄」功能选色提供比色锚点（油墨气味联想）。",
+   "detail": "五感功能分类的拓展条目，对应图片见来源链接列；引用前需核实。",
+   "sourceRef": {
+    "publisher": "本档案五感拓展（新增）",
+    "url": "https://www.pantone.com/color-finder"
+   },
+   "tags": {
+    "media": "",
+    "form": "",
+    "region": "",
+    "era": "",
+    "theme": "五感拓展"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-拓-O-02",
+   "source": "classic",
+   "category": "housing",
+   "year": "—",
+   "title": "新闻纸与油墨工艺背景（Bell Gothic）",
+   "summary": "维基条目附图展示轻型新闻纸与高速印刷工艺——新黄页油墨香的物质来源。",
+   "detail": "五感功能分类的拓展条目，对应图片见来源链接列；引用前需核实。",
+   "sourceRef": {
+    "publisher": "本档案五感拓展（新增）",
+    "url": "https://en.wikipedia.org/wiki/Bell_Gothic"
+   },
+   "tags": {
+    "media": "",
+    "form": "",
+    "region": "",
+    "era": "",
+    "theme": "五感拓展"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-拓-O-03",
+   "source": "classic",
+   "category": "housing",
+   "year": "—",
+   "title": "不同年代黄页纸老化对照图检索",
+   "summary": "旧黄页泛黄脆化实物图检索入口，拓展 FRM-38 纸张老化（酸化气味）谱系。",
+   "detail": "五感功能分类的拓展条目，对应图片见来源链接列；引用前需核实。",
+   "sourceRef": {
+    "publisher": "本档案五感拓展（新增）",
+    "url": "https://www.google.com/search?tbm=isch&q=old+yellow+pages+paper+aging"
+   },
+   "tags": {
+    "media": "",
+    "form": "",
+    "region": "",
+    "era": "",
+    "theme": "五感拓展"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-拓-T-01",
+   "source": "classic",
+   "category": "transport",
+   "year": "—",
+   "title": "电话亭栓绳黄页实物图检索",
+   "summary": "投币电话亭内被钢索拴住的黄页实物图，拓展 ART-31 的使用痕迹美学。",
+   "detail": "五感功能分类的拓展条目，对应图片见来源链接列；引用前需核实。",
+   "sourceRef": {
+    "publisher": "本档案五感拓展（新增）",
+    "url": "https://www.google.com/search?tbm=isch&q=telephone+booth+directory"
+   },
+   "tags": {
+    "media": "",
+    "form": "",
+    "region": "",
+    "era": "",
+    "theme": "五感拓展"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-拓-T-02",
+   "source": "classic",
+   "category": "housing",
+   "year": "—",
+   "title": "拇指索引实物图检索",
+   "summary": "厚册侧面半月形索引口的实物照片，拓展 ART-43/FRM-10 的物理检索界面。",
+   "detail": "五感功能分类的拓展条目，对应图片见来源链接列；引用前需核实。",
+   "sourceRef": {
+    "publisher": "本档案五感拓展（新增）",
+    "url": "https://www.google.com/search?tbm=isch&q=yellow+pages+thumb+index"
+   },
+   "tags": {
+    "media": "",
+    "form": "",
+    "region": "",
+    "era": "",
+    "theme": "五感拓展"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-拓-T-03",
+   "source": "classic",
+   "category": "food",
+   "year": "—",
+   "title": "大力士撕电话簿影像图检索",
+   "summary": "徒手撕厚电话簿表演影像，拓展 ART-35 的「厚度=力量」民间度量衡。",
+   "detail": "五感功能分类的拓展条目，对应图片见来源链接列；引用前需核实。",
+   "sourceRef": {
+    "publisher": "本档案五感拓展（新增）",
+    "url": "https://www.google.com/search?tbm=isch&q=strongman+ripping+telephone+book"
+   },
+   "tags": {
+    "media": "",
+    "form": "",
+    "region": "",
+    "era": "",
+    "theme": "五感拓展"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-拓-T-04",
+   "source": "classic",
+   "category": "housing",
+   "year": "—",
+   "title": "黄页纸浆手作图板",
+   "summary": "纸浆塑形、纸碗、纸浆画等手作图板，拓展 ART-33 的材料重生支线。",
+   "detail": "五感功能分类的拓展条目，对应图片见来源链接列；引用前需核实。",
+   "sourceRef": {
+    "publisher": "本档案五感拓展（新增）",
+    "url": "https://www.pinterest.com/search/pins/?q=yellow%20pages%20paper%20mache"
+   },
+   "tags": {
+    "media": "",
+    "form": "",
+    "region": "",
+    "era": "",
+    "theme": "五感拓展"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-拓-T-05",
+   "source": "classic",
+   "category": "housing",
+   "year": "—",
+   "title": "陈龙斌电话簿雕塑图集（Designboom）",
+   "summary": "佛头与总统山雕塑的高清图集，触觉材料线索的美术馆级档案。",
+   "detail": "五感功能分类的拓展条目，对应图片见来源链接列；引用前需核实。",
+   "sourceRef": {
+    "publisher": "本档案五感拓展（新增）",
+    "url": "https://www.designboom.com/art/long-bin-chen-makes-recycled-book-sculptures/"
+   },
+   "tags": {
+    "media": "",
+    "form": "",
+    "region": "",
+    "era": "",
+    "theme": "五感拓展"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-拓-G-01",
+   "source": "classic",
+   "category": "food",
+   "year": "—",
+   "title": "餐饮类目检索谱系（Pizza 类目）",
+   "summary": "TurnKey 技术史梳理黄页分类法——餐饮类目是「城市美食指引」功能的数据骨架。",
+   "detail": "五感功能分类的拓展条目，对应图片见来源链接列；引用前需核实。",
+   "sourceRef": {
+    "publisher": "本档案五感拓展（新增）",
+    "url": "https://turnkeydirectories.com/history-of-the-underlying-technologies-behind-internet-business-directories-and-maps/"
+   },
+   "tags": {
+    "media": "",
+    "form": "",
+    "region": "",
+    "era": "",
+    "theme": "五感拓展"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-拓-G-02",
+   "source": "classic",
+   "category": "food",
+   "year": "—",
+   "title": "优惠券式餐饮广告版式图检索",
+   "summary": "虚线边框+剪刀符号的可剪优惠券广告，拓展 FRM-26「看到→吃到」的兑换闭环。",
+   "detail": "五感功能分类的拓展条目，对应图片见来源链接列；引用前需核实。",
+   "sourceRef": {
+    "publisher": "本档案五感拓展（新增）",
+    "url": "https://www.google.com/search?tbm=isch&q=yellow+pages+coupon+ad"
+   },
+   "tags": {
+    "media": "",
+    "form": "",
+    "region": "",
+    "era": "",
+    "theme": "五感拓展"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-拓-G-03",
+   "source": "classic",
+   "category": "food",
+   "year": "—",
+   "title": "「吃货黄页」中文网络用法检索",
+   "summary": "「黄页」词义泛化为美食信息汇总的中文语料检索入口，拓展 LIT-37。",
+   "detail": "五感功能分类的拓展条目，对应图片见来源链接列；引用前需核实。",
+   "sourceRef": {
+    "publisher": "本档案五感拓展（新增）",
+    "url": "https://www.google.com/search?q=%22%E5%90%83%E8%B4%A7%E9%BB%84%E9%A1%B5%22"
+   },
+   "tags": {
+    "media": "",
+    "form": "",
+    "region": "",
+    "era": "",
+    "theme": "五感拓展"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-01",
+   "source": "classic",
+   "category": "housing",
+   "year": "1983",
+   "title": "J.R. Hartley：由广告诞生的虚构作者",
+   "summary": "1983 年英国黄页广告塑造的温柔老作家形象——出门寻书不得，回家用黄页打电话找到书店，原来自己就是作者。",
+   "detail": "广告叙事获得文学人物般的生命力：英国图书馆与书店真的收到大量寻书请求。",
+   "sourceRef": {
+    "publisher": "Wikipedia / Marketing Week",
+    "url": "https://www.marketingweek.com/yellow-pages-best-ad-1980s/"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "",
+    "region": "英国",
+    "era": "1980-1999",
+    "theme": "广告叙事"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-02",
+   "source": "classic",
+   "category": "housing",
+   "year": "1983",
+   "title": "「My name? Oh, yes, it's J.R. Hartley.」台词",
+   "summary": "老作家在电话中报出自己名字的点睛台词，成为英国流行语。",
+   "detail": "「寻找即自寻」的叙事反转结构，是短叙事教学的范本段落。",
+   "sourceRef": {
+    "publisher": "Amusing Planet",
+    "url": "https://www.amusingplanet.com/2022/06/the-book-that-became-famous-before-it.html"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "英国",
+    "era": "1980-1999",
+    "theme": "台词"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-03",
+   "source": "classic",
+   "category": "housing",
+   "year": "1991",
+   "title": "《Fly Fishing: Memories of Angling Days》",
+   "summary": "Michael Russell 借 J.R. Hartley 笔名写出的真实回忆录体钓鱼书，Stanley Paul 1991 年出版。",
+   "detail": "虚构人物反向催生实体书：13 万册圣诞季销量，文学史上的「广告—文学」回环案例。",
+   "sourceRef": {
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fly_Fishing:_Memories_of_Angling_Days"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "英国",
+    "era": "1980-1999",
+    "theme": "广告衍生文学"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-04",
+   "source": "classic",
+   "category": "housing",
+   "year": "约1992",
+   "title": "续作《J.R. Hartley Casts Again: More Memories of Angling Days》",
+   "summary": "前书续集，延续笔名与怀旧文体。",
+   "detail": "出版年份需以版权页核实。",
+   "sourceRef": {
+    "publisher": "Fishing Megastore Blog 等",
+    "url": "https://blog.fishingmegastore.com/2024/06/fly-fishing-by-jr-hartley-advert-that.html"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "英国",
+    "era": "",
+    "theme": "广告衍生文学"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-05",
+   "source": "classic",
+   "category": "transport",
+   "year": "1984",
+   "title": "《终结者》(1984)：电话簿即命运名单",
+   "summary": "T-800 仅凭姓名与城市，靠电话亭里的电话簿按图索骥逐一猎杀 Sarah Connor。",
+   "detail": "黄页在影史最著名的意象化：公共信息簿=死亡名单，信息时代的哥特式恐惧。",
+   "sourceRef": {
+    "publisher": "Filmsite / IMDb",
+    "url": "https://www.filmsite.org/termtwo.html"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "",
+    "region": "美国",
+    "era": "1980-1999",
+    "theme": "电影"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.712,
+    "lat": 39.224,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-LIT-06",
+   "source": "classic",
+   "category": "food",
+   "year": "1984",
+   "title": "Sarah 餐厅查簿自救段落",
+   "summary": "Sarah 在餐厅电话区翻电话簿，发现自己竟是名单上的「第三个 Sarah Connor」。",
+   "detail": "目录的「同名并列」特性被转化为悬念装置：排序本身成为倒计时。",
+   "sourceRef": {
+    "publisher": "Filmsite",
+    "url": "同上"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "",
+    "region": "美国",
+    "era": "1980-1999",
+    "theme": "电影"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.976,
+    "lat": 38.408,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-LIT-07",
+   "source": "classic",
+   "category": "clothing",
+   "year": "2000-今",
+   "title": "「Not happy, Jan!」进入澳洲日常语",
+   "summary": "表示因他人疏忽而不满的口头禅，入选澳洲最佳广告语录。",
+   "detail": "广告台词的碎片化、克制怒意（数到十）使其成为全民修辞资源。",
+   "sourceRef": {
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Not_happy,_Jan!"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "澳大利亚",
+    "era": "2000-今",
+    "theme": "俗语"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-08",
+   "source": "classic",
+   "category": "housing",
+   "year": "2004",
+   "title": "「Not happy, John!」政治挪用",
+   "summary": "2004 年反对霍华德连任运动的口号化挪用，后成书名。",
+   "detail": "广告梗进入政治动员的完整链条：广告→俗语→竞选口号。",
+   "sourceRef": {
+    "publisher": "Wikipedia",
+    "url": "同上"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "澳大利亚",
+    "era": "2000-今",
+    "theme": "政治挪用"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-09",
+   "source": "classic",
+   "category": "housing",
+   "year": "2000s",
+   "title": "读者来信署名传统「Not happy, Jan/John」",
+   "summary": "澳洲报纸读者来信的常见匿名署名。",
+   "detail": "印刷媒介内部的自我指涉：黄页广告梗在报纸语域中的固定化。",
+   "sourceRef": {
+    "publisher": "Wikipedia",
+    "url": "同上"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "澳大利亚",
+    "era": "",
+    "theme": "报刊文化"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-10",
+   "source": "classic",
+   "category": "transport",
+   "year": "1962-今",
+   "title": "「Let your fingers do the walking」成为英语成语",
+   "summary": "「让手指替你跑腿」从广告 slogan 固化为日常表达，1984 年 AT&T 分拆后仍长期流传。",
+   "detail": "身体隐喻（手指代替双腿）把「检索」这一抽象动作变得可感。",
+   "sourceRef": {
+    "publisher": "WARC / Wikipedia",
+    "url": "https://www.warc.com/en/article/at%26%23x0026%3Bt%3A-let-your-fingers-do-the-walking-campaign-(1962)-ee0c76440b6349d4ae153476b5a7095e"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "俗语"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.656,
+    "lat": 38.588,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-LIT-11",
+   "source": "classic",
+   "category": "clothing",
+   "year": "1983",
+   "title": "「Good old Yellow Pages. We don't just help with the nasty things in life…」旁白",
+   "summary": "JR Hartley 广告的经典旁白：黄页不只帮你对付堵塞的水管，也帮你在意美好的事物。",
+   "detail": "「功能—情感」双向定位的文案范本，直接扭转了品类认知。",
+   "sourceRef": {
+    "publisher": "Marketing Week",
+    "url": "https://www.marketingweek.com/yellow-pages-best-ad-1980s/"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "英国",
+    "era": "1980-1999",
+    "theme": "广告文案"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-12",
+   "source": "classic",
+   "category": "clothing",
+   "year": "2000-2003",
+   "title": "「Closing Soon. Call 132378」截稿文案",
+   "summary": "澳洲黄页年度截稿系列的紧迫性文案。",
+   "detail": "把 B2B 销售节点（广告截稿）转化为大众紧张感的文案操作。",
+   "sourceRef": {
+    "publisher": "AdNews / Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Not_happy,_Jan!"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "澳大利亚",
+    "era": "2000-今",
+    "theme": "广告文案"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-13",
+   "source": "classic",
+   "category": "clothing",
+   "year": "1995",
+   "title": "中国黄页首页寄语「从前，随着悠扬的驼铃…」",
+   "summary": "chinapages.com 测试主页上的开篇寄语：「从前，随着悠扬的驼铃，灿烂的东方文明广布天涯。今天，谁载我们走向世界？」",
+   "detail": "丝绸之路意象嫁接互联网创业叙事，中文互联网最早的「诗意文案」之一。",
+   "sourceRef": {
+    "publisher": "虎嗅",
+    "url": "https://www.huxiu.com/article/2334767.html"
+   },
+   "tags": {
+    "media": "数字",
+    "form": "",
+    "region": "中国",
+    "era": "1980-1999",
+    "theme": "创业叙事"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 121.262,
+    "lat": 31.614,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-LIT-14",
+   "source": "classic",
+   "category": "clothing",
+   "year": "1995",
+   "title": "中国黄页的「水浒传」栏目",
+   "summary": "早期中国黄页把企业名录栏目命名为「水浒传」——草莽气十足的名录。",
+   "detail": "古典文学标签用于信息架构的奇例，体现早期互联网的中文命名趣味。",
+   "sourceRef": {
+    "publisher": "虎嗅",
+    "url": "同上"
+   },
+   "tags": {
+    "media": "数字",
+    "form": "",
+    "region": "中国",
+    "era": "",
+    "theme": "命名文化"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 121.39,
+    "lat": 30.942,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-LIT-15",
+   "source": "classic",
+   "category": "food",
+   "year": "1995",
+   "title": "望湖宾馆「我们真的挂到网上了吗」",
+   "summary": "中国黄页首个客户望湖宾馆付款 2 万元做主页，因无法上网只能看网页照片，半信半疑。",
+   "detail": "「看不见的商品」交易的中国互联网开端的寓言式瞬间。",
+   "sourceRef": {
+    "publisher": "虎嗅",
+    "url": "同上"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "中国",
+    "era": "",
+    "theme": "创业叙事"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 121.774,
+    "lat": 31.266,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-LIT-16",
+   "source": "classic",
+   "category": "clothing",
+   "year": "2025",
+   "title": "J.R. Hartley 蓝牌匾提议",
+   "summary": "2025 年广告取景房房主提议挂牌「1983 年，J R Hartley 在此用黄页寻找《Fly Fishing》」。",
+   "detail": "虚构人物获得「历史纪念地」待遇，广告叙事完成向城市记忆的升格。",
+   "sourceRef": {
+    "publisher": "The Oldie",
+    "url": "https://www.theoldie.co.uk/blog/my-tenants-name-jr-hartley"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "英国",
+    "era": "2000-今",
+    "theme": "记忆政治"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-17",
+   "source": "classic",
+   "category": "food",
+   "year": "2001",
+   "title": "2001 年 Lumsden 去世后的广告重播致敬",
+   "summary": "Norman Lumsden 2001 年逝世后，原广告被重播以表悼念。",
+   "detail": "广告片进入国家悼念仪式的罕见案例，标志其「国民文本」地位。",
+   "sourceRef": {
+    "publisher": "Wikipedia / The Drum",
+    "url": "https://www.thedrum.com/news/world-s-best-ads-ever-96-jr-hartley-gets-people-using-the-yellow-pages-non"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "",
+    "region": "英国",
+    "era": "2000-今",
+    "theme": "悼念文化"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-18",
+   "source": "classic",
+   "category": "clothing",
+   "year": "1983-今",
+   "title": "JR Hartley 客串英国 sitcom 与综艺的引用线索",
+   "summary": "英国喜剧节目对 JR Hartley 的反复戏仿与引用。",
+   "detail": "需逐条核实具体节目与年份，作为采集线索登记。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "",
+    "region": "英国",
+    "era": "",
+    "theme": "戏仿"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-19",
+   "source": "classic",
+   "category": "food",
+   "year": "20世纪-今",
+   "title": "侦探小说中的「翻黄页找人」桥段类型",
+   "summary": "侦探/悬疑文学以名录检索作为排查手段的类型化段落。",
+   "detail": "与《终结者》共享「名单即情节引擎」结构，需采集具体作品段落。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "类型文学"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-20",
+   "source": "classic",
+   "category": "clothing",
+   "year": "1984-今",
+   "title": "恐怖/惊悚片借用名录的杀戮名单结构",
+   "summary": "以电话簿随机选择受害者的叙事模式（Terminator 之后的变体）。",
+   "detail": "「目录匿名性→现代恐怖」的结构谱系，待补充具体片目。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "类型电影"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-21",
+   "source": "classic",
+   "category": "housing",
+   "year": "长期",
+   "title": "「电话簿厚」比喻",
+   "summary": "形容书籍/文件厚重的日常比喻（「厚得像本电话簿」）。",
+   "detail": "度量衡式比喻：电话簿=厚度的民间单位，跨语言存在（中文、英文均有）。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "语言民俗"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-22",
+   "source": "classic",
+   "category": "housing",
+   "year": "长期",
+   "title": "黄页垫桌脚/垫锅/砸核桃的民俗叙事",
+   "summary": "家庭中将废弃黄页用作垫物、引火的实用记忆。",
+   "detail": "「信息工具降级为生活工具」的物质文化叙事，中文网络回忆帖丰富。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "跨国（中国尤盛）",
+    "era": "",
+    "theme": "物质民俗"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 121.422,
+    "lat": 30.798,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-LIT-23",
+   "source": "classic",
+   "category": "food",
+   "year": "20世纪-今",
+   "title": "撕电话簿泄压叙事",
+   "summary": "以手撕厚电话簿作为愤怒/压力宣泄的图像叙事。",
+   "detail": "与 ART-35 表演影像互文，作为文学意象登记。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "身体叙事"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-24",
+   "source": "classic",
+   "category": "housing",
+   "year": "1983-今",
+   "title": "广告学教材中的 JR Hartley 案例书写",
+   "summary": "广告学/营销学教材对 JR Hartley 的经典化论述。",
+   "detail": "非紧急类查询从 6% 到 20% 的数据是案例被反复征引的核心论据。",
+   "sourceRef": {
+    "publisher": "Marketing Week / The Drum",
+    "url": "https://www.thedrum.com/news/world-s-best-ads-ever-96-jr-hartley-gets-people-using-the-yellow-pages-non"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "英国",
+    "era": "",
+    "theme": "经典化"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-25",
+   "source": "classic",
+   "category": "clothing",
+   "year": "1984-今",
+   "title": "「第三个 Sarah Connor」的名单悬念结构分析",
+   "summary": "影评与叙事学对终结者查簿段落的反复解读。",
+   "detail": "「按字母顺序排列的死亡」：检索界面作为悬念发生器。",
+   "sourceRef": {
+    "publisher": "Filmsite / 学术检索",
+    "url": "https://www.filmsite.org/termtwo.html"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "叙事分析"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.256,
+    "lat": 39.32,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-LIT-26",
+   "source": "classic",
+   "category": "food",
+   "year": "1981",
+   "title": "「867-5309/Jenny」(Tommy Tutone, 1981) 的电话号码想象",
+   "summary": "摇滚史上著名的「电话歌」：墙上看到的电话号码与 Jenny 的想象性召唤。",
+   "detail": "与黄页共享「电话=连接陌生人」的文化土壤；歌词与真实号码骚扰事件需核实后采集。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "声音",
+    "form": "",
+    "region": "美国",
+    "era": "1980-1999",
+    "theme": "电话歌"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.376,
+    "lat": 38.492,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-LIT-27",
+   "source": "classic",
+   "category": "clothing",
+   "year": "长期",
+   "title": "歌曲中的「phone book/黄页」直接意象选集",
+   "summary": "流行歌曲中直接提及电话簿/黄页的歌词选段。",
+   "detail": "需逐条检索 Genius 类歌词库后核实。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "声音",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "电话歌"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-28",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪-今",
+   "title": "同名诗歌《The Yellow Pages》及目录诗线索",
+   "summary": "以黄页/电话簿为题的当代诗歌与「目录诗」实验写作。",
+   "detail": "信息艺术（information art）与诗歌交叉地带的实验文本，线索需英文学术检索。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "诗歌"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-29",
+   "source": "classic",
+   "category": "food",
+   "year": "1980s-2000s",
+   "title": "村上春树作品中的电话簿意象",
+   "summary": "检索村上小说中电话簿作为都市孤独/检索意象的段落。",
+   "detail": "需逐部作品检索确认，登记为高价值线索。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "日本",
+    "era": "",
+    "theme": "都市文学"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 140.458,
+    "lat": 35.906,
+    "place": "日本·东京"
+   }
+  },
+  {
+   "id": "GL-LIT-30",
+   "source": "classic",
+   "category": "housing",
+   "year": "2000-今",
+   "title": "中国文学中的「查号」与黄页记忆散文",
+   "summary": "中文散文、专栏中以 114/黄页为记忆触发器的怀旧书写。",
+   "detail": "黄页 2010 年后退出中国家庭，相关怀旧书写集中出现，宜做语料采集。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "中国",
+    "era": "",
+    "theme": "怀旧散文"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 121.662,
+    "lat": 31.59,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-LIT-31",
+   "source": "classic",
+   "category": "housing",
+   "year": "2019",
+   "title": "黄页悼亡文体（2019 英国停印报道）",
+   "summary": "英国黄页停印消息引发的讣告式新闻写作。",
+   "detail": "「一个时代的结束」式书写本身是黄页文学意象的收束仪式。",
+   "sourceRef": {
+    "publisher": "InYourArea 等",
+    "url": "https://www.inyourarea.co.uk/news/course-you-can-malcolm-and-other-much-loved-telly-ads-from-the-70s-and-80s"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "英国",
+    "era": "2000-今",
+    "theme": "悼亡书写"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-32",
+   "source": "classic",
+   "category": "clothing",
+   "year": "1990s-2000s",
+   "title": "sitcom 中的黄页道具化引用（Seinfeld/Friends 等）",
+   "summary": "美式情景喜剧中黄页作为日常道具与笑点的段落。",
+   "detail": "需逐集核实，与 LIT-18 戏仿线索合并建子库。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "影像",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "情景喜剧"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.304,
+    "lat": 38.972,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-LIT-33",
+   "source": "classic",
+   "category": "food",
+   "year": "长期",
+   "title": "漫画/图像小说中的黄页道具",
+   "summary": "漫画中以黄页厚度、翻查动作制造笑点或推进剧情的画格。",
+   "detail": "视觉叙事中的「翻阅」动作与拟声词（哗啦）是独特采集点。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "图",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "漫画"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-34",
+   "source": "classic",
+   "category": "clothing",
+   "year": "2000-今",
+   "title": "电子游戏中的黄页彩蛋",
+   "summary": "游戏场景中以黄页堆作为年代彩蛋或解谜道具。",
+   "detail": "目录作为「可检索物品」在游戏机制中的功能化，线索待核。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "数字",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "游戏"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-35",
+   "source": "classic",
+   "category": "housing",
+   "year": "2010s-今",
+   "title": "「前互联网时代搜索引擎」的比喻写作",
+   "summary": "将黄页比作 Google 之前的 Google 的评论性书写。",
+   "detail": "黄页分类法→互联网目录→地图搜索的技术谱系书写。",
+   "sourceRef": {
+    "publisher": "TurnKey Directories",
+    "url": "https://turnkeydirectories.com/history-of-the-underlying-technologies-behind-internet-business-directories-and-maps/"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "媒介比较"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.304,
+    "lat": 38.66,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-LIT-36",
+   "source": "classic",
+   "category": "housing",
+   "year": "1970s-2000s",
+   "title": "黄页销售员口述史文体",
+   "summary": "「电话销售大军」推销黄页广告的个人经历书写。",
+   "detail": "B2B 地推/电销文化的第一人称档案，稀缺但价值高。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "劳动叙事"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-37",
+   "source": "classic",
+   "category": "food",
+   "year": "2000-今",
+   "title": "中文网络「黄页」词义流变记录",
+   "summary": "「黄页」从电话簿专名泛化为「信息汇总」的网络用法（如「吃货黄页」）。",
+   "detail": "品牌名泛化（genericide）的中文样本，需语料支持。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "中国",
+    "era": "",
+    "theme": "语言流变"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 120.734,
+    "lat": 31.146,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-LIT-38",
+   "source": "classic",
+   "category": "transport",
+   "year": "1962-今",
+   "title": "Walking Fingers 公共符号的民间再书写",
+   "summary": "行走手指被涂鸦、纹身、手工改造的非官方使用。",
+   "detail": "未注册商标符号的「失控」生命力，与艺术档案 ART-29 互文。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "图",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "民间改写"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-39",
+   "source": "classic",
+   "category": "transport",
+   "year": "1962-今",
+   "title": "「手指替你走路」的身体诗学",
+   "summary": "slogan 的身体隐喻分析：都市人用指尖代替双脚的消费诗学。",
+   "detail": "广告文案作为「微文学」的修辞机制：动词转移制造通感。",
+   "sourceRef": {
+    "publisher": "WARC 案例描述",
+    "url": "https://www.warc.com/en/article/at%26%23x0026%3Bt%3A-let-your-fingers-do-the-walking-campaign-(1962)-ee0c76440b6349d4ae153476b5a7095e"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "修辞分析"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.296,
+    "lat": 38.72,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-LIT-40",
+   "source": "classic",
+   "category": "clothing",
+   "year": "1967-今",
+   "title": "法国 Pages Jaunes 广告 slogan 语料（法语）",
+   "summary": "法国黄页历年广告语及对应广告片。",
+   "detail": "法国广告文案传统深厚，需法语检索（如 RSCG 时期案例）。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "法国",
+    "era": "",
+    "theme": "广告文案"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 3.022,
+    "lat": 48.452,
+    "place": "法国·巴黎"
+   }
+  },
+  {
+   "id": "GL-LIT-41",
+   "source": "classic",
+   "category": "food",
+   "year": "年代待考",
+   "title": "意大利 Pagine Gialle slogan 与广告文案语料",
+   "summary": "意大利黄页经典广告语（如「Pagine Gialle, ci sei tu」待核）。",
+   "detail": "「Pagine Gialle, ci sei tu」为高度疑似经典 slogan，必须核实原文后再采。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "意大利",
+    "era": "",
+    "theme": "广告文案"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 11.234,
+    "lat": 43.926,
+    "place": "意大利·佛罗伦萨"
+   }
+  },
+  {
+   "id": "GL-LIT-42",
+   "source": "classic",
+   "category": "housing",
+   "year": "长期",
+   "title": "日本「番号案内」与 104 查号文化书写",
+   "summary": "日本电话簿与查号台（ダイヤル 104）在流行文化中的书写。",
+   "detail": "日本「電話帳」文化（如撕电话簿民俗）有独立脉络，待日语检索补全。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "日本",
+    "era": "",
+    "theme": "电信文化"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 140.314,
+    "lat": 35.258,
+    "place": "日本·东京"
+   }
+  },
+  {
+   "id": "GL-LIT-43",
+   "source": "classic",
+   "category": "clothing",
+   "year": "2000s",
+   "title": "澳大利亚俚语辞典收录「Not happy Jan」",
+   "summary": "该句进入澳洲英语用法辞典/语言学研究。",
+   "detail": "剑桥指南作者 Pamela Peters 的评论见 Wikipedia 引注，辞典原文页码需核实。",
+   "sourceRef": {
+    "publisher": "Wikipedia 引述",
+    "url": "https://en.wikipedia.org/wiki/Not_happy,_Jan!"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "澳大利亚",
+    "era": "",
+    "theme": "辞典收录"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-44",
+   "source": "classic",
+   "category": "housing",
+   "year": "2020s",
+   "title": "「黄页记忆」口述史访谈",
+   "summary": "以黄页使用记忆为对象的家庭口述史采集。",
+   "detail": "建议本档案使用者自行开展的采集动作：三代人黄页记忆对照。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "声音",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "口述史"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-45",
+   "source": "classic",
+   "category": "food",
+   "year": "2000-今",
+   "title": "科幻中的「实体名录」怀旧意象",
+   "summary": "科幻作品把电话簿作为旧世界信息载体的怀旧符号。",
+   "detail": "纸质目录在数字末日叙事中的「文物化」位置，线索待核。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "科幻"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-46",
+   "source": "classic",
+   "category": "housing",
+   "year": "长期",
+   "title": "童书/绘本中的电话簿意象",
+   "summary": "儿童读物中以厚电话簿为惊奇对象的页面。",
+   "detail": "「比孩子还厚的书」作为奇观装置，适合低幼叙事采集。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "图",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "童书"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-47",
+   "source": "classic",
+   "category": "clothing",
+   "year": "2015-今",
+   "title": "播客/有声节目中的黄页史叙事",
+   "summary": "商业史播客讲述黄页兴衰的节目文本。",
+   "detail": "如《半拿铁》中国互联网系列中「中国黄页」单集（线索）已存在，可核实转录。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "声音",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "叙事播客"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-48",
+   "source": "classic",
+   "category": "food",
+   "year": "2025",
+   "title": "《半拿铁》中国互联网故事「中国黄页」单集",
+   "summary": "中文商业播客对马云与中国黄页史的讲述，含张树新同期对照。",
+   "detail": "中文语境里少有的黄页史长叙事，与 LIT-13/14 文本互证。",
+   "sourceRef": {
+    "publisher": "小宇宙/节目页",
+    "url": "https://www.xiaoyuzhoufm.com/episode/68511de84abe6e29cb90e684"
+   },
+   "tags": {
+    "media": "声音",
+    "form": "",
+    "region": "中国",
+    "era": "",
+    "theme": "商业史叙事"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 122.254,
+    "lat": 30.942,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-LIT-49",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪-今",
+   "title": "黄页分类名作为诗歌素材的「目录写作」",
+   "summary": "以真实黄页类目原文为素材的写作实验。",
+   "detail": "与 LIT-28 诗歌线索同域，偏过程艺术方向。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "实验写作"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-LIT-50",
+   "source": "classic",
+   "category": "housing",
+   "year": "2023-今",
+   "title": "AI 检索时代回望黄页的评论文体",
+   "summary": "2023 年后生成式 AI 普及语境下「黄页—搜索—AI」三代检索的比较书写。",
+   "detail": "黄页意象的当代再生点：作为「检索 1.0」的参照物。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "媒介评论"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-SOC-01",
+   "source": "classic",
+   "category": "housing",
+   "year": "1878",
+   "title": "1878 年纽黑文首张电话目录（50 户纸板名单）",
+   "summary": "世界首张电话目录：1878-02-21 纽黑文区电话公司发行的单页纸板，列 50 名用户（无号码，接线员人工转接）。",
+   "detail": "黄页的「前传」：先有白名单，后有黄页分类。",
+   "sourceRef": {
+    "publisher": "Wikipedia / Spokeo Compass",
+    "url": "https://www.spokeo.com/compass/history-of-the-american-phone-book/"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "美国",
+    "era": "19世纪",
+    "theme": "前史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.168,
+    "lat": 39.368,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-02",
+   "source": "classic",
+   "category": "clothing",
+   "year": "1879-1880",
+   "title": "1879 年洛厄尔麻疹疫情与电话号码诞生",
+   "summary": "接线员因麻疹缺勤，股东 Moses Greeley Parker 医生提议以号码代替姓名，电话号由此诞生。",
+   "detail": "公共卫生事件催生信息基础设施的典型史实。",
+   "sourceRef": {
+    "publisher": "Spokeo Compass",
+    "url": "同上"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "19世纪",
+    "theme": "前史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.624,
+    "lat": 39.368,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-03",
+   "source": "classic",
+   "category": "housing",
+   "year": "1883",
+   "title": "1883 黄页起源事件",
+   "summary": "夏延印刷厂白纸用尽改用黄纸的故事。",
+   "detail": "与 SOC-04 共同构成「意外发明」叙事组。",
+   "sourceRef": {
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Yellow_pages"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "美国",
+    "era": "19世纪",
+    "theme": "起源"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.392,
+    "lat": 39.284,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-04",
+   "source": "classic",
+   "category": "housing",
+   "year": "1886",
+   "title": "1886 年 Donnelley 分类法与首本官方黄页",
+   "summary": "按行业类目组织商户信息的分类体系，奠定此后百年的商业检索结构。",
+   "detail": "「Locksmiths / Plumbers / Pizza」类目即互联网早期目录的数据骨架。",
+   "sourceRef": {
+    "publisher": "Wikipedia / TurnKey",
+    "url": "https://turnkeydirectories.com/history-of-the-underlying-technologies-behind-internet-business-directories-and-maps/"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "美国",
+    "era": "19世纪",
+    "theme": "信息架构"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.216,
+    "lat": 38.792,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-05",
+   "source": "classic",
+   "category": "housing",
+   "year": "1880-2000s",
+   "title": "Donnelley 家族与 R.R. Donnelley 印刷帝国",
+   "summary": "从黄页名录到全球最大印刷集团之一的产业史。",
+   "detail": "需核实集团与名录业务的股权关系演变后采集。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "企业史"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.256,
+    "lat": 39.008,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-06",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "黄页广告位经济：封面/封底/首页溢价",
+   "summary": "封面、封底、首版及名录对页为广告黄金位，聪明商家会买断自己名录的对面整版。",
+   "detail": "电视普及前，黄页是唯一「送上门的信息百科全书」，广告位即流量入口。",
+   "sourceRef": {
+    "publisher": "Crowell & Moring 引行业资料",
+    "url": "https://www.crowell.com/a/web/rmYsUfUqWt3tuwCwa95AoU/4Ttkbq/antitrust-enforcement-in-the-biden-administration-five-things-to-watch.pdf"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "商业模式"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.808,
+    "lat": 38.6,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-07",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪末",
+   "title": "鼎盛期行业生态：2300 种目录、250 家出版商",
+   "summary": "Mike McDaniel《Frugal Marketing》口径：全美曾同时存在超 2300 种独立黄页目录。",
+   "detail": "Bell 系（Verizon/SBC/BellSouth）与独立系（Yellow Book、Trans Western）并存的格局。",
+   "sourceRef": {
+    "publisher": "Crowell 引述",
+    "url": "同上"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "产业结构"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.912,
+    "lat": 39.104,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-08",
+   "source": "classic",
+   "category": "food",
+   "year": "1984",
+   "title": "1984 年 AT&T 分拆与黄页资产重新划分",
+   "summary": "贝尔系统解体后，黄页业务随 Regional Bell Operating Companies 分散，催生多品牌竞争。",
+   "detail": "分拆细节与各 RBOC 黄页品牌归属需核实。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "电信史"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.488,
+    "lat": 39.488,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-09",
+   "source": "classic",
+   "category": "housing",
+   "year": "1980s",
+   "title": "1980 年代黄页生产的计算机化",
+   "summary": "R.R. Donnelley 等出版商用大型机存储商户名称/地址/电话（NAP 数据），纸书背后是早期数据库。",
+   "detail": "平面文件（flat-file）数据库是互联网商户数据的直接前身。",
+   "sourceRef": {
+    "publisher": "TurnKey",
+    "url": "https://turnkeydirectories.com/history-of-the-underlying-technologies-behind-internet-business-directories-and-maps/"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "数字化前夜"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.64,
+    "lat": 38.372,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-10",
+   "source": "classic",
+   "category": "housing",
+   "year": "1990s",
+   "title": "黄页分类法→互联网目录的技术谱系",
+   "summary": "目录分类学为早期互联网商业目录与地图服务提供数据结构与类目遗产。",
+   "detail": "「纸质时代的数据组织奇迹」如何被 GIS 与互联网继承。",
+   "sourceRef": {
+    "publisher": "TurnKey",
+    "url": "同上"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "技术谱系"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.4,
+    "lat": 38.564,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-11",
+   "source": "classic",
+   "category": "housing",
+   "year": "1994-2000s",
+   "title": "早期互联网目录（Yahoo! 分类目录）与黄页的结构性类比",
+   "summary": "人工分类编目→主题目录的互联网组织方式，与黄页类目体系的同构关系。",
+   "detail": "类比关系文献中存在，具体引用需核实后补注。",
+   "sourceRef": {
+    "publisher": "TurnKey 类比",
+    "url": "同上"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "技术谱系"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.768,
+    "lat": 39.2,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-12",
+   "source": "classic",
+   "category": "clothing",
+   "year": "1995",
+   "title": "中国黄页创立（马云、张瑛、何一兵）",
+   "summary": "1995 年 4 月杭州海博电脑服务有限公司成立，5 月 9 日中国黄页上线——中国互联网史上首个商业网站。",
+   "detail": "三名员工、借款 10 万元起步；距中国全功能接入互联网尚有 3 个月。",
+   "sourceRef": {
+    "publisher": "腾讯新闻/百度百科",
+    "url": "https://news.qq.com/rain/a/20230509A054T100"
+   },
+   "tags": {
+    "media": "数字",
+    "form": "",
+    "region": "中国",
+    "era": "1980-1999",
+    "theme": "创业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 122.206,
+    "lat": 31.398,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-SOC-13",
+   "source": "classic",
+   "category": "food",
+   "year": "1995",
+   "title": "中国黄页商业模式：2 万元一个主页",
+   "summary": "主页 3000 字加一张照片收 2 万元，其中 1.2 万付给美国 VBN 制作，打印网页照片给客户「验货」。",
+   "detail": "「看不见摸不着」的互联网商品最早的中国成交记录。",
+   "sourceRef": {
+    "publisher": "《沸腾十五年》引述",
+    "url": "https://mshuku.read.qq.com/read/1046827075/3"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "中国",
+    "era": "",
+    "theme": "商业模式"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 120.862,
+    "lat": 30.63,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-SOC-14",
+   "source": "classic",
+   "category": "clothing",
+   "year": "1995",
+   "title": "望湖宾馆与世界妇女大会",
+   "summary": "经学生周岚牵线，望湖宾馆花 2 万元做主页；1995 年世界妇女大会期间外宾称它是唯一能搜到的中国宾馆，订单激增。",
+   "detail": "中国黄页的第一个成功案例，也是「搜索可见性」价值的第一次中文演示。",
+   "sourceRef": {
+    "publisher": "虎嗅",
+    "url": "https://www.huxiu.com/article/2334767.html"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "中国",
+    "era": "",
+    "theme": "创业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 120.75,
+    "lat": 30.726,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-SOC-15",
+   "source": "classic",
+   "category": "food",
+   "year": "1995",
+   "title": "中国黄页的「金鸽工程」",
+   "summary": "1995 年 7 月为浙江省外宣办搭建的浙江经济文化宣传网站。",
+   "detail": "早期互联网公司承接政务信息化项目的样本。",
+   "sourceRef": {
+    "publisher": "百度百科/头条",
+    "url": "https://baike.baidu.com/item/%E9%A9%AC%E4%BA%91/6252"
+   },
+   "tags": {
+    "media": "数字",
+    "form": "",
+    "region": "中国",
+    "era": "",
+    "theme": "政企合作"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 121.022,
+    "lat": 30.762,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-SOC-16",
+   "source": "classic",
+   "category": "food",
+   "year": "1996",
+   "title": "1996 年与杭州电信合并（作价 60 万、占 30%）",
+   "summary": "杭州电信推出同类黄页分食市场，马云选择合并：中国黄页作价 60 万元占 30%，电信现金 140 万占 70%。",
+   "detail": "「国有背景竞争者」面前的典型 1990 年代创业者抉择。",
+   "sourceRef": {
+    "publisher": "百度百科",
+    "url": "同上"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "中国",
+    "era": "",
+    "theme": "创业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 121.07,
+    "lat": 30.762,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-SOC-17",
+   "source": "classic",
+   "category": "clothing",
+   "year": "1997",
+   "title": "1997 年马云离开中国黄页",
+   "summary": "马云以每股两三毛钱卖出股份、拿回 10 余万元，赴京参与外经贸部电子商务中心筹建。",
+   "detail": "中国黄页由此转入何一兵时代，两人路线分歧成为商业史讨论点。",
+   "sourceRef": {
+    "publisher": "百度百科",
+    "url": "同上"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "中国",
+    "era": "",
+    "theme": "创业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 121.742,
+    "lat": 30.978,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-SOC-18",
+   "source": "classic",
+   "category": "housing",
+   "year": "1997-2002",
+   "title": "何一兵时代：互联网界第一家盈利公司",
+   "summary": "马云离开后，何一兵独立经营中国黄页并盈利，后与浙大计算机公司合并为浙大网新互联网信息技术公司。",
+   "detail": "「中国黄页赚到钱（不到三年 500 万）但不成大厂」的另一条时间线。",
+   "sourceRef": {
+    "publisher": "网经社",
+    "url": "https://www.100ec.cn/index.php/detail--6640153.html"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "中国",
+    "era": "",
+    "theme": "企业史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 120.942,
+    "lat": 31.566,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-SOC-19",
+   "source": "classic",
+   "category": "housing",
+   "year": "1918",
+   "title": "1918 年《上海商业名录》：中国首部企业黄页",
+   "summary": "商务印书馆 1918 年 7 月初版、徐珂编纂、张元济决策的上海工商企业名录，知见至少印行七版。",
+   "detail": "把中国企业黄页史前推到民国初年；「黄纸印刷+规避机制」的细节需查原书核实。",
+   "sourceRef": {
+    "publisher": "百度百科：中国黄页",
+    "url": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%BB%84%E9%A1%B5/824734"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "中国",
+    "era": "1900-1945",
+    "theme": "前史"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 122.19,
+    "lat": 30.714,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-SOC-20",
+   "source": "classic",
+   "category": "clothing",
+   "year": "长期",
+   "title": "中国电信 114 查号台史",
+   "summary": "114 查号台作为黄页的姊妹信息服务（人找号）的发展史。",
+   "detail": "需核实 114 开通时间与话务量峰值数据。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "中国",
+    "era": "",
+    "theme": "公共服务"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 121.198,
+    "lat": 31.038,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-SOC-21",
+   "source": "classic",
+   "category": "food",
+   "year": "2000s",
+   "title": "从 114 到「号码百事通」的转型",
+   "summary": "2000 年代中国电信将查号台升级为综合信息服务品牌的尝试。",
+   "detail": "黄页体系在电话网络上的「语音版自救」，细节待核。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "中国",
+    "era": "",
+    "theme": "转型"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 120.75,
+    "lat": 30.966,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-SOC-22",
+   "source": "classic",
+   "category": "transport",
+   "year": "20世纪中-末",
+   "title": "电话亭里的黄页：公共设施史",
+   "summary": "投币电话亭内供公众使用的栓绳黄页，构成城市公共设施史一章。",
+   "detail": "与 SOC-02 接续：号码→簿册→亭内免费检索的公共服务链。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "公共设施"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.792,
+    "lat": 38.888,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-23",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪-2010s",
+   "title": "黄页年度派送的社会景观",
+   "summary": "成捆黄页每年投递到家门口的集体记忆与物流体系。",
+   "detail": "「每年变厚的门挡」：派送节奏=社区商业节律。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "物流民俗"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-SOC-24",
+   "source": "classic",
+   "category": "housing",
+   "year": "长期",
+   "title": "黄页的家庭二次使用民俗",
+   "summary": "垫桌脚、垫炒锅、引火、包书皮的废物利用传统。",
+   "detail": "信息资产向生活工具的降级使用，跨文化普遍存在。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "跨国（中国尤盛）",
+    "era": "",
+    "theme": "物质民俗"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 120.75,
+    "lat": 30.906,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-SOC-25",
+   "source": "classic",
+   "category": "clothing",
+   "year": "2010",
+   "title": "西雅图 2010 年电话簿 opt-out 立法",
+   "summary": "美国首批允许居民拒收电话簿的地方立法之一，环保组织推动。",
+   "detail": "美国电话簿「自愿退出」运动的标志性节点，需核法案原文。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "环保立法"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.44,
+    "lat": 39.056,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-26",
+   "source": "classic",
+   "category": "food",
+   "year": "2011前后",
+   "title": "旧金山等市的黄页投递限制法案",
+   "summary": "旧金山 2011 年前后要求黄页投递需居民同意的立法尝试。",
+   "detail": "行业与环保组织围绕「默认投递权」的拉锯，细节待核。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "环保立法"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.424,
+    "lat": 38.732,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-27",
+   "source": "classic",
+   "category": "housing",
+   "year": "2000s-2010s",
+   "title": "比利时等国停止白页派送",
+   "summary": "部分欧洲国家以环保与隐私理由停止住宅白页免费派送，黄页广告簿继续存在。",
+   "detail": "白黄分册的社会成本差异在此显现，国别清单待核。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "欧洲",
+    "era": "",
+    "theme": "环保立法"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 2.062,
+    "lat": 49.208,
+    "place": "法国·巴黎"
+   }
+  },
+  {
+   "id": "GL-SOC-28",
+   "source": "classic",
+   "category": "housing",
+   "year": "2000s-2010s",
+   "title": "环保组织对电话簿的批评",
+   "summary": "造纸消耗、油墨、未经请求投递的碳足迹批评运动。",
+   "detail": "行业方则以「高回收率+可 opt-out」回应，双方数据需对照采集。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "环保运动"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.528,
+    "lat": 39.296,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-29",
+   "source": "classic",
+   "category": "housing",
+   "year": "2000s",
+   "title": "电话簿回收率争议数据",
+   "summary": "行业称电话簿回收率远高于普通纸张，环保组织质疑口径。",
+   "detail": "数据之争本身是「环保传播学」的好素材。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "数据争议"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.384,
+    "lat": 38.396,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-30",
+   "source": "classic",
+   "category": "housing",
+   "year": "2019",
+   "title": "英国 Yellow Pages 2019 年停印",
+   "summary": "英国黄页 2019 年结束印刷版，一个半世纪的目录传统落幕。",
+   "detail": "BBC 六点新闻在报道中提及 JR Hartley 广告，显示广告记忆大于产品记忆。",
+   "sourceRef": {
+    "publisher": "InYourArea",
+    "url": "https://www.inyourarea.co.uk/news/course-you-can-malcolm-and-other-much-loved-telly-ads-from-the-70s-and-80s"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "英国",
+    "era": "2000-今",
+    "theme": "印刷终结"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-SOC-31",
+   "source": "classic",
+   "category": "clothing",
+   "year": "2009-2013",
+   "title": "Yell/Hibu 债务危机与退市",
+   "summary": "英国 Yell 集团（后更名 Hibu）因数字化转型与高杠杆陷入债务危机。",
+   "detail": "黄页公司「转型即资产减值」的经典危机案例，财务数据待核。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "英国",
+    "era": "",
+    "theme": "企业衰亡"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-SOC-32",
+   "source": "classic",
+   "category": "housing",
+   "year": "2004",
+   "title": "AT&T 出售黄页业务（2004）",
+   "summary": "AT&T 将黄页出售给私募（Cerberus），标志官方系退出目录出版。",
+   "detail": "交易金额与后续归属（后成 YP Holdings）需核实。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "产权变迁"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.024,
+    "lat": 38.66,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-33",
+   "source": "classic",
+   "category": "food",
+   "year": "2013-2016",
+   "title": "Dex Media 的合并与破产",
+   "summary": "Dex One 与 SuperMedia 合并后仍走向 Chapter 11。",
+   "detail": "美国黄页出版商集中破产期的代表案例。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "企业衰亡"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.552,
+    "lat": 38.984,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-34",
+   "source": "classic",
+   "category": "clothing",
+   "year": "2012-2020s",
+   "title": "YP Holdings 整合与 dext 化",
+   "summary": "美国最大黄页品牌整合为 YP，再随市场萎缩调整。",
+   "detail": "「YP」品牌最终存续形态需核实。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "转型"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.36,
+    "lat": 38.588,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-35",
+   "source": "classic",
+   "category": "housing",
+   "year": "2000s-2010s",
+   "title": "黄页股市价值崩溃案例",
+   "summary": "目录出版商从高现金流蓝筹到仙股的市值轨迹。",
+   "detail": "可用 R.R. Donnelley、Dex、Yell 三组股价对照采集。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "资本市场"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.248,
+    "lat": 38.924,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-36",
+   "source": "classic",
+   "category": "housing",
+   "year": "2010s-今",
+   "title": "Google 本地搜索替代黄页的社会过程",
+   "summary": "「Search. Find. Call.」黄页路径被搜索引擎接管，目录业失去的正是这条链路。",
+   "detail": "ioxov 等呼叫追踪公司帮助目录商在数字时代延续「来电转化」模式。",
+   "sourceRef": {
+    "publisher": "iovox",
+    "url": "https://www.iovox.com/blog/3-proven-ways-iovox-is-helping-online-directories-thrive-in-the-new-normal"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "全球",
+    "era": "",
+    "theme": "替代史"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-SOC-37",
+   "source": "classic",
+   "category": "housing",
+   "year": "1970s-2000s",
+   "title": "黄页电话销售大军口述史",
+   "summary": "挨家挨户与电话推销黄页广告的销售文化。",
+   "detail": "与 LIT-36 互文，偏社会史采集。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "声音",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "劳动史"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-SOC-38",
+   "source": "classic",
+   "category": "food",
+   "year": "2000s",
+   "title": "小企业的黄页依赖与迁移",
+   "summary": "本地服务商（水管工、锁匠）从黄页广告向 Google Maps/点评迁移的过程。",
+   "detail": "「错过截稿等一年」的焦虑被「随时可改的线上档案」终结。",
+   "sourceRef": {
+    "publisher": "HubSpot 等",
+    "url": "https://blog.hubspot.com/marketing/australian-commercials"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "商业迁移"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-SOC-39",
+   "source": "classic",
+   "category": "transport",
+   "year": "20世纪",
+   "title": "黄页广告作为本地营销预算入口",
+   "summary": "鼎盛期黄页是本地小企业营销预算的第一大项。",
+   "detail": "「每家商户每年一次的采购决策」构成的稳定现金流帝国。",
+   "sourceRef": {
+    "publisher": "Crowell 引述",
+    "url": "https://www.crowell.com/a/web/rmYsUfUqWt3tuwCwa95AoU/4Ttkbq/antitrust-enforcement-in-the-biden-administration-five-things-to-watch.pdf"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "商业模式"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.288,
+    "lat": 39.368,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-40",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "分类广告产业与黄页的共生",
+   "summary": "报纸分类广告与黄页共同构成前互联网时代本地商业信息双支柱。",
+   "detail": "Craigslist 同时冲击两者，对照采集价值高。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "媒介生态"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-SOC-41",
+   "source": "classic",
+   "category": "housing",
+   "year": "长期",
+   "title": "欺诈性目录商与假名录产业",
+   "summary": "仿冒 walking fingers 标志的劣质目录商收费后不投递，构成灰色产业。",
+   "detail": "公共标志被滥用催生的欺诈生态，各国监管通报可查。",
+   "sourceRef": {
+    "publisher": "Wikiwand: Yellow pages",
+    "url": "https://www.wikiwand.com/en/articles/Yellow_pages"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "灰产"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-SOC-42",
+   "source": "classic",
+   "category": "transport",
+   "year": "1962-今",
+   "title": "「Walking Fingers」未注册成公共品牌",
+   "summary": "AT&T 未给三指版本注册商标，反而允许任何电话簿使用；后续商标注册亦因「通用化」被拒。",
+   "detail": "品牌「主动放弃独占」造就史上流传最广的公共符号之一。",
+   "sourceRef": {
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Yellow_pages"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "商标史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.504,
+    "lat": 38.804,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-43",
+   "source": "classic",
+   "category": "housing",
+   "year": "长期",
+   "title": "各国「Yellow Pages」商标保护差异",
+   "summary": "美国为通用名称不受保护；部分国家为注册商标；75 国存在 yellowpages.cc 域名。",
+   "detail": "同名不同权的全球法律拼图，跨境研究的好切口。",
+   "sourceRef": {
+    "publisher": "Wikipedia / 阿塞拜疆黄页官网",
+    "url": "https://yellowpages.az/en/about-yellow-pages/"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "全球",
+    "era": "",
+    "theme": "商标史"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-SOC-44",
+   "source": "classic",
+   "category": "housing",
+   "year": "长期",
+   "title": "黄页作为地方史研究工具",
+   "summary": "存档黄页是地方史、家谱、商标诉讼的重要一手资料。",
+   "detail": "商户名录逐年记录社区经济肌理，方志学家常用。",
+   "sourceRef": {
+    "publisher": "Wikiwand: Yellow pages",
+    "url": "https://www.wikiwand.com/en/articles/Yellow_pages"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "史料价值"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-SOC-45",
+   "source": "classic",
+   "category": "housing",
+   "year": "长期",
+   "title": "黄页在商标诉讼中的证据用途",
+   "summary": "以历史黄页名录证明商标在先使用。",
+   "detail": "名录的「日期戳」属性使其成为知识产权战的弹药库。",
+   "sourceRef": {
+    "publisher": "Wikiwand: Yellow pages",
+    "url": "同上"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "法律证据"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.352,
+    "lat": 39.272,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-46",
+   "source": "classic",
+   "category": "housing",
+   "year": "长期",
+   "title": "图书馆与档案馆的电话簿馆藏",
+   "summary": "各国图书馆保存旧电话簿的馆藏目录与数字化项目。",
+   "detail": "如 Internet Archive 的电话簿扫描集，具体馆藏清单待核。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "档案保护"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-SOC-47",
+   "source": "classic",
+   "category": "housing",
+   "year": "1886-今",
+   "title": "老黄页中的消失职业清单",
+   "summary": "逐年代比对的消失/新兴职业类目，构成职业社会史。",
+   "detail": "「电报员→打字员→电脑录入」类目变迁可作专题采集。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "社会变迁"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-SOC-48",
+   "source": "classic",
+   "category": "housing",
+   "year": "长期",
+   "title": "黄页广告中的物价时间胶囊",
+   "summary": "同品类广告跨年代比价（婚纱、搬家、管道疏通）。",
+   "detail": "通货膨胀的微观物证，适合做成可视化专题。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "经济史"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-SOC-49",
+   "source": "classic",
+   "category": "transport",
+   "year": "20世纪",
+   "title": "黄页与应急信息公共服务",
+   "summary": "多数黄页附急救号码、民防、邮编、国际区号、交通图等公共服务信息。",
+   "detail": "「商业簿册兼公共手册」的双重身份，常被忽视。",
+   "sourceRef": {
+    "publisher": "Crowell 引述",
+    "url": "https://www.crowell.com/a/web/rmYsUfUqWt3tuwCwa95AoU/4Ttkbq/antitrust-enforcement-in-the-biden-administration-five-things-to-watch.pdf"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "公共服务"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.864,
+    "lat": 39.212,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-SOC-50",
+   "source": "classic",
+   "category": "housing",
+   "year": "1990s-今",
+   "title": "黄页数据作为互联网商户信息的源头",
+   "summary": "NAP（名称-地址-电话）数据从印刷库到搜索引擎商家列表的迁移链。",
+   "detail": "本地 SEO 的「NAP 一致性」概念可直接追溯到黄页数据库。",
+   "sourceRef": {
+    "publisher": "TurnKey",
+    "url": "https://turnkeydirectories.com/history-of-the-underlying-technologies-behind-internet-business-directories-and-maps/"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "全球",
+    "era": "",
+    "theme": "数据谱系"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-01",
+   "source": "classic",
+   "category": "housing",
+   "year": "1938",
+   "title": "Bell Gothic 的小字号可读性系统",
+   "summary": "为劣质新闻纸与极小字号优化的双字重（Bold 姓名号码 / Light 地址）无衬线体系。",
+   "detail": "「环境决定字形」的教科书案例：纸差、字小、量巨大。",
+   "sourceRef": {
+    "publisher": "Wikipedia: Bell Gothic",
+    "url": "https://en.wikipedia.org/wiki/Bell_Gothic"
+   },
+   "tags": {
+    "media": "字体",
+    "form": "",
+    "region": "美国",
+    "era": "1900-1945",
+    "theme": "功能主义排印"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.912,
+    "lat": 39.392,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-02",
+   "source": "classic",
+   "category": "housing",
+   "year": "1978",
+   "title": "Bell Centennial 的墨槽（ink trap）设计",
+   "summary": "Matthew Carter 在笔画交接处开槽，油墨扩散后恰好填平，保护字腔清晰。",
+   "detail": "设计界最著名的「为失败工艺而设计」案例，当代 ink trap 字体潮流的源头。",
+   "sourceRef": {
+    "publisher": "Nick Sherman",
+    "url": "https://nicksherman.com/articles/bellCentennial.html"
+   },
+   "tags": {
+    "media": "字体",
+    "form": "",
+    "region": "美国",
+    "era": "1945-1979",
+    "theme": "印刷补偿设计"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.68,
+    "lat": 39.392,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-03",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "黄黑配色的可读性研究",
+   "summary": "研究显示黄底黑字是仅次于白纸黑字的最易读组合。",
+   "detail": "黄色不是品牌任性，而是对比度优化的功能选色——「最美的理性」。",
+   "sourceRef": {
+    "publisher": "Crowell 引述",
+    "url": "https://www.crowell.com/a/web/rmYsUfUqWt3tuwCwa95AoU/4Ttkbq/antitrust-enforcement-in-the-biden-administration-five-things-to-watch.pdf"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "色彩功能"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.312,
+    "lat": 39.164,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-04",
+   "source": "classic",
+   "category": "housing",
+   "year": "1886-今",
+   "title": "行业分类法（taxonomy）信息架构",
+   "summary": "按商业功能组织而非按名称排序的检索逻辑，1886 年起成形。",
+   "detail": "现代商品分类、App 类目、POI 分类的祖型。",
+   "sourceRef": {
+    "publisher": "Wikipedia / TurnKey",
+    "url": "https://turnkeydirectories.com/history-of-the-underlying-technologies-behind-internet-business-directories-and-maps/"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "信息架构"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.528,
+    "lat": 38.612,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-05",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "白页/黄页分色双册系统",
+   "summary": "住宅白名单（白页）与商业广告簿（黄页）按功能分册、按色彩区隔。",
+   "detail": "色彩作为信息类型的编码系统——「颜色=类别」的物理版。",
+   "sourceRef": {
+    "publisher": "Spokeo Compass",
+    "url": "https://www.spokeo.com/compass/history-of-the-american-phone-book/"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "色彩功能"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.96,
+    "lat": 38.924,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-06",
+   "source": "classic",
+   "category": "clothing",
+   "year": "长期",
+   "title": "按类目而非字母的商业检索逻辑",
+   "summary": "「我想找水管工」而非「我记得某公司名」——需求导向的组织方式。",
+   "detail": "与搜索引擎「关键词=意图」的逻辑同构。",
+   "sourceRef": {
+    "publisher": "Testbook / Wikipedia",
+    "url": "https://testbook.com/question-answer/match-list-i-with-list-ii--66696f0ab45e7d296bdb6adc"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "全球",
+    "era": "",
+    "theme": "信息架构"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-07",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "条目悬挂缩进与大写标题排版",
+   "summary": "分类名大写加条目悬挂缩进的多栏密排样式。",
+   "detail": "「扫读友好」的层级排版原型，可对照现代列表 UI。",
+   "sourceRef": {
+    "publisher": "旧黄页扫描",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "网格排版"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-08",
+   "source": "classic",
+   "category": "housing",
+   "year": "1978",
+   "title": "Bold Listing / Name & Number / Address 字重层级",
+   "summary": "Bell Centennial 展示排版中四级信息各配专用样式。",
+   "detail": "「一个条目一个微型层级系统」：姓名>号码>地址的字重递减。",
+   "sourceRef": {
+    "publisher": "PDC 会议论文",
+    "url": "https://pdc-conference.grf.unizg.hr/wp-content/uploads/2025/09/BB_2025_PROCEEDINGS.pdf"
+   },
+   "tags": {
+    "media": "字体",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "信息层级"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.784,
+    "lat": 39.02,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-09",
+   "source": "classic",
+   "category": "housing",
+   "year": "1978",
+   "title": "六号字（6pt）排印极限",
+   "summary": "Bell Centennial 被要求在小至 6pt 下保持清晰，数字最易混淆的 5/6、3/8 需显著区分。",
+   "detail": "极限约束催生极致方案：数字辨识度优先于字腔美观。",
+   "sourceRef": {
+    "publisher": "Nick Sherman / PDC 论文",
+    "url": "https://nicksherman.com/articles/bellCentennial.html"
+   },
+   "tags": {
+    "media": "字体",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "极端约束设计"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.432,
+    "lat": 39.092,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-10",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪中-末",
+   "title": "拇指索引（thumb index）实物",
+   "summary": "厚册侧面按字母切的半月形索引口。",
+   "detail": "「手指直接导航字母」的物理 UI，与滚动条字母锚点同源。",
+   "sourceRef": {
+    "publisher": "旧黄页实物",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "物理交互"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-11",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "封面+封底作为黄金广告位",
+   "summary": "最溢价的位置；聪明商家会买断自己名录页的对面整版。",
+   "detail": "「位置即价格」的版面经济学，与搜索广告排名竞价同构。",
+   "sourceRef": {
+    "publisher": "Crowell 引述",
+    "url": "https://www.crowell.com/a/web/rmYsUfUqWt3tuwCwa95AoU/4Ttkbq/antitrust-enforcement-in-the-biden-administration-five-things-to-watch.pdf"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "版面经济"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.008,
+    "lat": 39.464,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-12",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "名录对页广告策略",
+   "summary": "在自家免费名录正对面购买整版广告，制造「伪官方」存在感。",
+   "detail": "利用版式邻近性劫持注意力的早期范例。",
+   "sourceRef": {
+    "publisher": "Crowell 引述",
+    "url": "同上"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "版面经济"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.04,
+    "lat": 39.476,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-13",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "多栏窄栏网格系统",
+   "summary": "黄页内页的多栏紧凑网格与栏间规则线。",
+   "detail": "信息密度最大化的网格范本，可参数化复用于信息设计练习。",
+   "sourceRef": {
+    "publisher": "旧黄页扫描",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "网格排版"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-14",
+   "source": "classic",
+   "category": "housing",
+   "year": "1978",
+   "title": "用字体省纸：减少缩写与双行条目",
+   "summary": "Bell Centennial 以更省空间的字形让每条目单行放下，直接节省纸张。",
+   "detail": "「字体设计=环保工程」：每个字腔都换算成吨纸。",
+   "sourceRef": {
+    "publisher": "LesesSchriften 样张",
+    "url": "https://leseschriften.de/portraets/Bell-Centennial.pdf"
+   },
+   "tags": {
+    "media": "字体",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "可持续设计"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.912,
+    "lat": 38.528,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-15",
+   "source": "classic",
+   "category": "housing",
+   "year": "1938-1978",
+   "title": "油墨扩散（dot gain）补偿设计学",
+   "summary": "高速度印刷在新闻纸上的墨扩补偿贯穿 Bell 两代字体。",
+   "detail": "从「预判缺陷」到「利用缺陷」的设计方法学。",
+   "sourceRef": {
+    "publisher": "Nick Sherman / PDC 论文",
+    "url": "https://nicksherman.com/articles/bellCentennial.html"
+   },
+   "tags": {
+    "media": "字体",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "印刷补偿设计"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.272,
+    "lat": 38.804,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-16",
+   "source": "classic",
+   "category": "housing",
+   "year": "1999",
+   "title": "Bell Gothic 的西里尔扩展",
+   "summary": "ParaType 1999 年为 Bell Gothic 增补西里尔字母。",
+   "detail": "目录字体的国际化适配，显示黄页体系的后苏联传播。",
+   "sourceRef": {
+    "publisher": "Wikipedia / Fonts in Use",
+    "url": "https://fontsinuse.com/typefaces/3784/bell-gothic"
+   },
+   "tags": {
+    "media": "字体",
+    "form": "",
+    "region": "俄罗斯",
+    "era": "",
+    "theme": "字体扩展"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-17",
+   "source": "classic",
+   "category": "housing",
+   "year": "2009",
+   "title": "Bell Gothic 斜体（2009）",
+   "summary": "ParaType 2009 年为 Bell Gothic 补做斜体。",
+   "detail": "功能字体事后补斜体，反映数字排版时代的新需求。",
+   "sourceRef": {
+    "publisher": "Fonts in Use",
+    "url": "同上"
+   },
+   "tags": {
+    "media": "字体",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "字体扩展"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.072,
+    "lat": 38.312,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-18",
+   "source": "classic",
+   "category": "housing",
+   "year": "1997-2000",
+   "title": "Griffith Gothic 复兴",
+   "summary": "Tobias Frere-Jones 1997-2000 年为 Fast Company 重塑 Bell Gothic 为 Griffith Gothic。",
+   "detail": "「去除铸排机痕迹、保留关节预细」的复兴方法论。",
+   "sourceRef": {
+    "publisher": "Luc Devroye 字体档案",
+    "url": "https://luc.devroye.org/fonts-33550.html"
+   },
+   "tags": {
+    "media": "字体",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "字体复兴"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.28,
+    "lat": 38.792,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-19",
+   "source": "classic",
+   "category": "housing",
+   "year": "1941",
+   "title": "Furlong / Market Gothic 行业变体",
+   "summary": "Bell Gothic 为赛马报道（Furlong）与股市行情（Market Gothic）的特化改刻。",
+   "detail": "同一骨架服务不同数据类型——「字体即数据皮肤」的思路。",
+   "sourceRef": {
+    "publisher": "Luc Devroye 字体档案",
+    "url": "同上"
+   },
+   "tags": {
+    "media": "字体",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "字体变体"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.728,
+    "lat": 38.324,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-20",
+   "source": "classic",
+   "category": "housing",
+   "year": "1970s",
+   "title": "与 Saul Bass 的 AT&T 视觉体系协调",
+   "summary": "Bell Centennial 的直切笔画端以呼应 Saul Bass 主导的 AT&T Helvetica 企业识别。",
+   "detail": "字体家族内部的「企业级一致化」操作。",
+   "sourceRef": {
+    "publisher": "Nick Sherman",
+    "url": "https://nicksherman.com/articles/bellCentennial.html"
+   },
+   "tags": {
+    "media": "字体",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "企业识别"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.272,
+    "lat": 38.756,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-21",
+   "source": "classic",
+   "category": "transport",
+   "year": "1962-今",
+   "title": "行走手指图形的负形运用",
+   "summary": "三指行走标志在封面、广告、动画中的正负形变体。",
+   "detail": "手部负形与页面翻动的组合动画语言，值得逐帧采集。",
+   "sourceRef": {
+    "publisher": "广告图集",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "标志",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "图形变体"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-22",
+   "source": "classic",
+   "category": "housing",
+   "year": "约1998",
+   "title": "灯泡标志的符号替换实验",
+   "summary": "1990 年代末以灯泡替换手指的「Get an idea」标志实验。",
+   "detail": "替换公共符号的失败与回退：品牌符号的「不可替换性」实证。",
+   "sourceRef": {
+    "publisher": "Wikiwand",
+    "url": "https://www.wikiwand.com/en/articles/Yellow_pages"
+   },
+   "tags": {
+    "media": "标志",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "符号替换"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.8,
+    "lat": 38.6,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-23",
+   "source": "classic",
+   "category": "transport",
+   "year": "1962-今",
+   "title": "各国行走手指变体比较图版",
+   "summary": "两指/四指/加鞋加帽/与本国图形融合的变体对照。",
+   "detail": "做一张「全球行走手指地图」是极佳的设计史图版项目。",
+   "sourceRef": {
+    "publisher": "Wikipedia 现象描述",
+    "url": "https://en.wikipedia.org/wiki/Yellow_pages"
+   },
+   "tags": {
+    "media": "标志",
+    "form": "",
+    "region": "全球",
+    "era": "",
+    "theme": "比较研究"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-24",
+   "source": "classic",
+   "category": "transport",
+   "year": "20世纪",
+   "title": "黄页广告的信息图表萌芽",
+   "summary": "服务广告中地图+路线+价目+图标组合的图文版式。",
+   "detail": "「找得到我」的导航型广告版式，地图作为广告主体。",
+   "sourceRef": {
+    "publisher": "旧黄页扫描",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "信息图"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-25",
+   "source": "classic",
+   "category": "housing",
+   "year": "1900-1990",
+   "title": "类目旁的行业小图标",
+   "summary": "锁匠钥匙、水管工扳手等类目图标从木刻到剪贴画风的演变。",
+   "detail": "图标系统的前数字史，可与现代 App 类目图标对照。",
+   "sourceRef": {
+    "publisher": "旧黄页扫描",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "图标设计"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-26",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "优惠券式黄页广告版式",
+   "summary": "虚线边框+剪刀符号的可剪优惠券式广告。",
+   "detail": "「印刷品即兑换介质」的版式发明，促进印刷与到店闭环。",
+   "sourceRef": {
+    "publisher": "旧黄页扫描",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "促销版式"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.488,
+    "lat": 39.488,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-27",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "本地服务大字报式广告",
+   "summary": "锁匠/疏通管道等紧急服务广告的超大字号与满版色块。",
+   "detail": "「紧急需求=注意力军备竞赛」的视觉结果。",
+   "sourceRef": {
+    "publisher": "旧黄页扫描",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "广告版式"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-28",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "电话号码大排字版式",
+   "summary": "广告中电话号码作为主视觉元素的排印处理。",
+   "detail": "数字的展示性排印：电话号码先被「看见」再被「拨打」。",
+   "sourceRef": {
+    "publisher": "旧黄页扫描",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "广告版式"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-29",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "中文黄页的竖排/繁体版式变体",
+   "summary": "港台及早期大陆黄页的竖排、繁体、注音/拼音混排样式。",
+   "detail": "中文目录排印的西化与本地化拉锯的实物证据。",
+   "sourceRef": {
+    "publisher": "旧黄页实物",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "中国",
+    "era": "",
+    "theme": "中文排印"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": 120.75,
+    "lat": 30.654,
+    "place": "中国·上海"
+   }
+  },
+  {
+   "id": "GL-FRM-30",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "书口喷黄工艺",
+   "summary": "册子书口整体喷黄的工艺处理。",
+   "detail": "封面之外，「整本书都是黄色」的三维识别。",
+   "sourceRef": {
+    "publisher": "印刷厂档案",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "书籍工艺"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-31",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "轻型新闻纸+高速印刷的工艺约束",
+   "summary": "高速度、低克重、吸墨纸——黄页字体的全部设计前提。",
+   "detail": "理解 Bell 字体的必读背景：字体是印刷车间的孩子。",
+   "sourceRef": {
+    "publisher": "Wikipedia / LesesSchriften",
+    "url": "https://en.wikipedia.org/wiki/Bell_Gothic"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "印刷工艺"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.496,
+    "lat": 38.624,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-32",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "「黑字黄底」与其他配色对照实验",
+   "summary": "可读性研究把黄黑组合与白纸黑字并列为最优。",
+   "detail": "为 FRM-03 的展开：可读性结论的产业落地过程。",
+   "sourceRef": {
+    "publisher": "Crowell 引述",
+    "url": "https://www.crowell.com/a/web/rmYsUfUqWt3tuwCwa95AoU/4Ttkbq/antitrust-enforcement-in-the-biden-administration-five-things-to-watch.pdf"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "色彩功能"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.696,
+    "lat": 39.284,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-33",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "广告尺寸阶梯（listing→整版→封面）",
+   "summary": "从免费名录到封面广告的价格阶梯构成完整产品线。",
+   "detail": "「免费增值（freemium）」模式的纸质原型：基础名录免费，注意力位置付费。",
+   "sourceRef": {
+    "publisher": "Kiddle 行业概述",
+    "url": "https://kids.kiddle.co/Yellow_pages"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "版面经济"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -76.592,
+    "lat": 39.104,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-34",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "分栏规则线与扫读路径",
+   "summary": "密排名录间的细规则线引导纵向扫读。",
+   "detail": "「线不是装饰，是视线路标」的纯功能设计。",
+   "sourceRef": {
+    "publisher": "旧黄页扫描",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "网格排版"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-35",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "字母引导条（filing tabs）",
+   "summary": "书页边缘的字母标签条。",
+   "detail": "与 FRM-10 互补：字母导航的两种物理形态。",
+   "sourceRef": {
+    "publisher": "旧黄页实物",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "物理交互"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-36",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "信息层级：类目头>广告>名录",
+   "summary": "黄页内页三级信息结构的功能分工。",
+   "detail": "「类目头是天，广告是地，名录是土」——付费与免费的视觉分野。",
+   "sourceRef": {
+    "publisher": "GoodBadMarketing 广告分析",
+    "url": "https://www.goodbadmarketing.com/keith/not-happy-jan/"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "信息层级"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-37",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "双色调（黑+专色黄）印刷经济",
+   "summary": "双色印刷在成本与识别度间的平衡。",
+   "detail": "专色黄=品牌色+功能色+成本控制三重身份。",
+   "sourceRef": {
+    "publisher": "印刷史料",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "印刷工艺"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-38",
+   "source": "classic",
+   "category": "housing",
+   "year": "1886-今",
+   "title": "黄页纸的色牢度与老化谱系",
+   "summary": "不同年代黄页纸泛黄、脆化的老化对照。",
+   "detail": "纸张老化本身是「信息载体寿命」研究的对象。",
+   "sourceRef": {
+    "publisher": "旧藏实物",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "材料档案"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-39",
+   "source": "classic",
+   "category": "housing",
+   "year": "1990s",
+   "title": "目录排版到数据表格 UI 的谱系",
+   "summary": "从悬挂缩进名录行到电子表格/列表行的视觉连续性。",
+   "detail": "今日商家列表 UI 的排版基因可追溯至名录行。",
+   "sourceRef": {
+    "publisher": "TurnKey",
+    "url": "https://turnkeydirectories.com/history-of-the-underlying-technologies-behind-internet-business-directories-and-maps/"
+   },
+   "tags": {
+    "media": "数字",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "界面谱系"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.696,
+    "lat": 39.212,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-40",
+   "source": "classic",
+   "category": "housing",
+   "year": "1990s-2000s",
+   "title": "早期在线目录的信息架构继承",
+   "summary": "yellowpages.cc 域名体系（75 国）对印刷类目结构的直接继承。",
+   "detail": "「.cc 域名=印刷版图的数字拓印」，可做域名学采集。",
+   "sourceRef": {
+    "publisher": "Wikipedia / yellowpages.az",
+    "url": "https://yellowpages.az/en/about-yellow-pages/"
+   },
+   "tags": {
+    "media": "数字",
+    "form": "",
+    "region": "全球",
+    "era": "",
+    "theme": "信息架构"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-41",
+   "source": "classic",
+   "category": "housing",
+   "year": "2010s",
+   "title": "YP app 的「去页化」改版",
+   "summary": "移动应用时代手掌图形脱离书页的重新设计。",
+   "detail": "符号迁移：从「翻书的手」到「点击的手」，手势不变、介质消失。",
+   "sourceRef": {
+    "publisher": "David Airey",
+    "url": "https://www.davidairey.com/project/yellow-pages"
+   },
+   "tags": {
+    "media": "数字",
+    "form": "",
+    "region": "美国",
+    "era": "",
+    "theme": "品牌重塑"
+   },
+   "verify": "partial",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": {
+    "scope": "world",
+    "lng": -77.152,
+    "lat": 38.312,
+    "place": "美国·华盛顿"
+   }
+  },
+  {
+   "id": "GL-FRM-42",
+   "source": "classic",
+   "category": "housing",
+   "year": "2000-今",
+   "title": "分类浏览 vs 搜索框的检索路径",
+   "summary": "黄页训练出的「先想类目再找人」心智与搜索框「直给」心智的差异。",
+   "detail": "「类目心智」并未消失——电商类目树仍是其直系后裔。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "数字",
+    "form": "",
+    "region": "全球",
+    "era": "",
+    "theme": "交互范式"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-43",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "厚书握持与翻阅人体工学",
+   "summary": "超大厚度黄页的单手持握、翻页、压页行为。",
+   "detail": "重量、开本、装订方式的人体工学档案（如「黄页当板砖」的厚度梗）。",
+   "sourceRef": {
+    "publisher": "旧黄页实物",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "物理交互"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-44",
+   "source": "classic",
+   "category": "food",
+   "year": "20世纪",
+   "title": "用户标记行为：折角/便签/圈画",
+   "summary": "使用者在黄页上的折角、铅笔圈画、便利贴标记。",
+   "detail": "「使用痕迹」即前数字时代的「浏览历史」，是被忽视的设计反馈层。",
+   "sourceRef": {
+    "publisher": "旧藏实物",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "使用痕迹"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-45",
+   "source": "classic",
+   "category": "housing",
+   "year": "1990s-今",
+   "title": "「实体数据库」隐喻对界面语言的影响",
+   "summary": "滚动「页」、翻页动画、名片式商家卡片等界面隐喻的黄页源头。",
+   "detail": "拟物化（skeuomorphism）设计中黄页贡献的隐喻清单，待系统梳理。",
+   "sourceRef": {
+    "publisher": "（线索）",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "数字",
+    "form": "",
+    "region": "全球",
+    "era": "",
+    "theme": "界面谱系"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-46",
+   "source": "classic",
+   "category": "housing",
+   "year": "20世纪",
+   "title": "年度再版的时间性设计",
+   "summary": "「本年度有效」的版式声明、年份大字、过期作废的商业节律。",
+   "detail": "设计如何应对「内容即期性」：每年一次的信息重置仪式。",
+   "sourceRef": {
+    "publisher": "旧黄页实物",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "印刷",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "时间设计"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-47",
+   "source": "classic",
+   "category": "housing",
+   "year": "2000-今",
+   "title": "黄页纸二次利用的设计实验",
+   "summary": "以黄页纸为材料的再生纸、包装、纸浆模塑设计。",
+   "detail": "信息废物向材料资源的转化设计，与 Long-Bin Chen 互文。",
+   "sourceRef": {
+    "publisher": "手作/设计社区",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "实物",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "可持续设计"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-48",
+   "source": "classic",
+   "category": "housing",
+   "year": "2015-今",
+   "title": "现代设计中的黄页美学复兴",
+   "summary": "复古黄+粗黑无衬线+密排网格的当代海报/UI 练习。",
+   "detail": "「黄页风」作为可命名的视觉风格进入当代设计语汇。",
+   "sourceRef": {
+    "publisher": "Behance 类平台",
+    "url": "（待采集）"
+   },
+   "tags": {
+    "media": "数字",
+    "form": "",
+    "region": "全球",
+    "era": "",
+    "theme": "复古设计"
+   },
+   "verify": "lead",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-49",
+   "source": "classic",
+   "category": "housing",
+   "year": "2026",
+   "title": "数据密度最大化版式原则总结",
+   "summary": "基于本档案已核实条目归纳：小字号系统/层级字重/功能配色/物理索引/版面经济五原则。",
+   "detail": "方法性条目：把分散在各条目的形式发现沉淀为可复用原则。",
+   "sourceRef": {
+    "publisher": "本档案综合",
+    "url": "（本档案生成）"
+   },
+   "tags": {
+    "media": "文",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "方法"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  },
+  {
+   "id": "GL-FRM-50",
+   "source": "classic",
+   "category": "transport",
+   "year": "2026",
+   "title": "黄页五锚点形式解构图版",
+   "summary": "行走手指（图形）/Bell 字体（字形）/JR Hartley（叙事）/Not happy Jan（语调）/Long-Bin Chen（材料）五锚点的形式要素拆解。",
+   "detail": "与 ART-50 成对：前者偏艺术档案定位，本条目偏形式语言拆解。",
+   "sourceRef": {
+    "publisher": "本档案综合",
+    "url": "（本档案生成）"
+   },
+   "tags": {
+    "media": "数字",
+    "form": "",
+    "region": "跨国",
+    "era": "",
+    "theme": "方法"
+   },
+   "verify": "verified",
+   "media": {
+    "front": null,
+    "back": null
+   },
+   "mapLink": null
+  }
+ ]
+}
